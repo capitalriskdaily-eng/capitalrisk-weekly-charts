@@ -1,0 +1,20 @@
+{
+  "release": "36230136359",
+  "source_run": 36230136359,
+  "charts": [
+    "eurusd.png",
+    "usdjpy.png",
+    "gbpusd.png",
+    "usdchf.png",
+    "usdcad.png",
+    "audusd.png",
+    "nzdusd.png",
+    "xauusd.png",
+    "xagusd.png",
+    "usa500.png",
+    "usatech.png",
+    "deu40.png",
+    "wti.png",
+    "brent.png"
+  ]
+}
