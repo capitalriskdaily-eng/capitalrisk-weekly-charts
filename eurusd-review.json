@@ -1,0 +1,59 @@
+{
+  "instrument": "EURUSD",
+  "as_of": "2026-09-25T20:00:00.058000+00:00",
+  "source_run": 36339093321,
+  "status": "UNRESOLVED",
+  "state": "The market is in a structural transition: the previous regime has lost part of its control while competing behavior is becoming more important.",
+  "display_states": [
+    {
+      "label": "Continuation",
+      "value": 33.7,
+      "change_arrow": "\u2192"
+    },
+    {
+      "label": "Re-acceleration",
+      "value": 17.3,
+      "change_arrow": "\u2191"
+    },
+    {
+      "label": "Transition pressure",
+      "value": 75.3,
+      "change_arrow": "\u2192"
+    },
+    {
+      "label": "Compression",
+      "value": 65.8,
+      "change_arrow": "\u2192"
+    },
+    {
+      "label": "Balance / chop",
+      "value": 94.5,
+      "change_arrow": "\u2192"
+    },
+    {
+      "label": "Structural quality",
+      "value": "erratic",
+      "change_arrow": "\u2192"
+    }
+  ],
+  "paragraphs": [
+    "Current State\nEURUSD is currently in an unresolved structural transition. The previous regime has lost part of its control as competing behavior becomes increasingly relevant, leaving no single structural development dominant enough to establish a clear directional lead. The active structure remains in a developing rather than mature phase, characterized by contracting volatility, a constrained market state, and an erratic formation that lacks consistent internal organization. Shorter-horizon behavior is neutral and adds little independent directional information, while the broader structural context is mixed to neutral rather than fully aligned with immediate movement.",
+    "Structural Development\nThe defining characteristic of the present structure is the consistency of the compression itself rather than directional control. However, increasingly organized opposing pressure is materially challenging the current state and reducing the dominance of the prior structure. Overall structural quality remains erratic, with irregular formation behavior limiting analytical clarity.",
+    "Permitted Paths\nWith no primary development established, the market is defined by two alternative permitted paths:",
+    "Unstable transition: Control repeatedly shifts without establishing a stable replacement regime. This remains valid while the previous regime loses structural control and competing behavior gains relevance. The path strengthens if competing structure develops persistence while the prior structure continues to lose efficiency. It weakens if the previous structure recovers efficiency and competing pressure fades, and it is invalidated if the previous regime reasserts itself or a new regime becomes established.\nDisorderly chop / unstable balance: High alternation and irregular timing prevent coherent directional control, remaining valid while neither side maintains sufficient persistent control to dominate. This condition persists and strengthens as long as opposing movements stay balanced without either side developing superior efficiency. It weakens when one side begins to secure a persistent structural advantage, and it ends once a directional expansion or regime transition becomes established."
+  ],
+  "text": "**Current State**  \nEURUSD is currently in an unresolved structural transition. The previous regime has lost part of its control as competing behavior becomes increasingly relevant, leaving no single structural development dominant enough to establish a clear directional lead. The active structure remains in a developing rather than mature phase, characterized by contracting volatility, a constrained market state, and an erratic formation that lacks consistent internal organization. Shorter-horizon behavior is neutral and adds little independent directional information, while the broader structural context is mixed to neutral rather than fully aligned with immediate movement.\n\n**Structural Development**  \nThe defining characteristic of the present structure is the consistency of the compression itself rather than directional control. However, increasingly organized opposing pressure is materially challenging the current state and reducing the dominance of the prior structure. Overall structural quality remains erratic, with irregular formation behavior limiting analytical clarity.\n\n**Permitted Paths**  \nWith no primary development established, the market is defined by two alternative permitted paths:\n\n- **Unstable transition:** Control repeatedly shifts without establishing a stable replacement regime. This remains valid while the previous regime loses structural control and competing behavior gains relevance. The path strengthens if competing structure develops persistence while the prior structure continues to lose efficiency. It weakens if the previous structure recovers efficiency and competing pressure fades, and it is invalidated if the previous regime reasserts itself or a new regime becomes established.\n- **Disorderly chop / unstable balance:** High alternation and irregular timing prevent coherent directional control, remaining valid while neither side maintains sufficient persistent control to dominate. This condition persists and strengthens as long as opposing movements stay balanced without either side developing superior efficiency. It weakens when one side begins to secure a persistent structural advantage, and it ends once a directional expansion or regime transition becomes established.",
+  "writer": {
+    "model": "gemini-3.8-flash",
+    "source_packet_sha256": "d4230aa99cad3683569a9ed07a62dfd108c8548e910d9ad98a699c4645d73e4b",
+    "boundary": {
+      "input": "AI_SAFE_EDITORIAL_PACKET_ONLY",
+      "chart_sent_to_ai": false,
+      "private_part3_sent_to_ai": false,
+      "tools_enabled": false,
+      "search_grounding_enabled": false,
+      "external_knowledge_allowed": false,
+      "new_analysis_allowed": false
+    }
+  }
+}
