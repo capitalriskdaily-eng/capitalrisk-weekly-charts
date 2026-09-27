@@ -1,0 +1,105 @@
+name: Promote proven 14 PNGs once
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/promote-proof-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    if: github.event.head_commit.message == 'Add one-time proven PNG promotion'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Pull exact successful proof artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/capitalrisk-proof
+
+          fetch_one() {
+            ASSET="$1"
+            SLUG="$2"
+            URL="$3"
+            ZIP="/tmp/capitalrisk-proof/$ASSET.zip"
+            DIR="/tmp/capitalrisk-proof/$ASSET"
+            mkdir -p "$DIR"
+            curl -L --fail --retry 3 --retry-delay 2 "$URL" -o "$ZIP"
+            unzip -q "$ZIP" -d "$DIR"
+            SRC="$(find "$DIR" -type f -name "CAPITALRISK-$ASSET.png" -print -quit)"
+            test -n "$SRC"
+            cp "$SRC" "$SLUG.png"
+          }
+
+          fetch_one EURUSD eurusd 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-f200-8210-b5c4-2bccb1cfbfd9/raw?se=2026-09-27T12%3A08%3A53Z&sp=r&sv=2026-02-06&sr=b&scid=14e8fb9f-df2a-5a8c-a722-623860a5a68a&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T07%3A18%3A01Z&ske=2026-09-28T07%3A18%3A01Z&sks=b&skv=2026-02-06&sig=eHZiwWo5qiU3etYRrvV1kcAYNYtIqIGi8HQDJqq1rg0%3D'
+          fetch_one USDJPY usdjpy 'https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-d294-820a-865d-5810119d5c69/raw?se=2026-09-27T12%3A08%3A55Z&sp=r&sv=2026-02-06&sr=b&scid=31fad955-63b0-5753-9467-aad90f72b906&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T06%3A03%3A51Z&ske=2026-09-28T06%3A03%3A51Z&sks=b&skv=2026-02-06&sig=2mq5wJMvjTQV6wsqIkga4Inn7gTcFkpoAiooUSPQ1uc%3D'
+          fetch_one GBPUSD gbpusd 'https://sdmntprukwest.oaiusercontent.com/files/00000000-03d0-8243-91e6-d9e62d58e37b/raw?se=2026-09-27T12%3A08%3A58Z&sp=r&sv=2026-02-06&sr=b&scid=e38ba34a-9840-5098-9275-ac84f8f5d6c1&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T06%3A23%3A11Z&ske=2026-09-28T06%3A23%3A11Z&sks=b&skv=2026-02-06&sig=vsPBbl6YGfl/nm4dLLS/eZz4K2hH5DuRHT/VVv9YYxs%3D'
+          fetch_one USDCHF usdchf 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-dd0c-8210-98df-19972840cf16/raw?se=2026-09-27T12%3A09%3A00Z&sp=r&sv=2026-02-06&sr=b&scid=a38ec17e-4f88-548f-adb7-fd6287689f52&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T06%3A03%3A49Z&ske=2026-09-28T06%3A03%3A49Z&sks=b&skv=2026-02-06&sig=EPU8ff51n/9FKq4Gt1MKiBgTbhts3X7lR%2BnGlrwSee4%3D'
+          fetch_one USDCAD usdcad 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-235c-8210-b50e-947a34ed04dd/raw?se=2026-09-27T12%3A09%3A02Z&sp=r&sv=2026-02-06&sr=b&scid=9ad60b9d-7e48-5397-959a-14910153c38e&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T07%3A17%3A45Z&ske=2026-09-28T07%3A17%3A45Z&sks=b&skv=2026-02-06&sig=1pF%2B22eDP%2BkVPRvqD5pg6C6yqrdFO19w5C3AmZ35e%2Bc%3D'
+          fetch_one AUDUSD audusd 'https://sdmntprnortheu.oaiusercontent.com/files/00000000-3350-81f4-b43e-355ea9e5a24f/raw?se=2026-09-27T12%3A09%3A04Z&sp=r&sv=2026-02-06&sr=b&scid=42db7e4d-5374-577d-9e9a-49eb0553de60&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T07%3A18%3A50Z&ske=2026-09-28T07%3A18%3A50Z&sks=b&skv=2026-02-06&sig=EjBTJUYpyxDbUCgyKlij79fhRMiYQzCab/Tg5sBCecI%3D'
+          fetch_one NZDUSD nzdusd 'https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-47fc-820a-a536-5f2244fcb6aa/raw?se=2026-09-27T12%3A09%3A07Z&sp=r&sv=2026-02-06&sr=b&scid=a58dbf07-d0ae-5ce2-8ed6-5de9f1f9d770&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T07%3A18%3A50Z&ske=2026-09-28T07%3A18%3A50Z&sks=b&skv=2026-02-06&sig=3oT1KW42oh1AjSHD74I7DgvyKDd/24uIlBD%2B5K2NSV0%3D'
+          fetch_one XAUUSD xauusd 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-9988-8210-9d8c-3687f424e8b5/raw?se=2026-09-27T12%3A09%3A09Z&sp=r&sv=2026-02-06&sr=b&scid=dcf33291-c161-5319-80a1-b14684204d79&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T05%3A21%3A26Z&ske=2026-09-28T05%3A21%3A26Z&sks=b&skv=2026-02-06&sig=6UeC%2BDTE6kRmZ3WxADZ0usQ9ljek9XOXWCbaxKf03gs%3D'
+          fetch_one XAGUSD xagusd 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-05fc-8210-a676-bd6f7770d20a/raw?se=2026-09-27T12%3A09%3A11Z&sp=r&sv=2026-02-06&sr=b&scid=97cc8e1b-4ff4-5767-a036-12200a4c1d5e&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T05%3A21%3A25Z&ske=2026-09-28T05%3A21%3A25Z&sks=b&skv=2026-02-06&sig=4T17niGpuGqNKblsxOHirtYRfnLReYpj73ZaYQoohdU%3D'
+          fetch_one USA500 usa500 'https://sdmntprnortheu.oaiusercontent.com/files/00000000-ca08-81f4-9288-ee89da0e6975/raw?se=2026-09-27T12%3A09%3A13Z&sp=r&sv=2026-02-06&sr=b&scid=bcf8d1c6-6f9f-5b36-9984-be31d7ddcd83&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T04%3A00%3A45Z&ske=2026-09-28T04%3A00%3A45Z&sks=b&skv=2026-02-06&sig=mAdudHYfzMs2rtL4Tfj3NVPq9qSF2zW4OGdOsMRi/HE%3D'
+          fetch_one USATECH usatech 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-5af8-8210-a336-70226b64ca92/raw?se=2026-09-27T12%3A09%3A16Z&sp=r&sv=2026-02-06&sr=b&scid=5d6b0779-b76d-5c20-856e-891c8a828467&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T04%3A22%3A28Z&ske=2026-09-28T04%3A22%3A28Z&sks=b&skv=2026-02-06&sig=8rmPH4IFNWpmBBYNYPUBFTNCylVegd3VGBsJ37TZFBk%3D'
+          fetch_one DEU40 deu40 'https://sdmntpritalynorth.oaiusercontent.com/files/00000000-0cbc-8246-88f2-42a1d2eb241e/raw?se=2026-09-27T12%3A09%3A18Z&sp=r&sv=2026-02-06&sr=b&scid=85043cab-5b71-547c-8f8f-2cb4cf4211e2&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T02%3A37%3A36Z&ske=2026-09-28T02%3A37%3A36Z&sks=b&skv=2026-02-06&sig=hL%2BjtbNrPKkMFejlykDlpOEvrMr4s/jn0eXhXJUVk8Q%3D'
+          fetch_one WTI wti 'https://sdmntpritalynorth.oaiusercontent.com/files/00000000-afc4-8246-b7e3-34da684a22cd/raw?se=2026-09-27T12%3A09%3A19Z&sp=r&sv=2026-02-06&sr=b&scid=1705e574-bf35-52df-96cb-d939d18f38c7&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T05%3A00%3A11Z&ske=2026-09-28T05%3A00%3A11Z&sks=b&skv=2026-02-06&sig=WFeEIqPt05nX9UZ0f991994zX5PP1qJoDdcolEPslYE%3D'
+          fetch_one BRENT brent 'https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-32a4-8210-af5a-1d9f32d0c78c/raw?se=2026-09-27T12%3A09%3A21Z&sp=r&sv=2026-02-06&sr=b&scid=688b2265-9571-5db0-87df-832efe82c327&skoid=a0b9f82a-c86e-4064-a822-2aa38890bb37&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-27T06%3A44%3A51Z&ske=2026-09-28T06%3A44%3A51Z&sks=b&skv=2026-02-06&sig=dmo1MU6a9UQ7cBNw2Lr7o7dt17hDjgYwk/2gRrnCth4%3D'
+
+      - name: Verify all 14 PNGs
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import struct
+          names = ["eurusd","usdjpy","gbpusd","usdchf","usdcad","audusd","nzdusd","xauusd","xagusd","usa500","usatech","deu40","wti","brent"]
+          for n in names:
+              p=Path(f"{n}.png")
+              assert p.is_file() and p.stat().st_size > 100000, n
+              with p.open("rb") as f:
+                  assert f.read(8) == b"\x89PNG\r\n\x1a\n"
+                  length=struct.unpack(">I",f.read(4))[0]
+                  assert f.read(4) == b"IHDR"
+                  w,h=struct.unpack(">II",f.read(8))
+              assert (w,h)==(4950,1843), (n,w,h)
+          print("PASS — 14 / 14 proven PNGs")
+          PY
+
+      - name: Write manifest
+        run: |
+          cat > manifest.json <<'JSON'
+          {
+            "release": "36273559886",
+            "source_run": 36273559886,
+            "charts": [
+              "eurusd.png",
+              "usdjpy.png",
+              "gbpusd.png",
+              "usdchf.png",
+              "usdcad.png",
+              "audusd.png",
+              "nzdusd.png",
+              "xauusd.png",
+              "xagusd.png",
+              "usa500.png",
+              "usatech.png",
+              "deu40.png",
+              "wti.png",
+              "brent.png"
+            ]
+          }
+          JSON
+
+      - name: Publish atomically
+        run: |
+          git config user.name "capitalrisk-production"
+          git config user.email "capitalrisk-production@users.noreply.github.com"
+          git add eurusd.png usdjpy.png gbpusd.png usdchf.png usdcad.png audusd.png nzdusd.png xauusd.png xagusd.png usa500.png usatech.png deu40.png wti.png brent.png manifest.json
+          test "$(git diff --cached --name-only | wc -l)" -ge 15
+          git commit -m "Publish proven weekly charts from run 36273559886"
+          git push origin main
