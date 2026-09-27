@@ -4,50 +4,54 @@
       "as_of": "2026-09-25T20:00:00.058000+00:00",
       "image": "eurusd.png",
       "status": "UNRESOLVED",
-      "state": "The market is in a structural transition: the previous regime has lost part of its control while competing behavior is becoming more important.",
+      "state": "The engine is separating immediate downside pressure from broader regime quality. The bearish leg is real, but the broader state remains transition/chop rather than a clean directional regime.",
       "display_states": [
         {
           "label": "Continuation",
-          "value": 33.7,
-          "change_arrow": "\u2192"
+          "value": "34.3 \u2192 33.7",
+          "change_arrow": ""
         },
         {
           "label": "Re-acceleration",
-          "value": 17.3,
-          "change_arrow": "\u2191"
+          "value": "14.1 \u2192 17.3",
+          "change_arrow": ""
         },
         {
           "label": "Transition pressure",
-          "value": 75.3,
-          "change_arrow": "\u2192"
+          "value": "75.2 \u2192 75.3",
+          "change_arrow": ""
         },
         {
           "label": "Compression",
-          "value": 65.8,
-          "change_arrow": "\u2192"
+          "value": "65.8 \u2192 65.8",
+          "change_arrow": ""
         },
         {
           "label": "Balance / chop",
-          "value": 94.5,
-          "change_arrow": "\u2192"
+          "value": "94.0 \u2192 94.5",
+          "change_arrow": ""
         },
         {
           "label": "Structural quality",
-          "value": "erratic",
-          "change_arrow": "\u2192"
+          "value": "erratic \u00b7 stable",
+          "change_arrow": ""
         }
       ],
       "paragraphs": [
-        "Current State\nEURUSD is currently in an unresolved structural transition. The previous regime has lost part of its control as competing behavior becomes increasingly relevant, leaving no single structural development dominant enough to establish a clear directional lead. The active structure remains in a developing rather than mature phase, characterized by contracting volatility, a constrained market state, and an erratic formation that lacks consistent internal organization. Shorter-horizon behavior is neutral and adds little independent directional information, while the broader structural context is mixed to neutral rather than fully aligned with immediate movement.",
-        "Structural Development\nThe defining characteristic of the present structure is the consistency of the compression itself rather than directional control. However, increasingly organized opposing pressure is materially challenging the current state and reducing the dominance of the prior structure. Overall structural quality remains erratic, with irregular formation behavior limiting analytical clarity.",
-        "Permitted Paths\nWith no primary development established, the market is defined by two alternative permitted paths:",
-        "Unstable transition: Control repeatedly shifts without establishing a stable replacement regime. This remains valid while the previous regime loses structural control and competing behavior gains relevance. The path strengthens if competing structure develops persistence while the prior structure continues to lose efficiency. It weakens if the previous structure recovers efficiency and competing pressure fades, and it is invalidated if the previous regime reasserts itself or a new regime becomes established.\nDisorderly chop / unstable balance: High alternation and irregular timing prevent coherent directional control, remaining valid while neither side maintains sufficient persistent control to dominate. This condition persists and strengthens as long as opposing movements stay balanced without either side developing superior efficiency. It weakens when one side begins to secure a persistent structural advantage, and it ends once a directional expansion or regime transition becomes established."
+        "ENGINE READ\nThe latest completed Renko sequence is 6 consecutive bearish bricks, ending at 1.13900. The immediate move is directional, but the wider engine state is not a clean trend: balance/range is 94.5, reversal/transition 75.3, compression 65.8, while clean continuation is only 19.1. Timing consistency is low and the recent run sequence remains highly alternating. The engine is separating immediate downside pressure from broader regime quality. The bearish leg is real, but the broader state remains transition/chop rather than a clean directional regime.",
+        "STRUCTURE & PRESSURE\nRecent signed Renko runs are +2, -2, +1, -2, +1, -4, +1, -6, +1, -1, +2, -6. The latest -6 run is therefore a real downside burst inside a broader sequence that has repeatedly changed control. Confirmed swing structure is lh_ll and directed down. Price is now below the latest confirmed swing low at 1.14550, so the current leg has extended beyond that pivot. The latest confirmed swing high is 1.16400. LR150-S8 is falling at 1.16086 with price 218.6 pips below it. SAR is at 1.14808, 90.8 pips above price. Opposing wick pressure is low and stable, so the current downside run is not being met by a strong increase in opposing wick rejection.",
+        "PATTERN & VOLATILITY\nBollinger width is expanded but contracting. Price is below the middle band at 1.14295 and 44.2 pips above the lower band at 1.13458. The move is occurring in a still-wide but narrowing volatility envelope. A bull Developing Bat is still live, with D at 1.13900. Its X point at 1.13531, D at 1.13900, the older swing-low area around 1.15800, and the lower Bollinger band at 1.13458 sit in the same lower-price region. The pattern is therefore a genuine counter-structure feature, but the engine has not promoted it to a confirmed reversal because the confirmed swing structure remains down and Part 3 is still unresolved.",
+        "WHAT CHANGES THE READ\n{\"primary_outcome\": null, \"alternatives\": [{\"label\": \"Unstable transition\", \"meaning\": \"Control repeatedly shifts without a stable replacement regime.\", \"stage\": \"established\", \"quality\": \"erratic\", \"volatility_modifier\": \"stable\", \"support_index\": 70.7, \"remains_valid_if\": [\"rapid state switching\", \"erratic Brick Time\", \"frequent alternation\"], \"strengthens_if\": [\"rapid state switching\", \"erratic Brick Time\", \"frequent alternation\", \"conflicting wicks\", \"repeated local flips\"], \"weakens_if\": [\"one side gains coherent run/pace control\"], \"invalidated_if\": [\"directional regime or stable range replaces instability\"]}, {\"label\": \"Disorderly chop / unstable balance\", \"meaning\": \"High alternation and irregular timing prevent coherent directional control.\", \"stage\": \"developing\", \"quality\": \"erratic\", \"volatility_modifier\": \"contracting\", \"support_index\": 65.4, \"remains_valid_if\": [\"short alternating runs\", \"timing inconsistent\", \"mixed wicks\"], \"strengthens_if\": [\"short alternating runs\", \"timing inconsistent\", \"mixed wicks\", \"zigzag unclear/range\", \"local flips frequent\"], \"weakens_if\": [\"one side develops consistent runs and timing\"], \"invalidated_if\": [\"directional state or orderly range replaces disorder\"]}], \"current_state\": {\"broad_condition\": \"transitional\", \"dominant_direction\": \"none\", \"structural_quality\": \"erratic\", \"quality_change\": \"stable\", \"dominant_pace\": \"stable\", \"counter_pace\": \"stable\", \"timing_consistency\": \"low\", \"opposing_wick_pressure\": \"low\", \"zigzag\": {\"direction\": \"down\", \"alignment\": \"neutral\", \"structure\": \"lh_ll\", \"swing_change\": \"expanding\"}, \"harmonic\": {\"present\": true, \"family\": \"Bat\", \"orientation\": \"bull\", \"stage\": \"developing\", \"behavior\": \"still_developing\"}, \"bollinger\": {\"width_state\": \"expanded\", \"width_change\": \"contracting\", \"pressure\": \"none\", \"behavior\": \"neutral\"}, \"lr150_s8\": {\"slope\": \"down\", \"price_relation\": \"below\", \"displacement\": \"high\", \"alignment\": \"neutral\"}, \"sar\": {\"state\": \"neutral\"}}}"
       ],
-      "text": "**Current State**  \nEURUSD is currently in an unresolved structural transition. The previous regime has lost part of its control as competing behavior becomes increasingly relevant, leaving no single structural development dominant enough to establish a clear directional lead. The active structure remains in a developing rather than mature phase, characterized by contracting volatility, a constrained market state, and an erratic formation that lacks consistent internal organization. Shorter-horizon behavior is neutral and adds little independent directional information, while the broader structural context is mixed to neutral rather than fully aligned with immediate movement.\n\n**Structural Development**  \nThe defining characteristic of the present structure is the consistency of the compression itself rather than directional control. However, increasingly organized opposing pressure is materially challenging the current state and reducing the dominance of the prior structure. Overall structural quality remains erratic, with irregular formation behavior limiting analytical clarity.\n\n**Permitted Paths**  \nWith no primary development established, the market is defined by two alternative permitted paths:\n\n- **Unstable transition:** Control repeatedly shifts without establishing a stable replacement regime. This remains valid while the previous regime loses structural control and competing behavior gains relevance. The path strengthens if competing structure develops persistence while the prior structure continues to lose efficiency. It weakens if the previous structure recovers efficiency and competing pressure fades, and it is invalidated if the previous regime reasserts itself or a new regime becomes established.\n- **Disorderly chop / unstable balance:** High alternation and irregular timing prevent coherent directional control, remaining valid while neither side maintains sufficient persistent control to dominate. This condition persists and strengthens as long as opposing movements stay balanced without either side developing superior efficiency. It weakens when one side begins to secure a persistent structural advantage, and it ends once a directional expansion or regime transition becomes established.",
+      "text": "ENGINE READ\nThe latest completed Renko sequence is 6 consecutive bearish bricks, ending at 1.13900. The immediate move is directional, but the wider engine state is not a clean trend: balance/range is 94.5, reversal/transition 75.3, compression 65.8, while clean continuation is only 19.1. Timing consistency is low and the recent run sequence remains highly alternating. The engine is separating immediate downside pressure from broader regime quality. The bearish leg is real, but the broader state remains transition/chop rather than a clean directional regime.\n\nSTRUCTURE & PRESSURE\nRecent signed Renko runs are +2, -2, +1, -2, +1, -4, +1, -6, +1, -1, +2, -6. The latest -6 run is therefore a real downside burst inside a broader sequence that has repeatedly changed control. Confirmed swing structure is lh_ll and directed down. Price is now below the latest confirmed swing low at 1.14550, so the current leg has extended beyond that pivot. The latest confirmed swing high is 1.16400. LR150-S8 is falling at 1.16086 with price 218.6 pips below it. SAR is at 1.14808, 90.8 pips above price. Opposing wick pressure is low and stable, so the current downside run is not being met by a strong increase in opposing wick rejection.\n\nPATTERN & VOLATILITY\nBollinger width is expanded but contracting. Price is below the middle band at 1.14295 and 44.2 pips above the lower band at 1.13458. The move is occurring in a still-wide but narrowing volatility envelope. A bull Developing Bat is still live, with D at 1.13900. Its X point at 1.13531, D at 1.13900, the older swing-low area around 1.15800, and the lower Bollinger band at 1.13458 sit in the same lower-price region. The pattern is therefore a genuine counter-structure feature, but the engine has not promoted it to a confirmed reversal because the confirmed swing structure remains down and Part 3 is still unresolved.\n\nWHAT CHANGES THE READ\n{\"primary_outcome\": null, \"alternatives\": [{\"label\": \"Unstable transition\", \"meaning\": \"Control repeatedly shifts without a stable replacement regime.\", \"stage\": \"established\", \"quality\": \"erratic\", \"volatility_modifier\": \"stable\", \"support_index\": 70.7, \"remains_valid_if\": [\"rapid state switching\", \"erratic Brick Time\", \"frequent alternation\"], \"strengthens_if\": [\"rapid state switching\", \"erratic Brick Time\", \"frequent alternation\", \"conflicting wicks\", \"repeated local flips\"], \"weakens_if\": [\"one side gains coherent run/pace control\"], \"invalidated_if\": [\"directional regime or stable range replaces instability\"]}, {\"label\": \"Disorderly chop / unstable balance\", \"meaning\": \"High alternation and irregular timing prevent coherent directional control.\", \"stage\": \"developing\", \"quality\": \"erratic\", \"volatility_modifier\": \"contracting\", \"support_index\": 65.4, \"remains_valid_if\": [\"short alternating runs\", \"timing inconsistent\", \"mixed wicks\"], \"strengthens_if\": [\"short alternating runs\", \"timing inconsistent\", \"mixed wicks\", \"zigzag unclear/range\", \"local flips frequent\"], \"weakens_if\": [\"one side develops consistent runs and timing\"], \"invalidated_if\": [\"directional state or orderly range replaces disorder\"]}], \"current_state\": {\"broad_condition\": \"transitional\", \"dominant_direction\": \"none\", \"structural_quality\": \"erratic\", \"quality_change\": \"stable\", \"dominant_pace\": \"stable\", \"counter_pace\": \"stable\", \"timing_consistency\": \"low\", \"opposing_wick_pressure\": \"low\", \"zigzag\": {\"direction\": \"down\", \"alignment\": \"neutral\", \"structure\": \"lh_ll\", \"swing_change\": \"expanding\"}, \"harmonic\": {\"present\": true, \"family\": \"Bat\", \"orientation\": \"bull\", \"stage\": \"developing\", \"behavior\": \"still_developing\"}, \"bollinger\": {\"width_state\": \"expanded\", \"width_change\": \"contracting\", \"pressure\": \"none\", \"behavior\": \"neutral\"}, \"lr150_s8\": {\"slope\": \"down\", \"price_relation\": \"below\", \"displacement\": \"high\", \"alignment\": \"neutral\"}, \"sar\": {\"state\": \"neutral\"}}}",
       "review_file": "eurusd-review.json",
-      "source_run": 36339093321
+      "source_run": 36339093321,
+      "review_run": 36343608332,
+      "review_version": "deep-v3",
+      "writer_source": "deterministic"
     }
   },
-  "release": "eurusd-36339093321",
-  "source_run": 36339093321
+  "release": "eurusd-review-36343608332",
+  "source_run": 36339093321,
+  "review_run": 36343608332
 }
