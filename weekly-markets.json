@@ -4,54 +4,71 @@
       "as_of": "2026-09-25T20:00:00.058000+00:00",
       "image": "eurusd.png",
       "status": "UNRESOLVED",
-      "state": "Price is moving lower, but the wider picture is still mixed. The current move has pressure behind it without becoming a clean, sustained downtrend.",
+      "state": "EURUSD has extended lower to break structure, but low timing consistency and elevated chop keep the market in an unresolved, unstable transition.",
       "display_states": [
         {
           "label": "Continuation",
+          "previous": 34.3,
+          "current": 33.7,
+          "delta": -0.6,
           "value": "34.3 \u2192 33.7",
-          "change_arrow": ""
+          "change_arrow": "\u2193"
         },
         {
           "label": "Re-acceleration",
+          "previous": 14.1,
+          "current": 17.3,
+          "delta": 3.2,
           "value": "14.1 \u2192 17.3",
-          "change_arrow": ""
+          "change_arrow": "\u2191"
         },
         {
           "label": "Transition pressure",
+          "previous": 75.2,
+          "current": 75.3,
+          "delta": 0.1,
           "value": "75.2 \u2192 75.3",
-          "change_arrow": ""
+          "change_arrow": "\u2191"
         },
         {
           "label": "Compression",
+          "previous": 65.8,
+          "current": 65.8,
+          "delta": 0.0,
           "value": "65.8 \u2192 65.8",
-          "change_arrow": ""
+          "change_arrow": "\u2192"
         },
         {
           "label": "Balance / chop",
+          "previous": 94.0,
+          "current": 94.5,
+          "delta": 0.5,
           "value": "94.0 \u2192 94.5",
-          "change_arrow": ""
+          "change_arrow": "\u2191"
         },
         {
           "label": "Structural quality",
-          "value": "erratic \u00b7 stable",
-          "change_arrow": ""
+          "previous": null,
+          "current": "erratic",
+          "delta": null,
+          "value": "erratic",
+          "change_arrow": "\u2192"
         }
       ],
       "paragraphs": [
-        "CURRENT PICTURE\nPrice has fallen for 6 Renko bricks in a row. The move is real, but the wider picture is still mixed rather than a clean downtrend. Balance/chop remains high at 94.5, while trend continuation is much lower at 19.1. The latest readings also changed only slightly: continuation 34.3 \u2192 33.7 and balance/chop 94.0 \u2192 94.5. In plain terms, price moved down faster than the wider picture changed.",
-        "STRUCTURE & PRESSURE\nThe confirmed swing pattern is lower highs and lower lows. The latest confirmed low is 1.14550 and the latest confirmed high is 1.16400. LR150-S8 is falling at 1.16086, above price. SAR is also above price at 1.14808. Opposing wick pressure is low and stable, moving from 0.7726 to 0.6019. The weak point is consistency: recent runs keep flipping direction, so the move is not yet clean.",
-        "PATTERN & VOLATILITY\nBollinger Bands are expanded but contracting. Price is below the middle band at 1.14295. The lower band is 1.13458 and the upper band is 1.15132, so volatility is still broad even as the bands begin to narrow. A bullish Bat pattern is still developing, with D at 1.13900. It points against the current down move, so it is a possible counter-move signal rather than confirmation that price has reversed.",
-        "WHAT WOULD CHANGE THIS\nThe picture becomes clearer when one side holds control for longer, with more consistent runs and steadier timing. A stable sideways range would also replace the current mixed behavior. Until one of those changes appears, another isolated move up or down is not enough to call a lasting trend."
+        "A six-brick downward run has pushed price to 1.139, breaking below the latest confirmed swing low of 1.1455 within an expanding lower-high and lower-low sequence. Despite this structural break, the deterministic read remains unresolved. Control repeatedly changes hands rather than settling into a sustained directional move, as frequent run alternation and erratic quality prevent either side from establishing clear control.",
+        "The underlying metrics explain why the downward break has not produced a stable trend. Balance and chop dominate at 94.5, while transition pressure remains elevated at 75.3. Continuation has eased from 34.3 to 33.7, even as re-acceleration notched a minor increase from 14.1 to 17.3. Price is displaced far below the downward-sloping reference level at 1.16086 and below the neutral 1.14808 marker, but low timing consistency and fragmented alternating runs keep the price action disorderly rather than directional.",
+        "An active, developing bullish Bat pattern presents an immediate structural conflict against the prevailing descent. The current diagnosis of unstable transition and disorderly balance will remain valid as long as erratic timing and rapid reversals persist. This unresolved state would weaken only if one side develops consistent runs, steady pace, and coherent directional follow-through to replace the current instability."
       ],
-      "text": "CURRENT PICTURE\nPrice has fallen for 6 Renko bricks in a row. The move is real, but the wider picture is still mixed rather than a clean downtrend. Balance/chop remains high at 94.5, while trend continuation is much lower at 19.1. The latest readings also changed only slightly: continuation 34.3 \u2192 33.7 and balance/chop 94.0 \u2192 94.5. In plain terms, price moved down faster than the wider picture changed.\n\nSTRUCTURE & PRESSURE\nThe confirmed swing pattern is lower highs and lower lows. The latest confirmed low is 1.14550 and the latest confirmed high is 1.16400. LR150-S8 is falling at 1.16086, above price. SAR is also above price at 1.14808. Opposing wick pressure is low and stable, moving from 0.7726 to 0.6019. The weak point is consistency: recent runs keep flipping direction, so the move is not yet clean.\n\nPATTERN & VOLATILITY\nBollinger Bands are expanded but contracting. Price is below the middle band at 1.14295. The lower band is 1.13458 and the upper band is 1.15132, so volatility is still broad even as the bands begin to narrow. A bullish Bat pattern is still developing, with D at 1.13900. It points against the current down move, so it is a possible counter-move signal rather than confirmation that price has reversed.\n\nWHAT WOULD CHANGE THIS\nThe picture becomes clearer when one side holds control for longer, with more consistent runs and steadier timing. A stable sideways range would also replace the current mixed behavior. Until one of those changes appears, another isolated move up or down is not enough to call a lasting trend.",
+      "text": "A six-brick downward run has pushed price to 1.139, breaking below the latest confirmed swing low of 1.1455 within an expanding lower-high and lower-low sequence. Despite this structural break, the deterministic read remains unresolved. Control repeatedly changes hands rather than settling into a sustained directional move, as frequent run alternation and erratic quality prevent either side from establishing clear control.\n\nThe underlying metrics explain why the downward break has not produced a stable trend. Balance and chop dominate at 94.5, while transition pressure remains elevated at 75.3. Continuation has eased from 34.3 to 33.7, even as re-acceleration notched a minor increase from 14.1 to 17.3. Price is displaced far below the downward-sloping reference level at 1.16086 and below the neutral 1.14808 marker, but low timing consistency and fragmented alternating runs keep the price action disorderly rather than directional.\n\nAn active, developing bullish Bat pattern presents an immediate structural conflict against the prevailing descent. The current diagnosis of unstable transition and disorderly balance will remain valid as long as erratic timing and rapid reversals persist. This unresolved state would weaken only if one side develops consistent runs, steady pace, and coherent directional follow-through to replace the current instability.",
       "review_file": "eurusd-review.json",
       "source_run": 36339093321,
-      "review_run": 36345091661,
-      "review_version": "deep-v3",
-      "writer_source": "deterministic"
+      "review_run": 36346362610,
+      "review_version": "writer-v4",
+      "writer_source": "ai"
     }
   },
-  "release": "eurusd-review-36345091661",
+  "release": "eurusd-review-36346362610",
   "source_run": 36339093321,
-  "review_run": 36345091661
+  "review_run": 36346362610
 }
