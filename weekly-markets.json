@@ -559,9 +559,79 @@
       "review_run": 36462350301,
       "review_version": "writer-v6-market-state",
       "writer_source": "ai"
+    },
+    "USA500": {
+      "as_of": "2026-09-28T07:15:38.771000+00:00",
+      "image": "usa500.png",
+      "status": "UNRESOLVED",
+      "state": "Sellers press the immediate decline toward 7697.0, but rising wick pressure and nearby support leave the move restricted.",
+      "display_states": [
+        {
+          "label": "Continuation",
+          "previous": 69.3,
+          "current": 62.6,
+          "delta": -6.7,
+          "value": "69.3 \u2192 62.6",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Re-acceleration",
+          "previous": 35.7,
+          "current": 44.0,
+          "delta": 8.3,
+          "value": "35.7 \u2192 44.0",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Transition pressure",
+          "previous": 44.8,
+          "current": 48.9,
+          "delta": 4.1,
+          "value": "44.8 \u2192 48.9",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Compression",
+          "previous": 9.9,
+          "current": 10.2,
+          "delta": 0.3,
+          "value": "9.9 \u2192 10.2",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Balance / chop",
+          "previous": 35.6,
+          "current": 19.9,
+          "delta": -15.7,
+          "value": "35.6 \u2192 19.9",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Structural quality",
+          "previous": null,
+          "current": "orderly",
+          "delta": null,
+          "value": "orderly",
+          "change_arrow": "\u2192"
+        }
+      ],
+      "paragraphs": [
+        "Sellers hold the immediate advantage, pushing price down to 7697.0 inside a 4-unit downside sequence. Confirmed swing structure remains neutral and reorganizing, showing that the decline lacks the clean organization of a mature trend. Price sits just below the latest confirmed low of 7695.0 and under the Bollinger middle band at 7714.9, yet it is also holding above immediate structural support from the lower Bollinger band at 7686.48944 and the harmonic X point at 7679.0. High opposing wick pressure at 52.6 indicates that downside progress meets active friction instead of clean surrender from buyers. The move downward has force, but it operates inside a contracting volatility squeeze that keeps the broader market restrained.",
+        "The full 104-brick window shows a market accustomed to broader upward structure, yet recent behavior tells a tighter story of short-term deceleration. Across the entire sample, bullish runs averaged 4.07 units compared to 3.36 for bearish declines, reflecting a historical tilt that favored buyers. Zooming into the last 12 runs reveals a compressed symmetry where both sides average identical 2.5-unit lengths. Downside attempts are meeting firm counter-moves even as immediate selling pressure repeats. This shrinkage in run scale points to a transition state where neither buyers nor sellers can sustain previous distances, leaving the sequence trapped inside narrower boundaries while internal re-acceleration attempts try to force a break.",
+        "The decline lacks the backing of a clean, persistent directional shift. Continuation sits at 62.6, showing that while sellers retain downward momentum, the internal mechanics are fraying from the 69.3 reading previously recorded. At the same time, re-acceleration has ticked up to 44.0 alongside rising transition pressure at 48.9, pointing to an environment where downward pushes keep sparking immediate friction and counter-pressure instead of clear expansion. Chop has dropped sharply to 19.9, but this reduction in random noise has not translated into a clean trend. Instead, the market is caught in an orderly structural state where movement is tightly bounded, forcing sellers to contend with persistent interference every step of the way.",
+        "Immediate downside support sits in a narrow band between the lower Bollinger band at 7686.48944, the confirmed low pivot at 7695.0, and the harmonic X point at 7679.0. Price rests just inside this zone, meaning sellers must break through multiple intersecting floors before establishing a deeper decline. Overhead, the first resistance area clusters tightly around the rising regression line at 7705.33268 and the Bollinger middle band at 7714.9, creating an immediate ceiling that must be reclaimed to ease bearish pressure. Further above, a larger trend barrier forms around the SAR level at 7745.0 and the harmonic D completion at the exact same mark of 7745.0. This upper ceiling caps the broader recovery space and defines the major boundary where sellers previously regained control.",
+        "Downside movement continues to generate active friction, supported by high opposing wick pressure reading at 52.6. Buyers are not surrendering easily as price presses into immediate support floors. The volatility envelope remains broad, yet it is narrowing into a squeeze that indicates fresh expansion is no longer building behind the selloff. Price has room to move within that envelope, but the contracting width acts as a caution against expecting an immediate acceleration of the decline. Meanwhile, a developing Deep Crab harmonic pattern sits overhead near the 7745.0 SAR level, introducing counter-pressure that could interrupt the move if buyers find traction. This harmonic structure is simply developing counter-pressure instead of confirming a reversal by itself, leaving the immediate descent contested.",
+        "The broader market stays unresolved while rapid switching, erratic timing, and frequent reversals continue to dominate the background. That disorder fades only when movement settles into a clearer pattern of sustained directional control or a stable range. For the immediate bearish lean, the case becomes more convincing only if instability decreases and sellers string together repeated runs with steadier timing and clear structural progress. Conversely, that downside lean weakens if buyers manage to reclaim broken structure like the 7705.33268 regression line and 7714.9 middle band, or if counter-runs start outlasting the current downward sequence. Until those boundaries break or hold with finality, the descent remains active yet heavily contested."
+      ],
+      "text": "Sellers hold the immediate advantage, pushing price down to 7697.0 inside a 4-unit downside sequence. Confirmed swing structure remains neutral and reorganizing, showing that the decline lacks the clean organization of a mature trend. Price sits just below the latest confirmed low of 7695.0 and under the Bollinger middle band at 7714.9, yet it is also holding above immediate structural support from the lower Bollinger band at 7686.48944 and the harmonic X point at 7679.0. High opposing wick pressure at 52.6 indicates that downside progress meets active friction instead of clean surrender from buyers. The move downward has force, but it operates inside a contracting volatility squeeze that keeps the broader market restrained.\n\nThe full 104-brick window shows a market accustomed to broader upward structure, yet recent behavior tells a tighter story of short-term deceleration. Across the entire sample, bullish runs averaged 4.07 units compared to 3.36 for bearish declines, reflecting a historical tilt that favored buyers. Zooming into the last 12 runs reveals a compressed symmetry where both sides average identical 2.5-unit lengths. Downside attempts are meeting firm counter-moves even as immediate selling pressure repeats. This shrinkage in run scale points to a transition state where neither buyers nor sellers can sustain previous distances, leaving the sequence trapped inside narrower boundaries while internal re-acceleration attempts try to force a break.\n\nThe decline lacks the backing of a clean, persistent directional shift. Continuation sits at 62.6, showing that while sellers retain downward momentum, the internal mechanics are fraying from the 69.3 reading previously recorded. At the same time, re-acceleration has ticked up to 44.0 alongside rising transition pressure at 48.9, pointing to an environment where downward pushes keep sparking immediate friction and counter-pressure instead of clear expansion. Chop has dropped sharply to 19.9, but this reduction in random noise has not translated into a clean trend. Instead, the market is caught in an orderly structural state where movement is tightly bounded, forcing sellers to contend with persistent interference every step of the way.\n\nImmediate downside support sits in a narrow band between the lower Bollinger band at 7686.48944, the confirmed low pivot at 7695.0, and the harmonic X point at 7679.0. Price rests just inside this zone, meaning sellers must break through multiple intersecting floors before establishing a deeper decline. Overhead, the first resistance area clusters tightly around the rising regression line at 7705.33268 and the Bollinger middle band at 7714.9, creating an immediate ceiling that must be reclaimed to ease bearish pressure. Further above, a larger trend barrier forms around the SAR level at 7745.0 and the harmonic D completion at the exact same mark of 7745.0. This upper ceiling caps the broader recovery space and defines the major boundary where sellers previously regained control.\n\nDownside movement continues to generate active friction, supported by high opposing wick pressure reading at 52.6. Buyers are not surrendering easily as price presses into immediate support floors. The volatility envelope remains broad, yet it is narrowing into a squeeze that indicates fresh expansion is no longer building behind the selloff. Price has room to move within that envelope, but the contracting width acts as a caution against expecting an immediate acceleration of the decline. Meanwhile, a developing Deep Crab harmonic pattern sits overhead near the 7745.0 SAR level, introducing counter-pressure that could interrupt the move if buyers find traction. This harmonic structure is simply developing counter-pressure instead of confirming a reversal by itself, leaving the immediate descent contested.\n\nThe broader market stays unresolved while rapid switching, erratic timing, and frequent reversals continue to dominate the background. That disorder fades only when movement settles into a clearer pattern of sustained directional control or a stable range. For the immediate bearish lean, the case becomes more convincing only if instability decreases and sellers string together repeated runs with steadier timing and clear structural progress. Conversely, that downside lean weakens if buyers manage to reclaim broken structure like the 7705.33268 regression line and 7714.9 middle band, or if counter-runs start outlasting the current downward sequence. Until those boundaries break or hold with finality, the descent remains active yet heavily contested.",
+      "review_file": "usa500-review.json",
+      "source_run": 36402603095,
+      "review_run": 36462350301,
+      "review_version": "writer-v6-market-state",
+      "writer_source": "ai"
     }
   },
-  "release": "xagusd-review-36462350301",
+  "release": "usa500-review-36462350301",
   "source_run": 36339093321,
   "review_run": 36462350301
 }
