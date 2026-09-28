@@ -1,0 +1,71 @@
+{
+  "instrument": "DEU40",
+  "as_of": "2026-09-25T16:03:19.430000+00:00",
+  "source_run": 36402603095,
+  "review_run": 36462350301,
+  "review_version": "writer-v6-market-state",
+  "status": "OK",
+  "state": "Buyers hold immediate control as price tests higher levels, though broader market chop keeps the advance unconfirmed.",
+  "display_states": [
+    {
+      "label": "Continuation",
+      "previous": 32.5,
+      "current": 32.7,
+      "delta": 0.2,
+      "value": "32.5 → 32.7",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Re-acceleration",
+      "previous": 7.3,
+      "current": 10.6,
+      "delta": 3.3,
+      "value": "7.3 → 10.6",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Transition pressure",
+      "previous": 22.3,
+      "current": 24.3,
+      "delta": 2.0,
+      "value": "22.3 → 24.3",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Compression",
+      "previous": 11.0,
+      "current": 11.0,
+      "delta": 0.0,
+      "value": "11.0 → 11.0",
+      "change_arrow": "→"
+    },
+    {
+      "label": "Balance / chop",
+      "previous": 69.3,
+      "current": 69.1,
+      "delta": -0.2,
+      "value": "69.3 → 69.1",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Structural quality",
+      "previous": null,
+      "current": "mixed",
+      "delta": null,
+      "value": "mixed",
+      "change_arrow": "→"
+    }
+  ],
+  "paragraphs": [
+    "Buyers hold the immediate advantage as price pushes to 25564.0, breaking above the latest confirmed high of 25524.0. The recent sequence shows upside extensions reaching 4 units, leaving behind the lower swing structure at 25364.0. Volatility reflects an expanding upper band ride toward 25572.53, though broader market conditions remain mixed with high chop near 69.1. That keeps the advance active without locking in a clean, one-sided trend. Low opposing wick pressure confirms that sellers are offering little immediate rejection during this push higher, even as the larger regression line sits overhead at 25459.216. Price is moving higher, but the wider market organization still has to prove it can hold the gains.",
+    "Broader history shows a market accustomed to balance, with the entire 104-brick window recording an average run length of 3.15 units across 33 total swings. Bullish and bearish moves share nearly equal historical weight at 53 and 51 occurrences respectively. Recent behavior tells a slightly more agile story. Across the last 12 runs, average length contracts to 2.75 units, while dominant advances stretch up to 5 units and counter-moves hold a steady pace. Selling pressure has not disappeared entirely, but downside extensions shrink to an average of 2.5 units compared to 3.19 historically. That subtle shift in run dynamics allows buyers to press forward without shattering the wider equilibrium.",
+    "Underneath the immediate upside push, the internal architecture reveals plenty of conflicting signals. Re-acceleration ticks up to 10.6 from 7.3, giving the upward movement a bit more bite, but continuation scores remain subdued at 32.7 and transition sits near 24.3. That combination means the advance carries force without establishing clean structural order. Chop remains heavy at 69.1, reflecting a background that still resists straightforward directional commitment. Compression stays flat at 11.0, showing that volatility expansion is not choking off the broader range. The market is pressing higher against the upper Bollinger band at 25572.53, yet the internal readings confirm this is an energetic push operating inside a still-disordered backdrop instead of a fully unified trend.",
+    "Immediate overhead resistance clusters near the upper Bollinger band at 25572.53, blending directly into confirmed high pivots at 25580.0 and 25583.0. Price is already testing this immediate ceiling during the current push. Below current price, a support zone forms between the SAR level at 25367.2 and the harmonic D completion at 25344.455, anchored closely by the lower swing structure at 25364.0. Further down, the middle Bollinger band sits at 25410.0 and the regression line rests at 25459.216, though price has already moved well above both references. These zones show where market control faces its next physical boundaries, separating the active advance from the wider historical range below.",
+    "The advance keeps pushing forward because sellers are offering virtually no rejection right now, leaving low opposing wick pressure across the active sequence. Volatility is expanding as price rides the upper Bollinger band at 25572.53, maintaining room inside a broad envelope even though fresh volatility is no longer actively building behind the move. That ongoing envelope expansion provides operating space without confirming clean trend continuation. Meanwhile, a developing Gartley pattern with its D completion sitting at 25344.455 serves as potential counter-pressure instead of a confirmed reversal. This harmonic structure introduces a caution zone below, but it does not interrupt the immediate upward drive as long as buyers hold the ground above the lower swing structure at 25364.0.",
+    "The broader market remains unresolved because heavy chop and rapid switching keep the overall background disordered. That state clears only if the structure settles into a stable range or develops persistent, unified directional control. The immediate bullish lean becomes more convincing if upside extensions continue building with steadier timing and repeat past progress without meeting firm overhead rejection. Conversely, that advantage weakens if sellers gain control, push price back through the lower support zone around 25364.0, or invalidate the active structural evidence. A quiet, orderly range can replace the current disorder without automatically reversing the immediate upside bias, but until one side establishes lasting dominance, the market stays caught between conflicting internal signals."
+  ],
+  "text": "Buyers hold the immediate advantage as price pushes to 25564.0, breaking above the latest confirmed high of 25524.0. The recent sequence shows upside extensions reaching 4 units, leaving behind the lower swing structure at 25364.0. Volatility reflects an expanding upper band ride toward 25572.53, though broader market conditions remain mixed with high chop near 69.1. That keeps the advance active without locking in a clean, one-sided trend. Low opposing wick pressure confirms that sellers are offering little immediate rejection during this push higher, even as the larger regression line sits overhead at 25459.216. Price is moving higher, but the wider market organization still has to prove it can hold the gains.\n\nBroader history shows a market accustomed to balance, with the entire 104-brick window recording an average run length of 3.15 units across 33 total swings. Bullish and bearish moves share nearly equal historical weight at 53 and 51 occurrences respectively. Recent behavior tells a slightly more agile story. Across the last 12 runs, average length contracts to 2.75 units, while dominant advances stretch up to 5 units and counter-moves hold a steady pace. Selling pressure has not disappeared entirely, but downside extensions shrink to an average of 2.5 units compared to 3.19 historically. That subtle shift in run dynamics allows buyers to press forward without shattering the wider equilibrium.\n\nUnderneath the immediate upside push, the internal architecture reveals plenty of conflicting signals. Re-acceleration ticks up to 10.6 from 7.3, giving the upward movement a bit more bite, but continuation scores remain subdued at 32.7 and transition sits near 24.3. That combination means the advance carries force without establishing clean structural order. Chop remains heavy at 69.1, reflecting a background that still resists straightforward directional commitment. Compression stays flat at 11.0, showing that volatility expansion is not choking off the broader range. The market is pressing higher against the upper Bollinger band at 25572.53, yet the internal readings confirm this is an energetic push operating inside a still-disordered backdrop instead of a fully unified trend.\n\nImmediate overhead resistance clusters near the upper Bollinger band at 25572.53, blending directly into confirmed high pivots at 25580.0 and 25583.0. Price is already testing this immediate ceiling during the current push. Below current price, a support zone forms between the SAR level at 25367.2 and the harmonic D completion at 25344.455, anchored closely by the lower swing structure at 25364.0. Further down, the middle Bollinger band sits at 25410.0 and the regression line rests at 25459.216, though price has already moved well above both references. These zones show where market control faces its next physical boundaries, separating the active advance from the wider historical range below.\n\nThe advance keeps pushing forward because sellers are offering virtually no rejection right now, leaving low opposing wick pressure across the active sequence. Volatility is expanding as price rides the upper Bollinger band at 25572.53, maintaining room inside a broad envelope even though fresh volatility is no longer actively building behind the move. That ongoing envelope expansion provides operating space without confirming clean trend continuation. Meanwhile, a developing Gartley pattern with its D completion sitting at 25344.455 serves as potential counter-pressure instead of a confirmed reversal. This harmonic structure introduces a caution zone below, but it does not interrupt the immediate upward drive as long as buyers hold the ground above the lower swing structure at 25364.0.\n\nThe broader market remains unresolved because heavy chop and rapid switching keep the overall background disordered. That state clears only if the structure settles into a stable range or develops persistent, unified directional control. The immediate bullish lean becomes more convincing if upside extensions continue building with steadier timing and repeat past progress without meeting firm overhead rejection. Conversely, that advantage weakens if sellers gain control, push price back through the lower support zone around 25364.0, or invalidate the active structural evidence. A quiet, orderly range can replace the current disorder without automatically reversing the immediate upside bias, but until one side establishes lasting dominance, the market stays caught between conflicting internal signals.",
+  "writer_source": "ai",
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 701
+}
