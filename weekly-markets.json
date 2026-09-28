@@ -419,9 +419,79 @@
       "review_run": 36462350301,
       "review_version": "writer-v6-market-state",
       "writer_source": "ai"
+    },
+    "NZDUSD": {
+      "as_of": "2026-09-27T21:04:20.981000+00:00",
+      "image": "nzdusd.png",
+      "status": "OK",
+      "state": "NZDUSD extends a downward swing structure below 0.5805, keeping sellers in control despite erratic state shifts.",
+      "display_states": [
+        {
+          "label": "Continuation",
+          "previous": 26.5,
+          "current": 28.2,
+          "delta": 1.7,
+          "value": "26.5 \u2192 28.2",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Re-acceleration",
+          "previous": 10.0,
+          "current": 2.3,
+          "delta": -7.7,
+          "value": "10.0 \u2192 2.3",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Transition pressure",
+          "previous": 75.2,
+          "current": 62.8,
+          "delta": -12.4,
+          "value": "75.2 \u2192 62.8",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Compression",
+          "previous": 72.8,
+          "current": 85.3,
+          "delta": 12.5,
+          "value": "72.8 \u2192 85.3",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Balance / chop",
+          "previous": 59.3,
+          "current": 61.6,
+          "delta": 2.3,
+          "value": "59.3 \u2192 61.6",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Structural quality",
+          "previous": null,
+          "current": "erratic",
+          "delta": null,
+          "value": "erratic",
+          "change_arrow": "\u2191"
+        }
+      ],
+      "paragraphs": [
+        "NZDUSD trades at 0.5665, extending a downward swing structure that has broken beneath the latest confirmed low at 0.5805. The immediate move holds a tentative bullish counter-pulse, but the larger pattern remains firmly lower. Price sits below the middle Bollinger band at 0.57375 and rides the lower expansion boundary, showing persistent downside pressure. Although a developing Bat pattern near the 0.565 harmonic completion provides a source of potential counter-pressure, opposing wick pressure remains high at 58.8 percent. Control continues to shift without establishing a stable base. Sellers dictate the broader path, yet the frequent alternation prevents the decline from settling into a clean, orderly trend.",
+        "The broader 104-brick window shows a balanced history where advances and declines shared equal footing, averaging 2.84 and 2.63 units respectively across 38 total runs. Recent behavior breaks that symmetry sharply. Over the last 12 runs, selling pressure has intensified while counter-moves have withered. Bearish runs stretch to an average of 3.0 units with a peak depth of 6, whereas bullish counters struggle to reach an average of 1.17 units and rarely exceed 2. Sellers are not merely holding the advantage; they are stretching the downside distance while buying attempts shorten and accelerate in pace. This contrast explains why the wider transitional state now leans heavily toward downside extension even though frequent short-lived bounces keep interrupting the path.",
+        "The directional move is forceful instead of stable. High compression standing at 85.3 underscores a market where volatility and conflicting wicks keep locking price into an erratic background even as sellers press lower. Re-acceleration has dropped sharply down to 2.3, showing that fresh momentum is not accelerating behind the breakdown. At the same time, transition pressure remains elevated at 62.8 while continuation stays subdued at 28.2. That internal mix means control keeps changing hands without settling into an orderly pattern. Sellers hold the gravitational pull, but the frequent alternation and lack of clean continuation confirm that the decline lacks the structural discipline of a mature trend.",
+        "Support rests immediately below price around the 0.564 to 0.565 zone, which gathers the recent low pivot at 0.564, the lower Bollinger band at 0.56405, and the harmonic D completion at 0.565 alongside the X point at 0.56313. That cluster provides the first floor against the ongoing decline. The first resistance area overhead spans from SAR at 0.57046 up to the middle Bollinger band at 0.57375, incorporating confirmed low pivots at 0.569 and 0.5705. Price must clear that immediate band to challenge any recovery. Higher up, the falling regression line at 0.58307 anchors the larger trend barrier alongside the upper Bollinger band at 0.58345, keeping the broader downside pressure intact even if buyers mount short-term counter-attacks.",
+        "Compression climbs to 85.3, showing that volatility and opposing wick pressure remain high even as sellers push lower. That high compression keeps price operating inside a broad range without clean trend expansion. At the same time, re-acceleration has dropped sharply to 2.3, confirming that fresh momentum is not expanding behind the breakdown. The developing Bat pattern near the 0.565 harmonic completion provides a source of counter-pressure, but it acts as a potential cushion instead of a confirmed reversal signal. Opposing wick pressure stays elevated at 58.8 percent, matching the frequent short-lived bounces that interrupt the decline. Sellers keep the upper hand because downside runs continue to stretch further than bullish counters, yet the lack of fresh re-acceleration and the presence of harmonic conflict mean the breakdown remains vulnerable to sudden stalls.",
+        "Rapid state switching, erratic timing, and high compression keep the broader market unresolved. That erratic background clears only when order replaces disorder, either through a stable range or through sustained directional control. The current bearish lean becomes more convincing if selling pressure deepens with steadier timing, expanding runs, and continued structural progress below the recent low pivots. Conversely, that downside lean weakens if buyers reclaim broken structure, lengthen their counter-runs, or force a sustained loss of downside persistence. Until opposing structure invalidates the current path or sellers build a cleaner trend, the decline stays active at the margin without settling into an orderly directional movement."
+      ],
+      "text": "NZDUSD trades at 0.5665, extending a downward swing structure that has broken beneath the latest confirmed low at 0.5805. The immediate move holds a tentative bullish counter-pulse, but the larger pattern remains firmly lower. Price sits below the middle Bollinger band at 0.57375 and rides the lower expansion boundary, showing persistent downside pressure. Although a developing Bat pattern near the 0.565 harmonic completion provides a source of potential counter-pressure, opposing wick pressure remains high at 58.8 percent. Control continues to shift without establishing a stable base. Sellers dictate the broader path, yet the frequent alternation prevents the decline from settling into a clean, orderly trend.\n\nThe broader 104-brick window shows a balanced history where advances and declines shared equal footing, averaging 2.84 and 2.63 units respectively across 38 total runs. Recent behavior breaks that symmetry sharply. Over the last 12 runs, selling pressure has intensified while counter-moves have withered. Bearish runs stretch to an average of 3.0 units with a peak depth of 6, whereas bullish counters struggle to reach an average of 1.17 units and rarely exceed 2. Sellers are not merely holding the advantage; they are stretching the downside distance while buying attempts shorten and accelerate in pace. This contrast explains why the wider transitional state now leans heavily toward downside extension even though frequent short-lived bounces keep interrupting the path.\n\nThe directional move is forceful instead of stable. High compression standing at 85.3 underscores a market where volatility and conflicting wicks keep locking price into an erratic background even as sellers press lower. Re-acceleration has dropped sharply down to 2.3, showing that fresh momentum is not accelerating behind the breakdown. At the same time, transition pressure remains elevated at 62.8 while continuation stays subdued at 28.2. That internal mix means control keeps changing hands without settling into an orderly pattern. Sellers hold the gravitational pull, but the frequent alternation and lack of clean continuation confirm that the decline lacks the structural discipline of a mature trend.\n\nSupport rests immediately below price around the 0.564 to 0.565 zone, which gathers the recent low pivot at 0.564, the lower Bollinger band at 0.56405, and the harmonic D completion at 0.565 alongside the X point at 0.56313. That cluster provides the first floor against the ongoing decline. The first resistance area overhead spans from SAR at 0.57046 up to the middle Bollinger band at 0.57375, incorporating confirmed low pivots at 0.569 and 0.5705. Price must clear that immediate band to challenge any recovery. Higher up, the falling regression line at 0.58307 anchors the larger trend barrier alongside the upper Bollinger band at 0.58345, keeping the broader downside pressure intact even if buyers mount short-term counter-attacks.\n\nCompression climbs to 85.3, showing that volatility and opposing wick pressure remain high even as sellers push lower. That high compression keeps price operating inside a broad range without clean trend expansion. At the same time, re-acceleration has dropped sharply to 2.3, confirming that fresh momentum is not expanding behind the breakdown. The developing Bat pattern near the 0.565 harmonic completion provides a source of counter-pressure, but it acts as a potential cushion instead of a confirmed reversal signal. Opposing wick pressure stays elevated at 58.8 percent, matching the frequent short-lived bounces that interrupt the decline. Sellers keep the upper hand because downside runs continue to stretch further than bullish counters, yet the lack of fresh re-acceleration and the presence of harmonic conflict mean the breakdown remains vulnerable to sudden stalls.\n\nRapid state switching, erratic timing, and high compression keep the broader market unresolved. That erratic background clears only when order replaces disorder, either through a stable range or through sustained directional control. The current bearish lean becomes more convincing if selling pressure deepens with steadier timing, expanding runs, and continued structural progress below the recent low pivots. Conversely, that downside lean weakens if buyers reclaim broken structure, lengthen their counter-runs, or force a sustained loss of downside persistence. Until opposing structure invalidates the current path or sellers build a cleaner trend, the decline stays active at the margin without settling into an orderly directional movement.",
+      "review_file": "nzdusd-review.json",
+      "source_run": 36402603095,
+      "review_run": 36462350301,
+      "review_version": "writer-v6-market-state",
+      "writer_source": "ai"
     }
   },
-  "release": "audusd-review-36462350301",
+  "release": "nzdusd-review-36462350301",
   "source_run": 36339093321,
   "review_run": 36462350301
 }
