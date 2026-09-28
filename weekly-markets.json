@@ -629,9 +629,79 @@
       "review_run": 36462350301,
       "review_version": "writer-v6-market-state",
       "writer_source": "ai"
+    },
+    "USATECH": {
+      "as_of": "2026-09-28T09:17:26.784000+00:00",
+      "image": "usatech.png",
+      "status": "OK",
+      "state": "Sellers maintain downward pressure, but overlapping swings keep the market structurally unsettled.",
+      "display_states": [
+        {
+          "label": "Continuation",
+          "previous": 75.4,
+          "current": 73.5,
+          "delta": -1.9,
+          "value": "75.4 \u2192 73.5",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Re-acceleration",
+          "previous": 39.9,
+          "current": 6.4,
+          "delta": -33.5,
+          "value": "39.9 \u2192 6.4",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Transition pressure",
+          "previous": 34.1,
+          "current": 29.9,
+          "delta": -4.2,
+          "value": "34.1 \u2192 29.9",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Compression",
+          "previous": 81.1,
+          "current": 100.0,
+          "delta": 18.9,
+          "value": "81.1 \u2192 100.0",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Balance / chop",
+          "previous": 50.9,
+          "current": 59.9,
+          "delta": 9.0,
+          "value": "50.9 \u2192 59.9",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Structural quality",
+          "previous": null,
+          "current": "mixed",
+          "delta": null,
+          "value": "mixed",
+          "change_arrow": "\u2192"
+        }
+      ],
+      "paragraphs": [
+        "USATECH trades near 30339.0 following a sequence that has recently pushed beneath the 30409.0 latest confirmed low pivot. Sellers hold the immediate advantage, but the decline lacks the clean organization of a mature trend. Recent movement shows a heavy mix of overlapping extensions and sharp counter-moves, including a sharp 9-unit downside extension countered by short single-unit bounces. The SAR level positioned overhead at 30531.15456 and the middle Bollinger band near 30498.0 form the initial barrier overhead, keeping pressure directed downward even as the market reorganizes its swing structure. Control remains contested instead of settled, leaving the wider decline to navigate considerable internal friction.",
+        "Looking across the full 104-brick window reveals a subtle shift in how selling pressure expresses itself. While historical moves balanced out evenly with 54 downside legs against 50 advances, recent behavior shows sellers tightening their grip. The latest 12 runs feature average bearish extensions stretching to 3.33 units, easily outpacing the shrinking 1.83 average length of bullish counter-moves. That divergence culminates in a sharp 9-unit downside extension that dwarfs the brief single-unit bounces trying to check it. Selling pressure is becoming more persistent in individual bursts, even though the broader market has not opened into a clean, uninterrupted cascade.",
+        "Control of the move remains mixed instead of settled. Price is producing forceful downside runs, but high compression at 100.0 and elevated chop at 59.9 show the decline is unfolding inside an unstable background. Re-acceleration has pulled back sharply to 6.4 while continuation holds at 73.5, meaning the market retains downward pressure without generating an efficient trend. High opposing wick pressure at 63.5 confirms that buyers keep stepping in to contest progress, creating friction around every push lower. The volatility range is expanding normally, yet the lack of clean re-acceleration prevents the selloff from locking into a smooth rhythm. Sellers own the immediate path, but the internal structure reveals a market still wrestling with overlapping friction and persistent counter-pressure.",
+        "Immediate support waits just below current price in the 30258.631 to 30261.61895 zone, where the harmonic Bat D completion at 30258.631 converges with the lower Bollinger band at 30261.61895. This confluent floor provides the first test of downside absorption. Further down, the confirmed low pivot at 30089.0 forms deeper support. Overhead, the broken low pivot at 30409.0 and the middle Bollinger band near 30498.0 serve as the initial resistance area, sitting right below the SAR level at 30531.15456. Price must clear this dense cluster of overhead barriers to challenge the broader trend control area, which is anchored by the falling regression line at 30728.26936. That larger barrier keeps the overarching trend ceiling well above the market while immediate price action tests the lower support zone.",
+        "Continuation depends on whether sellers can maintain their downward momentum without running out of room inside the current range. The volatility envelope is expanding normally, providing enough width for the decline to test lower levels even though fresh expansion has cooled off significantly. High opposing wick pressure sitting at 63.5 acts as a constant friction point, showing that buyers continue to absorb pressure around support without establishing a genuine reversal. At the same time, the developing Bat pattern near current price offers active counter-pressure. This formation represents a source of hesitation instead of a confirmed turnaround, meaning it challenges immediate selling force without invalidating the broader path of least resistance.",
+        "Rapid switching, erratic timing, and high friction keep the broader market unresolved. That disordered background fades only when the price structure settles into a stable range or persistent directional control. The current bearish lean becomes more convincing if sellers maintain steadier timing and repeat downside extensions without getting bogged down by opposing wicks. That lean weakens if buyers reclaim the broken pivot area at 30409.0 or if counter-runs start lasting longer than the recent downside bursts. Until one of those structural shifts takes hold, USATECH remains locked in an overlapping decline that possesses downward force without clean trend efficiency."
+      ],
+      "text": "USATECH trades near 30339.0 following a sequence that has recently pushed beneath the 30409.0 latest confirmed low pivot. Sellers hold the immediate advantage, but the decline lacks the clean organization of a mature trend. Recent movement shows a heavy mix of overlapping extensions and sharp counter-moves, including a sharp 9-unit downside extension countered by short single-unit bounces. The SAR level positioned overhead at 30531.15456 and the middle Bollinger band near 30498.0 form the initial barrier overhead, keeping pressure directed downward even as the market reorganizes its swing structure. Control remains contested instead of settled, leaving the wider decline to navigate considerable internal friction.\n\nLooking across the full 104-brick window reveals a subtle shift in how selling pressure expresses itself. While historical moves balanced out evenly with 54 downside legs against 50 advances, recent behavior shows sellers tightening their grip. The latest 12 runs feature average bearish extensions stretching to 3.33 units, easily outpacing the shrinking 1.83 average length of bullish counter-moves. That divergence culminates in a sharp 9-unit downside extension that dwarfs the brief single-unit bounces trying to check it. Selling pressure is becoming more persistent in individual bursts, even though the broader market has not opened into a clean, uninterrupted cascade.\n\nControl of the move remains mixed instead of settled. Price is producing forceful downside runs, but high compression at 100.0 and elevated chop at 59.9 show the decline is unfolding inside an unstable background. Re-acceleration has pulled back sharply to 6.4 while continuation holds at 73.5, meaning the market retains downward pressure without generating an efficient trend. High opposing wick pressure at 63.5 confirms that buyers keep stepping in to contest progress, creating friction around every push lower. The volatility range is expanding normally, yet the lack of clean re-acceleration prevents the selloff from locking into a smooth rhythm. Sellers own the immediate path, but the internal structure reveals a market still wrestling with overlapping friction and persistent counter-pressure.\n\nImmediate support waits just below current price in the 30258.631 to 30261.61895 zone, where the harmonic Bat D completion at 30258.631 converges with the lower Bollinger band at 30261.61895. This confluent floor provides the first test of downside absorption. Further down, the confirmed low pivot at 30089.0 forms deeper support. Overhead, the broken low pivot at 30409.0 and the middle Bollinger band near 30498.0 serve as the initial resistance area, sitting right below the SAR level at 30531.15456. Price must clear this dense cluster of overhead barriers to challenge the broader trend control area, which is anchored by the falling regression line at 30728.26936. That larger barrier keeps the overarching trend ceiling well above the market while immediate price action tests the lower support zone.\n\nContinuation depends on whether sellers can maintain their downward momentum without running out of room inside the current range. The volatility envelope is expanding normally, providing enough width for the decline to test lower levels even though fresh expansion has cooled off significantly. High opposing wick pressure sitting at 63.5 acts as a constant friction point, showing that buyers continue to absorb pressure around support without establishing a genuine reversal. At the same time, the developing Bat pattern near current price offers active counter-pressure. This formation represents a source of hesitation instead of a confirmed turnaround, meaning it challenges immediate selling force without invalidating the broader path of least resistance.\n\nRapid switching, erratic timing, and high friction keep the broader market unresolved. That disordered background fades only when the price structure settles into a stable range or persistent directional control. The current bearish lean becomes more convincing if sellers maintain steadier timing and repeat downside extensions without getting bogged down by opposing wicks. That lean weakens if buyers reclaim the broken pivot area at 30409.0 or if counter-runs start lasting longer than the recent downside bursts. Until one of those structural shifts takes hold, USATECH remains locked in an overlapping decline that possesses downward force without clean trend efficiency.",
+      "review_file": "usatech-review.json",
+      "source_run": 36402603095,
+      "review_run": 36462350301,
+      "review_version": "writer-v6-market-state",
+      "writer_source": "ai"
     }
   },
-  "release": "usa500-review-36462350301",
+  "release": "usatech-review-36462350301",
   "source_run": 36339093321,
   "review_run": 36462350301
 }
