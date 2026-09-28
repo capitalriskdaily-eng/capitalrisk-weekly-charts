@@ -1,0 +1,71 @@
+{
+  "instrument": "XAUUSD",
+  "as_of": "2026-09-28T09:45:32.072000+00:00",
+  "source_run": 36402603095,
+  "review_run": 36466742364,
+  "review_version": "writer-v6-market-state",
+  "status": "OK",
+  "state": "Sellers maintain the primary advantage, but counter-pressure is rising as the market begins to reorganize.",
+  "display_states": [
+    {
+      "label": "Continuation",
+      "previous": 75.5,
+      "current": 75.1,
+      "delta": -0.4,
+      "value": "75.5 → 75.1",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Re-acceleration",
+      "previous": 66.7,
+      "current": 66.7,
+      "delta": 0.0,
+      "value": "66.7 → 66.7",
+      "change_arrow": "→"
+    },
+    {
+      "label": "Transition pressure",
+      "previous": 22.2,
+      "current": 41.1,
+      "delta": 18.9,
+      "value": "22.2 → 41.1",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Compression",
+      "previous": 27.3,
+      "current": 21.2,
+      "delta": -6.1,
+      "value": "27.3 → 21.2",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Balance / chop",
+      "previous": 16.9,
+      "current": 14.3,
+      "delta": -2.6,
+      "value": "16.9 → 14.3",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Structural quality",
+      "previous": null,
+      "current": "clean",
+      "delta": null,
+      "value": "clean",
+      "change_arrow": "→"
+    }
+  ],
+  "paragraphs": [
+    "XAUUSD is currently defined by a dominant bearish trend that has pushed price well below the 4230.34 regression line. While the broader 104-run sample remains clean and bearish, the immediate market is showing signs of reorganization. Price is currently testing the 4156.60 SAR level, and although the bearish continuation score of 75.1 remains high, the transition pressure has spiked to 41.1. This suggests that while sellers still hold the primary advantage, the market is no longer moving in a one-sided vacuum. A developing Deep Crab harmonic pattern near 4140.48 provides a potential point of counter-pressure, even as the overall structure remains under the weight of the recent downside sequences. The market is currently forceful, but it is beginning to show the first real signs of friction.",
+    "The broader 104-run history of XAUUSD remains firmly directional and bearish, but recent behavior shows a clear shift in how that pressure is applied. While the full sample reflects a clean, one-sided decline, the most recent 12 runs reveal that bearish extensions are becoming more volatile and less efficient. The average bearish run has lengthened to 6.17 compared to the 5.17 historical average, yet the market is no longer moving with the same structural quality. Transition pressure has spiked significantly, rising from 22.2 to 41.1, indicating that counter-moves are gaining persistence. Sellers still maintain the dominant pace, but the market is trading with increased friction, showing that the recent downside runs are meeting more resistance than the broader history suggests.",
+    "The current market movement is forceful, but it lacks the clean, one-sided stability that defined the broader history. While the continuation score remains high at 75.1, the sharp rise in transition pressure to 41.1 signals that the decline is increasingly meeting resistance. Price is moving with less efficiency than before, as evidenced by the recent increase in counter-move persistence. The market is not yet in a state of disorder, but the structural quality is rapidly weakening as the downside runs encounter more frequent and meaningful pushback. Sellers still hold the dominant pace, yet the recent sequence of extensions and counter-moves shows that control is no longer absolute. The market is currently operating in a state of established turnaround pressure, where the bearish force is being tested by emerging counter-volatility.",
+    "The immediate price map is defined by the SAR level sitting at 4156.60, which currently acts as the first resistance area overhead. Price is trading just below this level, making it the immediate hurdle for any potential recovery. Beyond this, the middle Bollinger band at 4179.25 and the regression line at 4230.34 form a larger barrier zone that keeps the broader bearish trend intact. To the downside, the developing Deep Crab harmonic pattern at 4140.48 serves as the primary support area, providing a potential floor for the current decline. While the market remains under the weight of the regression line, the proximity of the SAR level and the harmonic D-point creates a tight range where control is being actively contested.",
+    "Sellers continue to apply downward pressure, but they do so against rising friction. Opposing wick pressure is very high at 88.4, showing that buyers are stepping in whenever price pushes lower. Meanwhile, the volatility envelope remains very expanded yet is narrowing, which indicates that fresh volatility is no longer building behind the selloff even though ample room remains inside the broad range. The developing Deep Crab pattern at 4140.48 adds a credible source of counter-pressure near price. This harmonic formation acts as a potential floor, though it represents a warning instead of a confirmed reversal. As long as sellers maintain their dominant pace below the 4156.60 SAR level, the decline holds its advantage, but the growing rejection keeps the outcome open.",
+    "The broader market remains unresolved because rapid switching, erratic timing, and frequent reversals continue to disrupt the background. That disorder fades only when the market transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing if instability decreases and sellers generate repeated runs with steadier timing and continued structural progress below the 4156.60 SAR level. Conversely, that bearish lean weakens if buyers gain persistent control by reclaiming broken structure, driving longer counter-runs, or invalidating the supplied downside evidence. A stable range can settle the broader background without automatically reversing the existing directional bias, keeping the market open until one side forces a permanent break."
+  ],
+  "text": "XAUUSD is currently defined by a dominant bearish trend that has pushed price well below the 4230.34 regression line. While the broader 104-run sample remains clean and bearish, the immediate market is showing signs of reorganization. Price is currently testing the 4156.60 SAR level, and although the bearish continuation score of 75.1 remains high, the transition pressure has spiked to 41.1. This suggests that while sellers still hold the primary advantage, the market is no longer moving in a one-sided vacuum. A developing Deep Crab harmonic pattern near 4140.48 provides a potential point of counter-pressure, even as the overall structure remains under the weight of the recent downside sequences. The market is currently forceful, but it is beginning to show the first real signs of friction.\n\nThe broader 104-run history of XAUUSD remains firmly directional and bearish, but recent behavior shows a clear shift in how that pressure is applied. While the full sample reflects a clean, one-sided decline, the most recent 12 runs reveal that bearish extensions are becoming more volatile and less efficient. The average bearish run has lengthened to 6.17 compared to the 5.17 historical average, yet the market is no longer moving with the same structural quality. Transition pressure has spiked significantly, rising from 22.2 to 41.1, indicating that counter-moves are gaining persistence. Sellers still maintain the dominant pace, but the market is trading with increased friction, showing that the recent downside runs are meeting more resistance than the broader history suggests.\n\nThe current market movement is forceful, but it lacks the clean, one-sided stability that defined the broader history. While the continuation score remains high at 75.1, the sharp rise in transition pressure to 41.1 signals that the decline is increasingly meeting resistance. Price is moving with less efficiency than before, as evidenced by the recent increase in counter-move persistence. The market is not yet in a state of disorder, but the structural quality is rapidly weakening as the downside runs encounter more frequent and meaningful pushback. Sellers still hold the dominant pace, yet the recent sequence of extensions and counter-moves shows that control is no longer absolute. The market is currently operating in a state of established turnaround pressure, where the bearish force is being tested by emerging counter-volatility.\n\nThe immediate price map is defined by the SAR level sitting at 4156.60, which currently acts as the first resistance area overhead. Price is trading just below this level, making it the immediate hurdle for any potential recovery. Beyond this, the middle Bollinger band at 4179.25 and the regression line at 4230.34 form a larger barrier zone that keeps the broader bearish trend intact. To the downside, the developing Deep Crab harmonic pattern at 4140.48 serves as the primary support area, providing a potential floor for the current decline. While the market remains under the weight of the regression line, the proximity of the SAR level and the harmonic D-point creates a tight range where control is being actively contested.\n\nSellers continue to apply downward pressure, but they do so against rising friction. Opposing wick pressure is very high at 88.4, showing that buyers are stepping in whenever price pushes lower. Meanwhile, the volatility envelope remains very expanded yet is narrowing, which indicates that fresh volatility is no longer building behind the selloff even though ample room remains inside the broad range. The developing Deep Crab pattern at 4140.48 adds a credible source of counter-pressure near price. This harmonic formation acts as a potential floor, though it represents a warning instead of a confirmed reversal. As long as sellers maintain their dominant pace below the 4156.60 SAR level, the decline holds its advantage, but the growing rejection keeps the outcome open.\n\nThe broader market remains unresolved because rapid switching, erratic timing, and frequent reversals continue to disrupt the background. That disorder fades only when the market transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing if instability decreases and sellers generate repeated runs with steadier timing and continued structural progress below the 4156.60 SAR level. Conversely, that bearish lean weakens if buyers gain persistent control by reclaiming broken structure, driving longer counter-runs, or invalidating the supplied downside evidence. A stable range can settle the broader background without automatically reversing the existing directional bias, keeping the market open until one side forces a permanent break.",
+  "writer_source": "ai",
+  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+  "word_count": 746
+}
