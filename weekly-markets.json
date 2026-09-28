@@ -69,9 +69,79 @@
       "review_run": 36399388990,
       "review_version": "writer-v6-market-state",
       "writer_source": "ai"
+    },
+    "USDCHF": {
+      "as_of": "2026-09-27T22:30:35.239000+00:00",
+      "image": "usdchf.png",
+      "status": "OK",
+      "state": "Buyers hold the short\u2011term edge, driving a bullish run of seven moves despite mixed structural signals.",
+      "display_states": [
+        {
+          "label": "Continuation",
+          "previous": 48.2,
+          "current": 48.2,
+          "delta": 0.0,
+          "value": "48.2 \u2192 48.2",
+          "change_arrow": "\u2192"
+        },
+        {
+          "label": "Re-acceleration",
+          "previous": 68.4,
+          "current": 70.6,
+          "delta": 2.2,
+          "value": "68.4 \u2192 70.6",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Transition pressure",
+          "previous": 52.9,
+          "current": 54.7,
+          "delta": 1.8,
+          "value": "52.9 \u2192 54.7",
+          "change_arrow": "\u2191"
+        },
+        {
+          "label": "Compression",
+          "previous": 68.5,
+          "current": 68.5,
+          "delta": 0.0,
+          "value": "68.5 \u2192 68.5",
+          "change_arrow": "\u2192"
+        },
+        {
+          "label": "Balance / chop",
+          "previous": 45.3,
+          "current": 39.0,
+          "delta": -6.3,
+          "value": "45.3 \u2192 39.0",
+          "change_arrow": "\u2193"
+        },
+        {
+          "label": "Structural quality",
+          "previous": null,
+          "current": "mixed",
+          "delta": null,
+          "value": "mixed",
+          "change_arrow": "\u2192"
+        }
+      ],
+      "paragraphs": [
+        "Price sits at 0.831, riding the upper Bollinger band and above the SAR level (0.82116), indicating that buyers have pushed the market into the expanded volatility envelope. The immediate direction is bullish with a run length of seven, confirming the up\u2011aligned swing structure (hh_hl) and a recent break above the latest confirmed high at 0.825. Opposing\u2011wick pressure remains high, supporting the strength of the advance, while re\u2011acceleration has risen to 70.6, showing increasing momentum. Yet balance/chop has slipped to 39 and compression stays neutral, and a developing bear\u2011oriented Crab harmonic adds uncertainty. Consequently, the short\u2011term advantage belongs to buyers, but the overall structural picture remains unsettled.",
+        "Across the 104\u2011move window the market showed a modest bias toward up\u2011moves \u2013 62 bullish moves versus 42 bearish \u2013 with average bullish runs of 3.65 moves and bearish runs of 2.47. In the most recent 12\u2011run slice that balance has shifted dramatically: bullish runs now average 5.5 moves, while bearish runs have contracted to 1.83. The dominant run trend remains expanding, but the pace of both the dominant (up) and counter (down) sides is decelerating, indicating that sellers are losing momentum faster than buyers are gaining it. Counter\u2011move length is stable, yet the recent run count (12) contains only six down\u2011moves versus 33 up\u2011moves, reinforcing the tilt toward buying pressure. The drop in chop from 45.3 to 39 and the rise in re\u2011acceleration to 70.6 further underscore that the market\u2019s directional pressure has moved from a balanced, choppy state to a more pronounced, albeit still unsettled, bullish drive.",
+        "Buyers are driving a forceful advance, but the market\u2019s control is far from settled. Re\u2011acceleration has risen to 70.6 and transition pressure to 54.7, indicating that each upward move carries more momentum than before. At the same time chop has slipped to 39, showing the choppy backdrop is fading, yet compression remains neutral at 68.5 and timing consistency is low, meaning the rhythm of moves is still erratic. Both dominant and counter\u2011side paces are decelerating, so sellers are losing speed faster than buyers are gaining it, but the alternating pattern of up\u2011 and down\u2011runs remains pronounced. Structural quality is labeled mixed, so the bullish thrust exists inside an unstable, still\u2011developing framework instead of a clean, stable control.",
+        "The nearest support sits just below the current price, anchored by a cluster of confirmed pivots between 0.8195 and 0.8145. That zone blends the low\u2011pivot at 0.8195 with the high\u2011pivots at 0.8145 and 0.8135, giving buyers a concrete floor should the advance falter. Above price, the first resistance area is the expanded upper Bollinger band at 0.83116, which also coincides with the harmonic D point at 0.831, creating a tight ceiling for any short\u2011term rally. A larger trend\u2011control barrier lies a few ticks higher, around the middle Bollinger level at 0.8223 and the LR150\u2011S8 level at 0.81333, marking the broader zone that must be breached for a sustained upside shift.",
+        "Buyers can keep the advance alive because opposing\u2011wick pressure remains high, showing that each upward move is still meeting strong rejection on the downside. The re\u2011acceleration score of 70.6 and transition pressure of 54.7 add further thrust, indicating that the current momentum is increasing even as the dominant pace decelerates. Yet the Bollinger envelope is broad and still expanding, while compression sits neutral at 68.5, so fresh volatility is not adding to the move \u2013 the price is riding inside a large range instead of breaking out of it. The developing bear\u2011oriented Crab provides clear counter\u2011pressure at the D point (0.831), which could stall the rally if the pattern completes. A break above the upper band (0.83116) or a weakening of wick rejection would be needed to solidify continuation; otherwise the harmonic conflict may interrupt the up\u2011move.",
+        "The market\u2019s broader backdrop remains unsettled because timing consistency is low and the recent run history still shows rapid switching and erratic pacing; the chop score has slipped to 39 but the dominant and counter paces are both decelerating, so the disorder will not fade until moves settle into a stable range or one side sustains clear control. The bullish lean gains credibility only if that instability eases\u2014evidenced by repeated up\u2011runs, tighter opposing\u2011wick rejection and a break above the upper Bollinger band at 0.83116, which would confirm the upward thrust beyond the developing Crab\u2019s D point. Conversely, the lean weakens if sellers reclaim the broken swing area around 0.8195\u20110.8145 or if the harmonic pattern completes, extending the down\u2011run and re\u2011establishing counter\u2011pressure."
+      ],
+      "text": "Price sits at 0.831, riding the upper Bollinger band and above the SAR level (0.82116), indicating that buyers have pushed the market into the expanded volatility envelope. The immediate direction is bullish with a run length of seven, confirming the up\u2011aligned swing structure (hh_hl) and a recent break above the latest confirmed high at 0.825. Opposing\u2011wick pressure remains high, supporting the strength of the advance, while re\u2011acceleration has risen to 70.6, showing increasing momentum. Yet balance/chop has slipped to 39 and compression stays neutral, and a developing bear\u2011oriented Crab harmonic adds uncertainty. Consequently, the short\u2011term advantage belongs to buyers, but the overall structural picture remains unsettled.\n\nAcross the 104\u2011move window the market showed a modest bias toward up\u2011moves \u2013 62 bullish moves versus 42 bearish \u2013 with average bullish runs of 3.65 moves and bearish runs of 2.47. In the most recent 12\u2011run slice that balance has shifted dramatically: bullish runs now average 5.5 moves, while bearish runs have contracted to 1.83. The dominant run trend remains expanding, but the pace of both the dominant (up) and counter (down) sides is decelerating, indicating that sellers are losing momentum faster than buyers are gaining it. Counter\u2011move length is stable, yet the recent run count (12) contains only six down\u2011moves versus 33 up\u2011moves, reinforcing the tilt toward buying pressure. The drop in chop from 45.3 to 39 and the rise in re\u2011acceleration to 70.6 further underscore that the market\u2019s directional pressure has moved from a balanced, choppy state to a more pronounced, albeit still unsettled, bullish drive.\n\nBuyers are driving a forceful advance, but the market\u2019s control is far from settled. Re\u2011acceleration has risen to 70.6 and transition pressure to 54.7, indicating that each upward move carries more momentum than before. At the same time chop has slipped to 39, showing the choppy backdrop is fading, yet compression remains neutral at 68.5 and timing consistency is low, meaning the rhythm of moves is still erratic. Both dominant and counter\u2011side paces are decelerating, so sellers are losing speed faster than buyers are gaining it, but the alternating pattern of up\u2011 and down\u2011runs remains pronounced. Structural quality is labeled mixed, so the bullish thrust exists inside an unstable, still\u2011developing framework instead of a clean, stable control.\n\nThe nearest support sits just below the current price, anchored by a cluster of confirmed pivots between 0.8195 and 0.8145. That zone blends the low\u2011pivot at 0.8195 with the high\u2011pivots at 0.8145 and 0.8135, giving buyers a concrete floor should the advance falter. Above price, the first resistance area is the expanded upper Bollinger band at 0.83116, which also coincides with the harmonic D point at 0.831, creating a tight ceiling for any short\u2011term rally. A larger trend\u2011control barrier lies a few ticks higher, around the middle Bollinger level at 0.8223 and the LR150\u2011S8 level at 0.81333, marking the broader zone that must be breached for a sustained upside shift.\n\nBuyers can keep the advance alive because opposing\u2011wick pressure remains high, showing that each upward move is still meeting strong rejection on the downside. The re\u2011acceleration score of 70.6 and transition pressure of 54.7 add further thrust, indicating that the current momentum is increasing even as the dominant pace decelerates. Yet the Bollinger envelope is broad and still expanding, while compression sits neutral at 68.5, so fresh volatility is not adding to the move \u2013 the price is riding inside a large range instead of breaking out of it. The developing bear\u2011oriented Crab provides clear counter\u2011pressure at the D point (0.831), which could stall the rally if the pattern completes. A break above the upper band (0.83116) or a weakening of wick rejection would be needed to solidify continuation; otherwise the harmonic conflict may interrupt the up\u2011move.\n\nThe market\u2019s broader backdrop remains unsettled because timing consistency is low and the recent run history still shows rapid switching and erratic pacing; the chop score has slipped to 39 but the dominant and counter paces are both decelerating, so the disorder will not fade until moves settle into a stable range or one side sustains clear control. The bullish lean gains credibility only if that instability eases\u2014evidenced by repeated up\u2011runs, tighter opposing\u2011wick rejection and a break above the upper Bollinger band at 0.83116, which would confirm the upward thrust beyond the developing Crab\u2019s D point. Conversely, the lean weakens if sellers reclaim the broken swing area around 0.8195\u20110.8145 or if the harmonic pattern completes, extending the down\u2011run and re\u2011establishing counter\u2011pressure.",
+      "review_file": "usdchf-review.json",
+      "source_run": 36402603095,
+      "review_run": 36446624621,
+      "review_version": "writer-v6-market-state",
+      "writer_source": "ai"
     }
   },
-  "release": "eurusd-review-36399388990",
+  "release": "usdchf-review-36446624621",
   "source_run": 36339093321,
-  "review_run": 36399388990
+  "review_run": 36446624621
 }
