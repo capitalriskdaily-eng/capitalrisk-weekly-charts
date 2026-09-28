@@ -1,0 +1,71 @@
+{
+  "instrument": "AUDUSD",
+  "as_of": "2026-09-27T21:04:00.744000+00:00",
+  "source_run": 36402603095,
+  "review_run": 36462350301,
+  "review_version": "writer-v6-market-state",
+  "status": "OK",
+  "state": "Sellers hold immediate control as price presses lower, but unstable structural quality keeps the descent from forming a clean trend.",
+  "display_states": [
+    {
+      "label": "Continuation",
+      "previous": 70.8,
+      "current": 39.0,
+      "delta": -31.8,
+      "value": "70.8 → 39.0",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Re-acceleration",
+      "previous": 33.1,
+      "current": 7.4,
+      "delta": -25.7,
+      "value": "33.1 → 7.4",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Transition pressure",
+      "previous": 82.8,
+      "current": 68.1,
+      "delta": -14.7,
+      "value": "82.8 → 68.1",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Compression",
+      "previous": 31.5,
+      "current": 21.3,
+      "delta": -10.2,
+      "value": "31.5 → 21.3",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Balance / chop",
+      "previous": 58.3,
+      "current": 57.0,
+      "delta": -1.3,
+      "value": "58.3 → 57.0",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Structural quality",
+      "previous": null,
+      "current": "unstable",
+      "delta": null,
+      "value": "unstable",
+      "change_arrow": "→"
+    }
+  ],
+  "paragraphs": [
+    "Price currently sits at 0.7015, trading below the middle Bollinger band located at 0.70935 and pressing into the lower boundary at 0.69969. The immediate market action shows sellers maintaining downward pressure after breaking beneath the latest confirmed swing low of 0.7135. Although the broader historical sample retains higher swing pivots from an earlier structure, recent sequences have turned sharp and stretched. The last twelve runs reveal downward extensions averaging 3.5 units alongside a longest bearish run of 7, outstripping the shorter bullish counters. This downside movement is not unfolding as a quiet drift; volatility is expanding and price is riding the lower channel band. At the same time, structural quality reads as unstable because direction changes remain frequent enough to prevent a clean, orderly trend.",
+    "Beneath the surface, the character of the market has shifted away from its broader historical sample. Across the wider sample of 104 runs, bullish advances averaged 3.0 units while bearish legs averaged 2.32, reflecting a more balanced past. Recent behavior tells a different story. The last 12 runs show average downside extensions expanding to 3.5 units alongside a longest bearish run of 7, while bullish counter-moves have shrunk to an average of 2.67 units with a peak of only 4. Selling pressure is lengthening its reach while buying attempts run out of steam faster. That divergence captures why the market leans lower even though structural quality remains unstable and prone to frequent alternation.",
+    "The heavy reliance on frequent reversals keeps the decline from qualifying as an orderly trend, even as selling pressure dominates the immediate sequences. Transition readings remain elevated and chop hovers near 57.0, showing that buyers continue to interrupt the descent with counter-moves. Yet those bullish attempts lack follow-through. Re-acceleration has faded sharply down to 7.4 alongside a steep drop in continuation readings, meaning the market lacks the internal drive to sustain any meaningful recovery. Price is moving lower primarily because sellers stretch further when they take control, not because the background has achieved clean directional stability. The drop unfolds as forceful movement trapped inside an ongoing state of structural disorder.",
+    "Immediate support sits right below current price, anchored by the harmonic D level at 0.7 and the lower Bollinger band at 0.69969, with recent low pivots resting close by down to 0.699. That zone provides the immediate floor where the descent meets its first test. Overhead, the first resistance area is clustered near the SAR level at 0.70602 and the middle Bollinger band at 0.70935, incorporating nearby confirmed pivot levels that lie directly within that band. Price must clear this dense zone before any recovery can challenge the larger trend barrier located higher up at the 0.71326 regression level and the broken swing low of 0.7135. As long as price stays below those overhead barriers, sellers retain control of the immediate channel.",
+    "The volatility range remains expanded while riding the lower channel band, keeping the immediate path open as long as sellers maintain pressure. Yet fresh volatility is no longer building behind the move, signaling that the descent is extending instead of accelerating anew. Meanwhile, a developing Gartley pattern sits directly around current price at the 0.7 harmonic level. That pattern provides a source of counter-pressure without confirming any reversal by itself. Low opposing wick pressure shows that rejection remains weak so far, meaning buyers have not yet mounted a serious defense at the floor. The downside movement can persist inside this wide channel as long as those counter-attempts fail to generate traction or challenge the overhead resistance cluster.",
+    "The broader market remains unresolved because rapid switching and frequent reversals keep the underlying state trapped in disorder. That messy background clears only when price transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing if sellers maintain their heavier downside extensions, keep timing steady, and avoid the erratic switching that plagues the wider sample. That bearish posture weakens if buyers manage to reclaim the broken swing structure overhead or if opposing counter-runs begin lasting longer than the downward legs. Until those concrete structural changes take place, the decline retains its edge without converting into an orderly trend."
+  ],
+  "text": "Price currently sits at 0.7015, trading below the middle Bollinger band located at 0.70935 and pressing into the lower boundary at 0.69969. The immediate market action shows sellers maintaining downward pressure after breaking beneath the latest confirmed swing low of 0.7135. Although the broader historical sample retains higher swing pivots from an earlier structure, recent sequences have turned sharp and stretched. The last twelve runs reveal downward extensions averaging 3.5 units alongside a longest bearish run of 7, outstripping the shorter bullish counters. This downside movement is not unfolding as a quiet drift; volatility is expanding and price is riding the lower channel band. At the same time, structural quality reads as unstable because direction changes remain frequent enough to prevent a clean, orderly trend.\n\nBeneath the surface, the character of the market has shifted away from its broader historical sample. Across the wider sample of 104 runs, bullish advances averaged 3.0 units while bearish legs averaged 2.32, reflecting a more balanced past. Recent behavior tells a different story. The last 12 runs show average downside extensions expanding to 3.5 units alongside a longest bearish run of 7, while bullish counter-moves have shrunk to an average of 2.67 units with a peak of only 4. Selling pressure is lengthening its reach while buying attempts run out of steam faster. That divergence captures why the market leans lower even though structural quality remains unstable and prone to frequent alternation.\n\nThe heavy reliance on frequent reversals keeps the decline from qualifying as an orderly trend, even as selling pressure dominates the immediate sequences. Transition readings remain elevated and chop hovers near 57.0, showing that buyers continue to interrupt the descent with counter-moves. Yet those bullish attempts lack follow-through. Re-acceleration has faded sharply down to 7.4 alongside a steep drop in continuation readings, meaning the market lacks the internal drive to sustain any meaningful recovery. Price is moving lower primarily because sellers stretch further when they take control, not because the background has achieved clean directional stability. The drop unfolds as forceful movement trapped inside an ongoing state of structural disorder.\n\nImmediate support sits right below current price, anchored by the harmonic D level at 0.7 and the lower Bollinger band at 0.69969, with recent low pivots resting close by down to 0.699. That zone provides the immediate floor where the descent meets its first test. Overhead, the first resistance area is clustered near the SAR level at 0.70602 and the middle Bollinger band at 0.70935, incorporating nearby confirmed pivot levels that lie directly within that band. Price must clear this dense zone before any recovery can challenge the larger trend barrier located higher up at the 0.71326 regression level and the broken swing low of 0.7135. As long as price stays below those overhead barriers, sellers retain control of the immediate channel.\n\nThe volatility range remains expanded while riding the lower channel band, keeping the immediate path open as long as sellers maintain pressure. Yet fresh volatility is no longer building behind the move, signaling that the descent is extending instead of accelerating anew. Meanwhile, a developing Gartley pattern sits directly around current price at the 0.7 harmonic level. That pattern provides a source of counter-pressure without confirming any reversal by itself. Low opposing wick pressure shows that rejection remains weak so far, meaning buyers have not yet mounted a serious defense at the floor. The downside movement can persist inside this wide channel as long as those counter-attempts fail to generate traction or challenge the overhead resistance cluster.\n\nThe broader market remains unresolved because rapid switching and frequent reversals keep the underlying state trapped in disorder. That messy background clears only when price transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing if sellers maintain their heavier downside extensions, keep timing steady, and avoid the erratic switching that plagues the wider sample. That bearish posture weakens if buyers manage to reclaim the broken swing structure overhead or if opposing counter-runs begin lasting longer than the downward legs. Until those concrete structural changes take place, the decline retains its edge without converting into an orderly trend.",
+  "writer_source": "ai",
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 711
+}
