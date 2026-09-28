@@ -1,0 +1,71 @@
+{
+  "instrument": "BRENT",
+  "as_of": "2026-09-25T20:12:32.343000+00:00",
+  "source_run": 36402603095,
+  "review_run": 36462350301,
+  "review_version": "writer-v6-market-state",
+  "status": "OK",
+  "state": "Price is hovering near 97.4 with neutral swing structure and high opposing wick pressure keeping direction completely unresolved.",
+  "display_states": [
+    {
+      "label": "Continuation",
+      "previous": 40.9,
+      "current": 42.4,
+      "delta": 1.5,
+      "value": "40.9 → 42.4",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Re-acceleration",
+      "previous": 7.5,
+      "current": 3.3,
+      "delta": -4.2,
+      "value": "7.5 → 3.3",
+      "change_arrow": "↓"
+    },
+    {
+      "label": "Transition pressure",
+      "previous": 51.0,
+      "current": 54.2,
+      "delta": 3.2,
+      "value": "51.0 → 54.2",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Compression",
+      "previous": 99.3,
+      "current": 99.4,
+      "delta": 0.1,
+      "value": "99.3 → 99.4",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Balance / chop",
+      "previous": 66.6,
+      "current": 68.1,
+      "delta": 1.5,
+      "value": "66.6 → 68.1",
+      "change_arrow": "↑"
+    },
+    {
+      "label": "Structural quality",
+      "previous": null,
+      "current": "unstable",
+      "delta": null,
+      "value": "unstable",
+      "change_arrow": "→"
+    }
+  ],
+  "paragraphs": [
+    "Brent trades near 97.4, holding above the immediate pivot low at 96.5 while remaining caught in a wider reorganization. Confirmed swing structure shows a neutral alignment defined by the 101.2 high and the 96.5 low, confirming that neither buyers nor sellers have secured structural dominance. Recent movement reflects repeated short-term friction with 5 upside and downside sequences alternating across the latest sessions. Very high opposing wick pressure confirms that market participants are actively contesting every immediate push, preventing any clean extension from taking hold. The volatility range remains compressed though slightly expanding toward the upper band at 97.86307, keeping the entire immediate structure locked inside a tight boundary.",
+    "Beneath the compressed immediate boundary, the wider 104-brick window reveals a market caught between deeper downside history and shallow recent shifts. Across the full sample, bearish runs averaged 2.75 units with a maximum drop reaching 17, while bullish moves averaged 2.58. Recent behavior shows a compression in both directions. The last 12 sequences feature bearish runs shrinking to an average of 2.0 and bullish counters averaging 2.83. This contraction in run length demonstrates that neither sellers nor buyers are sustaining directional persistence. While the broader history leans toward heavier downside extensions, the latest price action lacks the structural drive to break out of the ongoing congestion.",
+    "Price is moving inside an unstable background where control shifts constantly instead of establishing a clean trend. While transition pressure sits at 54.2 and chop measures 68.1, re-acceleration has slipped to 3.3, showing that directional force is fading even as the market keeps churning. Continuation remains low at 42.4, confirming that recent moves lack the sustained backing required for a lasting directional push. Very high opposing wick pressure reinforces this indecision by demonstrating that buyers and sellers are meeting every immediate extension with immediate rejection. The combination of compressed volatility and high chop indicates that the current environment is defined by friction instead of stable control, leaving the market prone to ongoing local reversals.",
+    "Immediate support below price rests in a stacked zone from 96.5 to 97.13245, incorporating the confirmed pivot low at 96.5 alongside SAR at 97.13245 and the developing Deep Crab pattern completion at 97.025. This close cluster acts as a localized floor where downside probes repeatedly stall. The first resistance area overhead spans from 97.85 up to 99.5, bundling the upper Bollinger band at 97.86307 with the 97.85 confirmed low and the 99.5 confirmed high. That band forms the immediate ceiling keeping price contained within its tight channel. The larger trend barrier sits further above at the 101.2 confirmed high, marking the threshold required to shift the broader neutral structure.",
+    "Brent remains trapped in a state of high friction where every extension meets immediate rejection. The very high opposing wick pressure confirms that neither buyers nor sellers can hold a move, as participants consistently step in to fade the latest price push. While the volatility range is still broad enough to allow for movement, it is currently compressed, meaning fresh expansion is not building behind the current price action. A developing Deep Crab pattern near 97.025 provides a source of potential counter-pressure, but it remains a structural development instead of a confirmed reversal. Until the market can break out of this tight boundary with sustained pace, the current sequence of local reversals will likely persist, keeping the broader neutral structure intact.",
+    "Rapid switching, frequent reversals, and erratic timing keep the broader market unresolved. That erratic background fades only when the market becomes orderly through a stable range or sustained directional control. The immediate bearish lean becomes more convincing if selling pressure deepens with repeated runs, steadier timing, and continued structural progress below the local floor at 96.5. Conversely, that downside lean weakens if buyers reclaim the broken structure around the upper ceiling at 97.85 to 99.5, or if counter-moves begin lasting longer than the current downside extensions. Until one of those structural shifts takes hold, Brent remains caught inside high friction where local reversals prevent any decisive path from emerging."
+  ],
+  "text": "Brent trades near 97.4, holding above the immediate pivot low at 96.5 while remaining caught in a wider reorganization. Confirmed swing structure shows a neutral alignment defined by the 101.2 high and the 96.5 low, confirming that neither buyers nor sellers have secured structural dominance. Recent movement reflects repeated short-term friction with 5 upside and downside sequences alternating across the latest sessions. Very high opposing wick pressure confirms that market participants are actively contesting every immediate push, preventing any clean extension from taking hold. The volatility range remains compressed though slightly expanding toward the upper band at 97.86307, keeping the entire immediate structure locked inside a tight boundary.\n\nBeneath the compressed immediate boundary, the wider 104-brick window reveals a market caught between deeper downside history and shallow recent shifts. Across the full sample, bearish runs averaged 2.75 units with a maximum drop reaching 17, while bullish moves averaged 2.58. Recent behavior shows a compression in both directions. The last 12 sequences feature bearish runs shrinking to an average of 2.0 and bullish counters averaging 2.83. This contraction in run length demonstrates that neither sellers nor buyers are sustaining directional persistence. While the broader history leans toward heavier downside extensions, the latest price action lacks the structural drive to break out of the ongoing congestion.\n\nPrice is moving inside an unstable background where control shifts constantly instead of establishing a clean trend. While transition pressure sits at 54.2 and chop measures 68.1, re-acceleration has slipped to 3.3, showing that directional force is fading even as the market keeps churning. Continuation remains low at 42.4, confirming that recent moves lack the sustained backing required for a lasting directional push. Very high opposing wick pressure reinforces this indecision by demonstrating that buyers and sellers are meeting every immediate extension with immediate rejection. The combination of compressed volatility and high chop indicates that the current environment is defined by friction instead of stable control, leaving the market prone to ongoing local reversals.\n\nImmediate support below price rests in a stacked zone from 96.5 to 97.13245, incorporating the confirmed pivot low at 96.5 alongside SAR at 97.13245 and the developing Deep Crab pattern completion at 97.025. This close cluster acts as a localized floor where downside probes repeatedly stall. The first resistance area overhead spans from 97.85 up to 99.5, bundling the upper Bollinger band at 97.86307 with the 97.85 confirmed low and the 99.5 confirmed high. That band forms the immediate ceiling keeping price contained within its tight channel. The larger trend barrier sits further above at the 101.2 confirmed high, marking the threshold required to shift the broader neutral structure.\n\nBrent remains trapped in a state of high friction where every extension meets immediate rejection. The very high opposing wick pressure confirms that neither buyers nor sellers can hold a move, as participants consistently step in to fade the latest price push. While the volatility range is still broad enough to allow for movement, it is currently compressed, meaning fresh expansion is not building behind the current price action. A developing Deep Crab pattern near 97.025 provides a source of potential counter-pressure, but it remains a structural development instead of a confirmed reversal. Until the market can break out of this tight boundary with sustained pace, the current sequence of local reversals will likely persist, keeping the broader neutral structure intact.\n\nRapid switching, frequent reversals, and erratic timing keep the broader market unresolved. That erratic background fades only when the market becomes orderly through a stable range or sustained directional control. The immediate bearish lean becomes more convincing if selling pressure deepens with repeated runs, steadier timing, and continued structural progress below the local floor at 96.5. Conversely, that downside lean weakens if buyers reclaim the broken structure around the upper ceiling at 97.85 to 99.5, or if counter-moves begin lasting longer than the current downside extensions. Until one of those structural shifts takes hold, Brent remains caught inside high friction where local reversals prevent any decisive path from emerging.",
+  "writer_source": "ai",
+  "writer_model": "gemini-3.5-flash-lite,gemini-3.1-flash-lite",
+  "word_count": 695
+}
