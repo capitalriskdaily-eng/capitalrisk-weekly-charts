@@ -1,71 +1,71 @@
 {
   "instrument": "USDCAD",
-  "as_of": "2026-09-27T21:04:00.493000+00:00",
-  "source_run": 36402603095,
-  "review_run": 36462350301,
+  "as_of": "2026-10-02T13:15:05.665000+00:00",
+  "source_run": 37193446518,
+  "review_run": 37193446518,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "Price presses into an upper volatility boundary and a developing bearish pattern after a sharp upside extension.",
+  "state": "USDCAD remains in an unstable transition where control shifts frequently without establishing a lasting directional trend.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 31.6,
-      "current": 32.7,
-      "delta": 1.1,
-      "value": "31.6 → 32.7",
-      "change_arrow": "↑"
+      "previous": 30.7,
+      "current": 30.7,
+      "delta": 0.0,
+      "value": "30.7 → 30.7",
+      "change_arrow": "→"
     },
     {
       "label": "Re-acceleration",
-      "previous": 83.2,
-      "current": 84.8,
-      "delta": 1.6,
-      "value": "83.2 → 84.8",
-      "change_arrow": "↑"
+      "previous": 67.3,
+      "current": 66.0,
+      "delta": -1.3,
+      "value": "67.3 → 66.0",
+      "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 54.8,
-      "current": 53.4,
-      "delta": -1.4,
-      "value": "54.8 → 53.4",
+      "previous": 67.3,
+      "current": 66.3,
+      "delta": -1.0,
+      "value": "67.3 → 66.3",
       "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 11.0,
-      "current": 11.0,
-      "delta": 0.0,
-      "value": "11.0 → 11.0",
-      "change_arrow": "→"
+      "previous": 26.8,
+      "current": 19.4,
+      "delta": -7.4,
+      "value": "26.8 → 19.4",
+      "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 30.7,
-      "current": 27.0,
-      "delta": -3.7,
-      "value": "30.7 → 27.0",
+      "previous": 16.9,
+      "current": 14.3,
+      "delta": -2.6,
+      "value": "16.9 → 14.3",
       "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "unstable",
       "delta": null,
-      "value": "mixed",
+      "value": "unstable",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "USDCAD trades at 1.4145 right at the completion marker of a developing bearish Bat pattern, testing the upper boundary of an expanding volatility range. The latest sequence shows sharp upside expansion, culminating in a 21-unit advance that dwarfs preceding counter-moves. Price is riding the upper Bollinger band, backed by a lower regression line and an aligned SAR level at 1.40559. While confirmed swing structure retains lower highs and lower lows from a broader perspective, recent upside momentum has been forceful enough to challenge that prior sequence. Immediate upward pressure is evident, but it operates inside a mixed structural setting where counter-pressure remains present.",
-    "The recent market behavior marks a distinct shift from the broader 104-brick window. While the full sample shows a balanced history with average bullish and bearish runs nearly identical at 3.64 and 3.79 units respectively, the most recent 12 runs reveal a sharp divergence. Bullish runs have stretched to an average of 6.33 units, highlighted by a recent 21-unit advance that stands as the longest in the entire data set. Conversely, bearish counter-moves are contracting, averaging only 3.5 units. This change shows that upside pressure is gaining efficiency and persistence, effectively distancing itself from the historically balanced environment. Although the broader structural quality remains mixed, the recent re-acceleration of bullish runs confirms that buyers are currently dictating the pace.",
-    "The recent bullish move is forceful, but it lacks the stability of a mature trend. While re-acceleration scores have climbed to 84.8, indicating that buyers are pushing price with increasing intensity, the market remains trapped in a mixed structural state. The current advance is essentially a sharp correction within a broader, disordered environment instead of a clean breakout. Compression remains low at 11.0, meaning the market has not yet consolidated into a tighter, more predictable pattern. Instead, price is riding the upper Bollinger band in a very expanded volatility state, which highlights that the move is currently driven by momentum instead of structural support. Until the market can demonstrate consistent timing and resolve the mixed structural quality, the current upside pressure remains a high-energy, yet unstable, correction.",
-    "Immediate support rests below price within a zone spanning from the SAR level at 1.40559 down through nearby confirmed pivots around 1.4005 to 1.401, creating a protective floor that underpins the current advance. Overhead, the first resistance area clusters near the upper Bollinger band at 1.41904, which sits just above confirmed swing pivots at 1.415 and 1.4175. That zone defines the immediate boundary where upside expansion meets rejection. Further up, the larger trend barrier is anchored by major confirmed highs at 1.4235 and 1.424, marking the ceiling for the broader structure. These zones illustrate how tightly price is compressed between immediate upward momentum and overhead structural resistance, leaving little room for error as buyers test the upper limits of the range.",
-    "Upward momentum continues to test the limits of an expanding volatility range, with price currently resting right at 1.4145. That places price against the completion marker of a developing bearish Bat pattern, creating an immediate source of counter-pressure. Opposing wick pressure remains moderate at 28.2, showing that sellers are offering resistance without halting the advance entirely. Although the volatility envelope is very expanded, fresh volatility is no longer building behind the move, signaling that momentum could face friction as it approaches overhead barriers. The developing harmonic pattern does not guarantee a reversal by itself, but it introduces credible counter-pressure right where the market tests the upper boundary.",
-    "Rapid switching, erratic timing, and frequent reversals keep the broader market unresolved. That disorder fades only when the price structure settles into a stable range or establishes persistent directional control. The upside lean becomes more convincing if upside expansion continues with steadier timing and repeated same-side runs while volatility stays open. Conversely, that bullish advantage weakens if sellers reclaim the broken structure around 1.415 to 1.4175, extend counter-moves beyond the recent average of 3.5 units, or invalidate the developing harmonic pattern. A stable range can replace the current choppy background without automatically reversing the broader directional lean, leaving the outcome dependent on whether buyers can hold their ground against overhead resistance."
+    "USDCAD is currently caught in an unstable transition where control shifts frequently without establishing a clear, lasting direction. While price sits at 1.425—above the 1.4142 middle Bollinger band and the 1.4205 SAR level—the underlying structure is erratic. Recent movement shows a sequence of alternating runs, including a notable 26-unit bullish extension that contrasts sharply with the smaller, more frequent bearish attempts. This lack of timing consistency keeps the market in a state of disorder, even as re-acceleration and transition pressures remain elevated. The market is not yet trending in a clean, sustained fashion; instead, it is oscillating through a series of local flips that prevent either side from gaining definitive, long-term dominance over the current volatility range.",
+    "The broader history within the 104-brick window shows a market that has struggled to maintain a consistent directional bias, with bullish and bearish runs averaging nearly identical lengths of 4.15 and 4.17 units respectively. However, recent behavior reveals a distinct shift in pressure. Over the last 12 runs, bullish extensions have widened significantly to an average of 7.0 units, while bearish counters have contracted to 3.67 units. This divergence highlights that while the overall structure remains trapped in an unstable transition, the most recent activity is characterized by sharper, more forceful bullish advances. Despite this increased re-acceleration, the lack of timing consistency prevents these moves from evolving into a clean, sustained trend, keeping the market in a state of frequent, erratic alternation.",
+    "The market is currently generating forceful movement, but it lacks the stability required for a reliable trend. While re-acceleration remains high at 66.0, the structural quality is explicitly unstable. This creates a environment where price can extend quickly, yet the gains are frequently surrendered or met with immediate, erratic counter-moves. The transition pressure of 66.3 confirms that control is shifting constantly between buyers and sellers, preventing any single direction from embedding itself. Although bullish runs have recently become sharper, the overall timing consistency remains low. Price is not building a sustainable foundation; it is simply oscillating through a series of local flips. Consequently, the current advance should be viewed as a high-pressure, unstable sequence instead of a clean, orderly directional move.",
+    "The immediate price map is defined by a series of tight, overlapping levels that reflect the current unstable transition. Support sits in the 1.4235-1.4240 zone, which marks recent confirmed high pivots that price has reclaimed. Below this, the 1.4205 SAR level provides a secondary floor that aligns with the broader bullish bias. Overhead, the first resistance area is anchored by the 1.42623 harmonic Crab completion point. A larger trend-control barrier exists further up at the 1.43367 upper Bollinger band. While price remains above the 1.4142 middle Bollinger band and the 1.38637 regression line, these levels serve as the ultimate boundary for the current bullish sequence. Until price clears the 1.42623 harmonic level or breaks back below the 1.4205 SAR, the market will likely continue to oscillate within this narrow, high-pressure range.",
+    "The current bullish sequence holds momentum, but it faces immediate counter-pressure from the developing Crab pattern at 1.42623. While the volatility range remains very expanded, the contraction in compression and balance scores suggests that fresh expansion is no longer actively building behind the move. This creates a market with room to maneuver, yet it lacks the underlying fuel to force a clean, sustained breakout. Low opposing wick pressure confirms that sellers are not yet mounting a significant challenge, but the unstable transition state means any stall in pace could quickly invite a reversal. The bullish case remains valid as long as price stays above the 1.4205 SAR, but until the market clears the harmonic resistance, the advance will likely remain high-pressure and prone to local flips.",
+    "The broader market remains unresolved as long as rapid state switching, erratic timing, and frequent reversals continue to dominate the structural landscape. This disorder will only fade if the market shifts into a more stable range or establishes persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers demonstrate repeated, steadier runs with a coherent pace and continued structural progress. Conversely, this bullish lean weakens if sellers gain persistent control, reclaim the 1.4235-1.4240 support zone, or invalidate the existing bullish structure. Until one of these changes sticks, the market will likely remain caught in its current high-pressure, unstable transition, oscillating without a clear, lasting trend."
   ],
-  "text": "USDCAD trades at 1.4145 right at the completion marker of a developing bearish Bat pattern, testing the upper boundary of an expanding volatility range. The latest sequence shows sharp upside expansion, culminating in a 21-unit advance that dwarfs preceding counter-moves. Price is riding the upper Bollinger band, backed by a lower regression line and an aligned SAR level at 1.40559. While confirmed swing structure retains lower highs and lower lows from a broader perspective, recent upside momentum has been forceful enough to challenge that prior sequence. Immediate upward pressure is evident, but it operates inside a mixed structural setting where counter-pressure remains present.\n\nThe recent market behavior marks a distinct shift from the broader 104-brick window. While the full sample shows a balanced history with average bullish and bearish runs nearly identical at 3.64 and 3.79 units respectively, the most recent 12 runs reveal a sharp divergence. Bullish runs have stretched to an average of 6.33 units, highlighted by a recent 21-unit advance that stands as the longest in the entire data set. Conversely, bearish counter-moves are contracting, averaging only 3.5 units. This change shows that upside pressure is gaining efficiency and persistence, effectively distancing itself from the historically balanced environment. Although the broader structural quality remains mixed, the recent re-acceleration of bullish runs confirms that buyers are currently dictating the pace.\n\nThe recent bullish move is forceful, but it lacks the stability of a mature trend. While re-acceleration scores have climbed to 84.8, indicating that buyers are pushing price with increasing intensity, the market remains trapped in a mixed structural state. The current advance is essentially a sharp correction within a broader, disordered environment instead of a clean breakout. Compression remains low at 11.0, meaning the market has not yet consolidated into a tighter, more predictable pattern. Instead, price is riding the upper Bollinger band in a very expanded volatility state, which highlights that the move is currently driven by momentum instead of structural support. Until the market can demonstrate consistent timing and resolve the mixed structural quality, the current upside pressure remains a high-energy, yet unstable, correction.\n\nImmediate support rests below price within a zone spanning from the SAR level at 1.40559 down through nearby confirmed pivots around 1.4005 to 1.401, creating a protective floor that underpins the current advance. Overhead, the first resistance area clusters near the upper Bollinger band at 1.41904, which sits just above confirmed swing pivots at 1.415 and 1.4175. That zone defines the immediate boundary where upside expansion meets rejection. Further up, the larger trend barrier is anchored by major confirmed highs at 1.4235 and 1.424, marking the ceiling for the broader structure. These zones illustrate how tightly price is compressed between immediate upward momentum and overhead structural resistance, leaving little room for error as buyers test the upper limits of the range.\n\nUpward momentum continues to test the limits of an expanding volatility range, with price currently resting right at 1.4145. That places price against the completion marker of a developing bearish Bat pattern, creating an immediate source of counter-pressure. Opposing wick pressure remains moderate at 28.2, showing that sellers are offering resistance without halting the advance entirely. Although the volatility envelope is very expanded, fresh volatility is no longer building behind the move, signaling that momentum could face friction as it approaches overhead barriers. The developing harmonic pattern does not guarantee a reversal by itself, but it introduces credible counter-pressure right where the market tests the upper boundary.\n\nRapid switching, erratic timing, and frequent reversals keep the broader market unresolved. That disorder fades only when the price structure settles into a stable range or establishes persistent directional control. The upside lean becomes more convincing if upside expansion continues with steadier timing and repeated same-side runs while volatility stays open. Conversely, that bullish advantage weakens if sellers reclaim the broken structure around 1.415 to 1.4175, extend counter-moves beyond the recent average of 3.5 units, or invalidate the developing harmonic pattern. A stable range can replace the current choppy background without automatically reversing the broader directional lean, leaving the outcome dependent on whether buyers can hold their ground against overhead resistance.",
+  "text": "USDCAD is currently caught in an unstable transition where control shifts frequently without establishing a clear, lasting direction. While price sits at 1.425—above the 1.4142 middle Bollinger band and the 1.4205 SAR level—the underlying structure is erratic. Recent movement shows a sequence of alternating runs, including a notable 26-unit bullish extension that contrasts sharply with the smaller, more frequent bearish attempts. This lack of timing consistency keeps the market in a state of disorder, even as re-acceleration and transition pressures remain elevated. The market is not yet trending in a clean, sustained fashion; instead, it is oscillating through a series of local flips that prevent either side from gaining definitive, long-term dominance over the current volatility range.\n\nThe broader history within the 104-brick window shows a market that has struggled to maintain a consistent directional bias, with bullish and bearish runs averaging nearly identical lengths of 4.15 and 4.17 units respectively. However, recent behavior reveals a distinct shift in pressure. Over the last 12 runs, bullish extensions have widened significantly to an average of 7.0 units, while bearish counters have contracted to 3.67 units. This divergence highlights that while the overall structure remains trapped in an unstable transition, the most recent activity is characterized by sharper, more forceful bullish advances. Despite this increased re-acceleration, the lack of timing consistency prevents these moves from evolving into a clean, sustained trend, keeping the market in a state of frequent, erratic alternation.\n\nThe market is currently generating forceful movement, but it lacks the stability required for a reliable trend. While re-acceleration remains high at 66.0, the structural quality is explicitly unstable. This creates a environment where price can extend quickly, yet the gains are frequently surrendered or met with immediate, erratic counter-moves. The transition pressure of 66.3 confirms that control is shifting constantly between buyers and sellers, preventing any single direction from embedding itself. Although bullish runs have recently become sharper, the overall timing consistency remains low. Price is not building a sustainable foundation; it is simply oscillating through a series of local flips. Consequently, the current advance should be viewed as a high-pressure, unstable sequence instead of a clean, orderly directional move.\n\nThe immediate price map is defined by a series of tight, overlapping levels that reflect the current unstable transition. Support sits in the 1.4235-1.4240 zone, which marks recent confirmed high pivots that price has reclaimed. Below this, the 1.4205 SAR level provides a secondary floor that aligns with the broader bullish bias. Overhead, the first resistance area is anchored by the 1.42623 harmonic Crab completion point. A larger trend-control barrier exists further up at the 1.43367 upper Bollinger band. While price remains above the 1.4142 middle Bollinger band and the 1.38637 regression line, these levels serve as the ultimate boundary for the current bullish sequence. Until price clears the 1.42623 harmonic level or breaks back below the 1.4205 SAR, the market will likely continue to oscillate within this narrow, high-pressure range.\n\nThe current bullish sequence holds momentum, but it faces immediate counter-pressure from the developing Crab pattern at 1.42623. While the volatility range remains very expanded, the contraction in compression and balance scores suggests that fresh expansion is no longer actively building behind the move. This creates a market with room to maneuver, yet it lacks the underlying fuel to force a clean, sustained breakout. Low opposing wick pressure confirms that sellers are not yet mounting a significant challenge, but the unstable transition state means any stall in pace could quickly invite a reversal. The bullish case remains valid as long as price stays above the 1.4205 SAR, but until the market clears the harmonic resistance, the advance will likely remain high-pressure and prone to local flips.\n\nThe broader market remains unresolved as long as rapid state switching, erratic timing, and frequent reversals continue to dominate the structural landscape. This disorder will only fade if the market shifts into a more stable range or establishes persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers demonstrate repeated, steadier runs with a coherent pace and continued structural progress. Conversely, this bullish lean weakens if sellers gain persistent control, reclaim the 1.4235-1.4240 support zone, or invalidate the existing bullish structure. Until one of these changes sticks, the market will likely remain caught in its current high-pressure, unstable transition, oscillating without a clear, lasting trend.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite,gemini-3.1-flash-lite",
-  "word_count": 709
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 752
 }
