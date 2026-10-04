@@ -1,5 +1,5 @@
 {
-  "release": "37193446518",
+  "release": "weekly-37193446518-bbfix-37216891687",
   "source_run": 37193446518,
   "charts": [
     "eurusd.png",
@@ -16,5 +16,16 @@
     "deu40.png",
     "wti.png",
     "brent.png"
-  ]
+  ],
+  "chart_correction": {
+    "type": "bollinger-20-2-2-cached-renko",
+    "instruments": [
+      "XAUUSD",
+      "USA500",
+      "USATECH"
+    ],
+    "repair_run": 37216891687,
+    "data_refetched": false,
+    "reviews_regenerated": false
+  }
 }
