@@ -981,18 +981,41 @@
       "writer_source": "ai"
     }
   },
-  "release": "weekly-37193446518-bbfix-37216891687",
+  "release": "weekly-37193446518-bbfix-37217930307",
   "source_run": 37193446518,
   "review_run": 37193446518,
   "chart_correction": {
     "type": "bollinger-20-2-2-cached-renko",
     "instruments": [
-      "XAUUSD",
+      "AUDUSD",
       "USA500",
-      "USATECH"
+      "USATECH",
+      "USDCAD",
+      "USDJPY",
+      "XAUUSD"
     ],
-    "repair_run": 37216891687,
+    "repair_run": 37217930307,
     "data_refetched": false,
-    "reviews_regenerated": false
+    "repair_runs": [
+      37216891687,
+      37217930307
+    ],
+    "reviews_regenerated": false,
+    "verified_instruments": [
+      "EURUSD",
+      "USDJPY",
+      "GBPUSD",
+      "USDCHF",
+      "USDCAD",
+      "AUDUSD",
+      "NZDUSD",
+      "XAUUSD",
+      "XAGUSD",
+      "USA500",
+      "USATECH",
+      "DEU40",
+      "WTI",
+      "BRENT"
+    ]
   }
 }
