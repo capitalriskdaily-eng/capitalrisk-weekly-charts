@@ -1,51 +1,51 @@
 {
   "instrument": "XAGUSD",
-  "as_of": "2026-10-02T12:35:21.680000+00:00",
-  "source_run": 37193446518,
-  "review_run": 37193446518,
+  "as_of": "2026-10-13T00:12:50.570000+00:00",
+  "source_run": 38536888348,
+  "review_run": 38536888348,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "Sellers maintain control in a compressed, erratic market that is struggling to extend the recent decline.",
+  "state": "Sellers dominate the immediate structure while price rides the lower Bollinger band.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 35.5,
-      "current": 37.6,
-      "delta": 2.1,
-      "value": "35.5 → 37.6",
+      "previous": 40.3,
+      "current": 74.4,
+      "delta": 34.1,
+      "value": "40.3 → 74.4",
       "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 7.1,
-      "current": 2.0,
-      "delta": -5.1,
-      "value": "7.1 → 2.0",
-      "change_arrow": "↓"
+      "previous": 2.0,
+      "current": 17.8,
+      "delta": 15.8,
+      "value": "2.0 → 17.8",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 57.0,
-      "current": 59.8,
-      "delta": 2.8,
-      "value": "57.0 → 59.8",
+      "previous": 43.7,
+      "current": 55.3,
+      "delta": 11.6,
+      "value": "43.7 → 55.3",
       "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 42.5,
-      "current": 100.0,
-      "delta": 57.5,
-      "value": "42.5 → 100.0",
-      "change_arrow": "↑"
+      "previous": 94.7,
+      "current": 82.2,
+      "delta": -12.5,
+      "value": "94.7 → 82.2",
+      "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 94.4,
-      "current": 93.5,
-      "delta": -0.9,
-      "value": "94.4 → 93.5",
-      "change_arrow": "↓"
+      "previous": 68.7,
+      "current": 79.3,
+      "delta": 10.6,
+      "value": "68.7 → 79.3",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
@@ -53,19 +53,19 @@
       "current": "erratic",
       "delta": null,
       "value": "erratic",
-      "change_arrow": "→"
+      "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "XAGUSD is currently trading at 60.0, maintaining a bearish directional bias as price sits below the middle Bollinger band at 64.15 and the SAR level at 65.39987. The market structure confirms a series of lower highs and lower lows, reinforcing the downward trend. While the bearish case holds, the move is becoming increasingly compressed; volatility is contracting, and the average run length has shortened to 2.17 over the most recent 12 sequences. This indicates that while sellers retain control, the decline is losing its aggressive edge. A developing bullish Butterfly pattern with a D-point near 59.933 suggests potential counter-pressure, though the market remains firmly within its established downward swing structure for now. The current environment is characterized by erratic quality and low timing consistency.",
-    "The broader history within the 104-brick window shows a market that has struggled to maintain directional momentum, a condition that has only intensified recently. While the full sample records an equal number of bearish and bullish runs, the recent 12-run sequence highlights a sharp decline in the quality of these moves. Average bullish runs have shrunk to 1.83, down from a broader average of 2.23, while bearish runs have remained steady at 2.5. This divergence confirms that selling pressure is not necessarily becoming more forceful, but quite that the market is losing its ability to sustain any meaningful counter-move. As volatility contracts and compression reaches extreme levels, the market is effectively trapped in a state where directional runs are becoming shorter and less frequent.",
-    "The current directional move lacks the stability required for a high-conviction trend. While price remains bearish, the market is trapped in a state of extreme compression, with the compression score hitting 100.0. This environment forces price into a narrow, erratic range where re-acceleration has dropped to 2.0, signaling that the downward momentum is stalling instead of building. Sellers are still nominally in control, but the lack of follow-through is evident in the inconsistent timing and frequent local flips. The market is effectively moving through a period of structural disorder where the bearish bias is maintained by default instead of by force. Until this compression resolves through a clear expansion, the current price action should be viewed as a forceful move inside an unstable, narrowing background.",
-    "The immediate downside is anchored by the harmonic D-point at 59.933 and the lower Bollinger band at 59.53372. This zone acts as the first meaningful support area, though its proximity to current price highlights how little room the market has before testing deeper pivots near 57.0. Overhead, the first resistance area sits between 60.53264 and 61.452, encompassing the regression line and harmonic X-point. A reclaim of this area would be necessary to challenge the larger trend-control zone, which stretches from the middle Bollinger band at 64.15 up to the SAR level at 65.39987. Until price clears this upper barrier, the bearish bias remains the default, even if the current lack of expansion makes any further decline difficult to sustain.",
-    "Sellers retain directional control, but the move is increasingly defined by its lack of follow-through. While price sits below the middle Bollinger band and the SAR level, the volatility envelope is contracting, signaling that fresh expansion is no longer building behind the decline. This contraction provides room for price to maneuver within the existing range, yet it serves as a caution against expecting a sustained breakout. Counter-pressure is present in the form of a developing bullish Butterfly pattern at 59.933, which acts as a structural anchor instead of a confirmed reversal. The bearish case remains the default as long as price avoids a reclaim of the 60.53264-61.452 resistance zone, but the market's erratic quality and low timing consistency suggest that the current downward momentum is stalling.",
-    "The broader market remains unresolved, trapped in a state of extreme compression where erratic timing and frequent local flips prevent any clear directional momentum. This disorder will only fade if the market shifts into a more stable range or develops a sustained expansion. The current bearish lean is fragile; it becomes more convincing only if sellers move beyond the current stalling pattern to establish steadier timing and repeated, coherent runs. Conversely, the bearish case weakens if the market demonstrates persistent counter-pressure, such as a reclaim of the 60.53264-61.452 resistance zone or a failure to hold the harmonic D-point at 59.933. Until such structural progress or invalidation occurs, the market remains stuck in a period of forceful but unstable directional compression."
+    "Sellers hold the immediate advantage as price rests at 59.0, trading below the middle Bollinger band located at 63.25 and sliding along the lower band boundary at 58.23502. The confirmed swing structure is fully aligned to the downside, with price breaking cleanly below the latest confirmed low of 63.0. Recent downward runs match this persistent pressure, maintaining an average span of 2.5 across the last 12 sequences while bullish counter-moves struggle to reach more than an average of 1.67 units. This downward extension is not entirely smooth, however, as choppy conditions and moderate opposing wicks show that control changes hands frequently enough to prevent the decline from operating as a completely clean trend.",
+    "Stepping back across the broader history shows that selling pressure has consistently outweighed buying attempts over the 104-run window, where bearish moves averaged 2.48 against 2.14 for bullish advances. Recent behavior tightens that divergence instead of softening it. Across the last 12 sequences, selling runs remain anchored at an average span of 2.5, while counter-moves shrink back to an average of just 1.67 units. This contraction in opposing strength explains why the downside bias retains its grip. Bullish efforts are losing endurance even as the wider decline persists, leaving sellers in charge of the pace without encountering meaningful pushback from buyers.",
+    "Price is advancing downward with force, but the background conditions tell a more complicated story about stability. Continuation scores have climbed sharply to 74.4, showing that selling pressure is finding renewed backing as the wider volatility range expands along the lower boundary. Yet this push happens alongside an elevated chop score of 79.3 and a moderate transition reading of 55.3. These conflicting metrics mean the decline is occurring inside an erratic structural backdrop instead of a smooth, orderly trend. Opposing wicks remain active enough to show that buyers are still challenging drops, even if their counter-attacks keep shrinking. Sellers own the momentum, but the internal disorder prevents the move from settling into a clean, effortless path.",
+    "Directly below current price at 59.0, where a developing bullish Butterfly pattern rests, the lower Bollinger band sits at 58.23502 alongside confirmed low pivots at 57.0 and 56.0, forming the immediate support area that must absorb ongoing selling pressure. Overhead, a dense cluster provides the first resistance zone between 60.0 and 64.20481, incorporating the regression level at 60.85761, the Butterfly X point at 61.452, the middle Bollinger band at 63.25, and SAR at 64.20481. Within this overhead belt, confirmed pivots at 60.0, 61.0, 62.0, 63.0, and 64.0 mark the internal friction points buyers must clear to challenge the larger trend-control area anchored by the upper Bollinger band at 68.26498.",
+    "The broader volatility range remains wide while continuing to expand along the lower band, meaning price has room to extend the move without fresh expansion necessarily building behind every leg. Compression readings have pulled back to 82.2, showing that the volatility envelope is open, though this condition serves as a caution instead of an automatic guarantee that the selloff will maintain its current pace. At the same time, the developing Butterfly pattern sitting right at the 59.0 level introduces active counter-pressure. This harmonic structure does not reverse the bearish reading on its own, but it offers a credible source of resistance to further drops. The downside bias remains strong as long as selling runs dominate counter-attacks and the lower band holds the decline.",
+    "Rapid switching, erratic timing, and frequent reversals keep the broader market unresolved despite the heavy selling pressure. That unresolved state fades only when the background becomes more orderly, either through a stable range or through persistent directional control. The current bearish lean becomes more convincing as selling runs repeat with steadier timing and continued structural progress while instability decreases. That lean weakens if opposing buyers gain persistent control, reclaim broken structure by pushing back through the overhead resistance cluster, or extend counter-runs beyond recent limits. A stable range can replace the choppy background without automatically reversing the downside bias, but sellers must maintain their run persistence to keep the current structure valid."
   ],
-  "text": "XAGUSD is currently trading at 60.0, maintaining a bearish directional bias as price sits below the middle Bollinger band at 64.15 and the SAR level at 65.39987. The market structure confirms a series of lower highs and lower lows, reinforcing the downward trend. While the bearish case holds, the move is becoming increasingly compressed; volatility is contracting, and the average run length has shortened to 2.17 over the most recent 12 sequences. This indicates that while sellers retain control, the decline is losing its aggressive edge. A developing bullish Butterfly pattern with a D-point near 59.933 suggests potential counter-pressure, though the market remains firmly within its established downward swing structure for now. The current environment is characterized by erratic quality and low timing consistency.\n\nThe broader history within the 104-brick window shows a market that has struggled to maintain directional momentum, a condition that has only intensified recently. While the full sample records an equal number of bearish and bullish runs, the recent 12-run sequence highlights a sharp decline in the quality of these moves. Average bullish runs have shrunk to 1.83, down from a broader average of 2.23, while bearish runs have remained steady at 2.5. This divergence confirms that selling pressure is not necessarily becoming more forceful, but quite that the market is losing its ability to sustain any meaningful counter-move. As volatility contracts and compression reaches extreme levels, the market is effectively trapped in a state where directional runs are becoming shorter and less frequent.\n\nThe current directional move lacks the stability required for a high-conviction trend. While price remains bearish, the market is trapped in a state of extreme compression, with the compression score hitting 100.0. This environment forces price into a narrow, erratic range where re-acceleration has dropped to 2.0, signaling that the downward momentum is stalling instead of building. Sellers are still nominally in control, but the lack of follow-through is evident in the inconsistent timing and frequent local flips. The market is effectively moving through a period of structural disorder where the bearish bias is maintained by default instead of by force. Until this compression resolves through a clear expansion, the current price action should be viewed as a forceful move inside an unstable, narrowing background.\n\nThe immediate downside is anchored by the harmonic D-point at 59.933 and the lower Bollinger band at 59.53372. This zone acts as the first meaningful support area, though its proximity to current price highlights how little room the market has before testing deeper pivots near 57.0. Overhead, the first resistance area sits between 60.53264 and 61.452, encompassing the regression line and harmonic X-point. A reclaim of this area would be necessary to challenge the larger trend-control zone, which stretches from the middle Bollinger band at 64.15 up to the SAR level at 65.39987. Until price clears this upper barrier, the bearish bias remains the default, even if the current lack of expansion makes any further decline difficult to sustain.\n\nSellers retain directional control, but the move is increasingly defined by its lack of follow-through. While price sits below the middle Bollinger band and the SAR level, the volatility envelope is contracting, signaling that fresh expansion is no longer building behind the decline. This contraction provides room for price to maneuver within the existing range, yet it serves as a caution against expecting a sustained breakout. Counter-pressure is present in the form of a developing bullish Butterfly pattern at 59.933, which acts as a structural anchor instead of a confirmed reversal. The bearish case remains the default as long as price avoids a reclaim of the 60.53264-61.452 resistance zone, but the market's erratic quality and low timing consistency suggest that the current downward momentum is stalling.\n\nThe broader market remains unresolved, trapped in a state of extreme compression where erratic timing and frequent local flips prevent any clear directional momentum. This disorder will only fade if the market shifts into a more stable range or develops a sustained expansion. The current bearish lean is fragile; it becomes more convincing only if sellers move beyond the current stalling pattern to establish steadier timing and repeated, coherent runs. Conversely, the bearish case weakens if the market demonstrates persistent counter-pressure, such as a reclaim of the 60.53264-61.452 resistance zone or a failure to hold the harmonic D-point at 59.933. Until such structural progress or invalidation occurs, the market remains stuck in a period of forceful but unstable directional compression.",
+  "text": "Sellers hold the immediate advantage as price rests at 59.0, trading below the middle Bollinger band located at 63.25 and sliding along the lower band boundary at 58.23502. The confirmed swing structure is fully aligned to the downside, with price breaking cleanly below the latest confirmed low of 63.0. Recent downward runs match this persistent pressure, maintaining an average span of 2.5 across the last 12 sequences while bullish counter-moves struggle to reach more than an average of 1.67 units. This downward extension is not entirely smooth, however, as choppy conditions and moderate opposing wicks show that control changes hands frequently enough to prevent the decline from operating as a completely clean trend.\n\nStepping back across the broader history shows that selling pressure has consistently outweighed buying attempts over the 104-run window, where bearish moves averaged 2.48 against 2.14 for bullish advances. Recent behavior tightens that divergence instead of softening it. Across the last 12 sequences, selling runs remain anchored at an average span of 2.5, while counter-moves shrink back to an average of just 1.67 units. This contraction in opposing strength explains why the downside bias retains its grip. Bullish efforts are losing endurance even as the wider decline persists, leaving sellers in charge of the pace without encountering meaningful pushback from buyers.\n\nPrice is advancing downward with force, but the background conditions tell a more complicated story about stability. Continuation scores have climbed sharply to 74.4, showing that selling pressure is finding renewed backing as the wider volatility range expands along the lower boundary. Yet this push happens alongside an elevated chop score of 79.3 and a moderate transition reading of 55.3. These conflicting metrics mean the decline is occurring inside an erratic structural backdrop instead of a smooth, orderly trend. Opposing wicks remain active enough to show that buyers are still challenging drops, even if their counter-attacks keep shrinking. Sellers own the momentum, but the internal disorder prevents the move from settling into a clean, effortless path.\n\nDirectly below current price at 59.0, where a developing bullish Butterfly pattern rests, the lower Bollinger band sits at 58.23502 alongside confirmed low pivots at 57.0 and 56.0, forming the immediate support area that must absorb ongoing selling pressure. Overhead, a dense cluster provides the first resistance zone between 60.0 and 64.20481, incorporating the regression level at 60.85761, the Butterfly X point at 61.452, the middle Bollinger band at 63.25, and SAR at 64.20481. Within this overhead belt, confirmed pivots at 60.0, 61.0, 62.0, 63.0, and 64.0 mark the internal friction points buyers must clear to challenge the larger trend-control area anchored by the upper Bollinger band at 68.26498.\n\nThe broader volatility range remains wide while continuing to expand along the lower band, meaning price has room to extend the move without fresh expansion necessarily building behind every leg. Compression readings have pulled back to 82.2, showing that the volatility envelope is open, though this condition serves as a caution instead of an automatic guarantee that the selloff will maintain its current pace. At the same time, the developing Butterfly pattern sitting right at the 59.0 level introduces active counter-pressure. This harmonic structure does not reverse the bearish reading on its own, but it offers a credible source of resistance to further drops. The downside bias remains strong as long as selling runs dominate counter-attacks and the lower band holds the decline.\n\nRapid switching, erratic timing, and frequent reversals keep the broader market unresolved despite the heavy selling pressure. That unresolved state fades only when the background becomes more orderly, either through a stable range or through persistent directional control. The current bearish lean becomes more convincing as selling runs repeat with steadier timing and continued structural progress while instability decreases. That lean weakens if opposing buyers gain persistent control, reclaim broken structure by pushing back through the overhead resistance cluster, or extend counter-runs beyond recent limits. A stable range can replace the choppy background without automatically reversing the downside bias, but sellers must maintain their run persistence to keep the current structure valid.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 761
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 705
 }

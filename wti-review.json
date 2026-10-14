@@ -1,71 +1,71 @@
 {
   "instrument": "WTI",
-  "as_of": "2026-10-02T20:00:23.387000+00:00",
-  "source_run": 37193446518,
-  "review_run": 37193446518,
+  "as_of": "2026-10-14T11:26:08.985000+00:00",
+  "source_run": 38536888348,
+  "review_run": 38536888348,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "WTI is stalled in a compressed range, with immediate bearish pressure failing to disrupt the broader upward structure.",
+  "status": "OK",
+  "state": "WTI maintains an orderly upward stair-step structure despite a minor, immediate bearish pullback.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 34.2,
-      "current": 32.6,
-      "delta": -1.6,
-      "value": "34.2 → 32.6",
+      "previous": 74.6,
+      "current": 67.9,
+      "delta": -6.7,
+      "value": "74.6 → 67.9",
       "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 37.5,
-      "current": 24.6,
-      "delta": -12.9,
-      "value": "37.5 → 24.6",
+      "previous": 87.8,
+      "current": 54.8,
+      "delta": -33.0,
+      "value": "87.8 → 54.8",
       "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 58.6,
-      "current": 14.7,
-      "delta": -43.9,
-      "value": "58.6 → 14.7",
-      "change_arrow": "↓"
+      "previous": 33.8,
+      "current": 37.8,
+      "delta": 4.0,
+      "value": "33.8 → 37.8",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 11.5,
-      "current": 81.0,
-      "delta": 69.5,
-      "value": "11.5 → 81.0",
+      "previous": 22.1,
+      "current": 43.4,
+      "delta": 21.3,
+      "value": "22.1 → 43.4",
       "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 68.2,
-      "current": 68.2,
-      "delta": 0.0,
-      "value": "68.2 → 68.2",
-      "change_arrow": "→"
+      "previous": 48.4,
+      "current": 46.1,
+      "delta": -2.3,
+      "value": "48.4 → 46.1",
+      "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "orderly",
       "delta": null,
-      "value": "mixed",
-      "change_arrow": "↑"
+      "value": "orderly",
+      "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "WTI is currently navigating a period of intense compression, where price action remains trapped within a narrowing volatility range. While the broader structural alignment maintains an upward bias, the immediate sequence has shifted to a bearish posture. Price is trading at 91.25, sitting just below the middle Bollinger band at 91.4675 and above the lower band at 90.94379. This squeeze highlights a market that has lost its directional momentum, with re-acceleration scores dropping significantly from 37.5 to 24.6. Although the confirmed swing structure still shows higher highs and higher lows, the lack of clean continuation suggests that neither buyers nor sellers have the necessary force to escape this disorder. The market is effectively stalled, waiting for a catalyst to break the current stalemate.",
-    "The broader history captured in the 104-brick window shows a market that has historically favored bullish runs, with an average length of 4.14 compared to 3.29 for bearish moves. However, recent behavior reveals a distinct shift toward contraction. Over the last 12 runs, the average bullish run has shortened to 4.0, while the average bearish run has pulled back to 2.5. This narrowing of amplitude is consistent with the current compression score of 81.0, which has surged from 11.5. While the market retains its structural upward bias, the recent sequence shows that both buyers and sellers are struggling to sustain momentum. The decline in re-acceleration from 37.5 to 24.6 confirms that the market is losing its directional force, leaving price trapped in a stable but increasingly listless range.",
-    "The current directional move lacks the quality required to suggest a genuine shift in control. While the immediate sequence is bearish, the market is defined by high compression and a lack of expansion, meaning price is merely drifting within a narrowing range instead of breaking away. With re-acceleration scores dropping sharply from 37.5 to 24.6 and transition pressure collapsing, the move is becoming increasingly hollow. There is no evidence of a forceful, clean trend; instead, the market is trapped in a state of balanced chop. The structural quality remains mixed, as the broader upward bias conflicts with the immediate bearish posture. This is a market producing force without stability, leaving the current directional lean vulnerable to the slightest change in order flow.",
-    "The market is currently pinned between immediate technical barriers that define the boundaries of its recent compression. To the downside, the 90.68-90.94 zone, anchored by the regression line and the lower Bollinger band, serves as the primary support area. Below this, the 90.05-90.20 level remains a secondary floor. Overhead, the first resistance area sits at 91.47-91.73, encompassing the middle Bollinger band and the SAR level. A reclaim of this zone is required to shift the immediate bearish posture. The larger trend-control barrier is established at 91.85-92.00, where the recent high and harmonic completion point converge. Price must clear this upper threshold to invalidate the current bearish sequence and restore the broader upward structural bias.",
-    "The market is currently defined by a lack of directional conviction, as the volatility envelope remains broad but is clearly contracting. This squeeze indicates that while price has room to move, fresh volatility is no longer building behind the current bearish sequence. Moderate wick pressure confirms that rejection is present but not decisive, preventing any clean break of the support area. A developing Deep Crab pattern provides a source of counter-pressure near the current price, though it remains a developing structure instead of a confirmed reversal. The bearish lean is fragile, as the lack of expansion means the move is stalling instead of accelerating. A sustained reclaim of the middle Bollinger band would likely interrupt the current sequence, while a failure to hold support would be required to validate the bearish case.",
-    "The broader market remains unresolved, trapped in a state of high compression and balanced chop that keeps price action erratic and prone to frequent reversals. This disorder will only fade if the market shifts toward a more stable range or establishes clear, persistent directional control. The current bearish lean is fragile and will only become more convincing if instability decreases, allowing for repeated runs with steadier timing and coherent pace. Conversely, the bearish case weakens if the market reclaims the 91.47-91.73 resistance zone or if buyers establish persistent control that invalidates the recent bearish sequence. Until the market escapes this compression with sustained expansion, the current directional lean remains a marginal observation instead of a confirmed trend."
+    "WTI is currently in a stair-step continuation, maintaining a clear upward bias despite a minor, immediate bearish pullback. The broader structure remains orderly, with price holding well above both the 94.80 middle Bollinger band and the 94.71 regression line. While the most recent move is a single-unit decline, the overall swing structure—characterized by a sequence of higher highs and higher lows—remains firmly aligned. The market is currently navigating between the 94.95 support level and the 95.97 harmonic D target. Although re-acceleration has cooled from its previous peak, the consistency in timing and the controlled nature of recent counter-runs suggest that the upward trend retains its structural integrity for now.",
+    "The market has shifted from a period of aggressive re-acceleration to a more measured, stair-step pace. Across the 104-brick window, the average bullish run of 3.72 units significantly outweighs the 2.06-unit average for bearish moves, confirming that buyers remain the primary force. However, recent behavior shows a cooling effect; in the last 12 runs, the average bullish advance has compressed to 3.5 units, while the bearish counter-moves remain tightly controlled at 1.83 units. This persistence of small, orderly pullbacks within a larger bullish structure highlights that while the raw intensity of the advance has moderated, the underlying directional pressure is not yet breaking down. The market is currently trading with high timing consistency, favoring a slow, deliberate climb over impulsive expansion.",
+    "The market is currently defined by stable, orderly control instead of impulsive force. While re-acceleration has cooled significantly—dropping from 87.8 to 54.8—the underlying structure remains intact. The current stair-step continuation is supported by high timing consistency and controlled counter-runs, which prevent the recent pullback from destabilizing the broader trend. Compression is rising, indicating that the market is tightening its range as it advances, yet the lack of meaningful transition pressure suggests that buyers are not yet losing their grip. This is a mature directional state where the pace is deliberate and predictable. As long as the counter-moves remain contained and the swing structure holds, the current upward bias retains its structural integrity despite the recent moderation in intensity.",
+    "Immediate support sits in a thick zone below current price, anchored by the 94.95 confirmed high pivot and reinforced closely by SAR at 94.97, the 94.80 middle Bollinger band, and the 94.71 regression line. Further back, the 94.05 low pivot provides deeper structural flooring. Overhead, the first resistance area combines the upper Bollinger band at 95.93 with the harmonic D target at 95.97, forming the boundary that price must test to extend the advance. Because SAR and the middle band sit directly inside the support zone, the market does not need to clear every single lower marker before finding a firm floor. These levels define a controlled channel where buyers maintain a clear advantage as long as price respects the baseline.",
+    "The broader volatility envelope remains expanded, giving the advance plenty of room to develop, but fresh volatility is no longer actively building behind the move. Moderate opposing wick pressure of 44.7 shows that sellers are present at the margins without forcing a break of the underlying structure. Meanwhile, a developing Deep Crab pattern points toward the 95.97 harmonic target as an active overhead source of counter-pressure. That harmonic alignment introduces caution against the upper boundary, even though it does not signal an immediate reversal. As long as price respects the active support floor and counter-runs stay controlled, the stair-step advance keeps its path forward clear.",
+    "Rapid switching, erratic timing, frequent reversals and internal disorder are what keep broader market conditions unresolved. That disordered state fades only when price settles into a stable range or establishes persistent directional control. The current upward bias becomes more convincing as long as instability remains low and buyers produce repeated runs with steady timing and coherent structural progress. That bullish lean weakens when opposing sellers gain persistent control, reclaim the 94.95 broken high pivot, or cause counter-runs to extend beyond their current tight boundary. A stable range can replace the broader disorder without automatically reversing the active stair-step advance, leaving the structure intact until structural boundaries break."
   ],
-  "text": "WTI is currently navigating a period of intense compression, where price action remains trapped within a narrowing volatility range. While the broader structural alignment maintains an upward bias, the immediate sequence has shifted to a bearish posture. Price is trading at 91.25, sitting just below the middle Bollinger band at 91.4675 and above the lower band at 90.94379. This squeeze highlights a market that has lost its directional momentum, with re-acceleration scores dropping significantly from 37.5 to 24.6. Although the confirmed swing structure still shows higher highs and higher lows, the lack of clean continuation suggests that neither buyers nor sellers have the necessary force to escape this disorder. The market is effectively stalled, waiting for a catalyst to break the current stalemate.\n\nThe broader history captured in the 104-brick window shows a market that has historically favored bullish runs, with an average length of 4.14 compared to 3.29 for bearish moves. However, recent behavior reveals a distinct shift toward contraction. Over the last 12 runs, the average bullish run has shortened to 4.0, while the average bearish run has pulled back to 2.5. This narrowing of amplitude is consistent with the current compression score of 81.0, which has surged from 11.5. While the market retains its structural upward bias, the recent sequence shows that both buyers and sellers are struggling to sustain momentum. The decline in re-acceleration from 37.5 to 24.6 confirms that the market is losing its directional force, leaving price trapped in a stable but increasingly listless range.\n\nThe current directional move lacks the quality required to suggest a genuine shift in control. While the immediate sequence is bearish, the market is defined by high compression and a lack of expansion, meaning price is merely drifting within a narrowing range instead of breaking away. With re-acceleration scores dropping sharply from 37.5 to 24.6 and transition pressure collapsing, the move is becoming increasingly hollow. There is no evidence of a forceful, clean trend; instead, the market is trapped in a state of balanced chop. The structural quality remains mixed, as the broader upward bias conflicts with the immediate bearish posture. This is a market producing force without stability, leaving the current directional lean vulnerable to the slightest change in order flow.\n\nThe market is currently pinned between immediate technical barriers that define the boundaries of its recent compression. To the downside, the 90.68-90.94 zone, anchored by the regression line and the lower Bollinger band, serves as the primary support area. Below this, the 90.05-90.20 level remains a secondary floor. Overhead, the first resistance area sits at 91.47-91.73, encompassing the middle Bollinger band and the SAR level. A reclaim of this zone is required to shift the immediate bearish posture. The larger trend-control barrier is established at 91.85-92.00, where the recent high and harmonic completion point converge. Price must clear this upper threshold to invalidate the current bearish sequence and restore the broader upward structural bias.\n\nThe market is currently defined by a lack of directional conviction, as the volatility envelope remains broad but is clearly contracting. This squeeze indicates that while price has room to move, fresh volatility is no longer building behind the current bearish sequence. Moderate wick pressure confirms that rejection is present but not decisive, preventing any clean break of the support area. A developing Deep Crab pattern provides a source of counter-pressure near the current price, though it remains a developing structure instead of a confirmed reversal. The bearish lean is fragile, as the lack of expansion means the move is stalling instead of accelerating. A sustained reclaim of the middle Bollinger band would likely interrupt the current sequence, while a failure to hold support would be required to validate the bearish case.\n\nThe broader market remains unresolved, trapped in a state of high compression and balanced chop that keeps price action erratic and prone to frequent reversals. This disorder will only fade if the market shifts toward a more stable range or establishes clear, persistent directional control. The current bearish lean is fragile and will only become more convincing if instability decreases, allowing for repeated runs with steadier timing and coherent pace. Conversely, the bearish case weakens if the market reclaims the 91.47-91.73 resistance zone or if buyers establish persistent control that invalidates the recent bearish sequence. Until the market escapes this compression with sustained expansion, the current directional lean remains a marginal observation instead of a confirmed trend.",
+  "text": "WTI is currently in a stair-step continuation, maintaining a clear upward bias despite a minor, immediate bearish pullback. The broader structure remains orderly, with price holding well above both the 94.80 middle Bollinger band and the 94.71 regression line. While the most recent move is a single-unit decline, the overall swing structure—characterized by a sequence of higher highs and higher lows—remains firmly aligned. The market is currently navigating between the 94.95 support level and the 95.97 harmonic D target. Although re-acceleration has cooled from its previous peak, the consistency in timing and the controlled nature of recent counter-runs suggest that the upward trend retains its structural integrity for now.\n\nThe market has shifted from a period of aggressive re-acceleration to a more measured, stair-step pace. Across the 104-brick window, the average bullish run of 3.72 units significantly outweighs the 2.06-unit average for bearish moves, confirming that buyers remain the primary force. However, recent behavior shows a cooling effect; in the last 12 runs, the average bullish advance has compressed to 3.5 units, while the bearish counter-moves remain tightly controlled at 1.83 units. This persistence of small, orderly pullbacks within a larger bullish structure highlights that while the raw intensity of the advance has moderated, the underlying directional pressure is not yet breaking down. The market is currently trading with high timing consistency, favoring a slow, deliberate climb over impulsive expansion.\n\nThe market is currently defined by stable, orderly control instead of impulsive force. While re-acceleration has cooled significantly—dropping from 87.8 to 54.8—the underlying structure remains intact. The current stair-step continuation is supported by high timing consistency and controlled counter-runs, which prevent the recent pullback from destabilizing the broader trend. Compression is rising, indicating that the market is tightening its range as it advances, yet the lack of meaningful transition pressure suggests that buyers are not yet losing their grip. This is a mature directional state where the pace is deliberate and predictable. As long as the counter-moves remain contained and the swing structure holds, the current upward bias retains its structural integrity despite the recent moderation in intensity.\n\nImmediate support sits in a thick zone below current price, anchored by the 94.95 confirmed high pivot and reinforced closely by SAR at 94.97, the 94.80 middle Bollinger band, and the 94.71 regression line. Further back, the 94.05 low pivot provides deeper structural flooring. Overhead, the first resistance area combines the upper Bollinger band at 95.93 with the harmonic D target at 95.97, forming the boundary that price must test to extend the advance. Because SAR and the middle band sit directly inside the support zone, the market does not need to clear every single lower marker before finding a firm floor. These levels define a controlled channel where buyers maintain a clear advantage as long as price respects the baseline.\n\nThe broader volatility envelope remains expanded, giving the advance plenty of room to develop, but fresh volatility is no longer actively building behind the move. Moderate opposing wick pressure of 44.7 shows that sellers are present at the margins without forcing a break of the underlying structure. Meanwhile, a developing Deep Crab pattern points toward the 95.97 harmonic target as an active overhead source of counter-pressure. That harmonic alignment introduces caution against the upper boundary, even though it does not signal an immediate reversal. As long as price respects the active support floor and counter-runs stay controlled, the stair-step advance keeps its path forward clear.\n\nRapid switching, erratic timing, frequent reversals and internal disorder are what keep broader market conditions unresolved. That disordered state fades only when price settles into a stable range or establishes persistent directional control. The current upward bias becomes more convincing as long as instability remains low and buyers produce repeated runs with steady timing and coherent structural progress. That bullish lean weakens when opposing sellers gain persistent control, reclaim the 94.95 broken high pivot, or cause counter-runs to extend beyond their current tight boundary. A stable range can replace the broader disorder without automatically reversing the active stair-step advance, leaving the structure intact until structural boundaries break.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 761
+  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+  "word_count": 705
 }

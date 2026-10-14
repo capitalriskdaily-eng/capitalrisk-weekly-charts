@@ -1,6 +1,6 @@
 {
-  "release": "weekly-37193446518-bbfix-37217930307",
-  "source_run": 37193446518,
+  "release": "38536888348",
+  "source_run": 38536888348,
   "charts": [
     "eurusd.png",
     "usdjpy.png",
@@ -16,39 +16,5 @@
     "deu40.png",
     "wti.png",
     "brent.png"
-  ],
-  "chart_correction": {
-    "type": "bollinger-20-2-2-cached-renko",
-    "instruments": [
-      "AUDUSD",
-      "USA500",
-      "USATECH",
-      "USDCAD",
-      "USDJPY",
-      "XAUUSD"
-    ],
-    "repair_run": 37217930307,
-    "data_refetched": false,
-    "repair_runs": [
-      37216891687,
-      37217930307
-    ],
-    "reviews_regenerated": false,
-    "verified_instruments": [
-      "EURUSD",
-      "USDJPY",
-      "GBPUSD",
-      "USDCHF",
-      "USDCAD",
-      "AUDUSD",
-      "NZDUSD",
-      "XAUUSD",
-      "XAGUSD",
-      "USA500",
-      "USATECH",
-      "DEU40",
-      "WTI",
-      "BRENT"
-    ]
-  }
+  ]
 }

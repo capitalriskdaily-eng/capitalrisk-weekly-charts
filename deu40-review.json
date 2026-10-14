@@ -1,71 +1,71 @@
 {
   "instrument": "DEU40",
-  "as_of": "2026-10-02T14:05:14.482000+00:00",
-  "source_run": 37193446518,
-  "review_run": 37193446518,
+  "as_of": "2026-10-14T08:31:00.461000+00:00",
+  "source_run": 38536888348,
+  "review_run": 38536888348,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "The market is trapped in a state of unstable balance with no clear directional conviction.",
+  "state": "DEU40 remains caught in a wide, non-directional range where immediate bullish attempts are currently meeting significant structural friction.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 33.4,
-      "current": 31.8,
-      "delta": -1.6,
-      "value": "33.4 → 31.8",
-      "change_arrow": "↓"
+      "previous": 35.0,
+      "current": 65.2,
+      "delta": 30.2,
+      "value": "35.0 → 65.2",
+      "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 5.9,
-      "current": 1.8,
-      "delta": -4.1,
-      "value": "5.9 → 1.8",
-      "change_arrow": "↓"
+      "previous": 1.8,
+      "current": 16.9,
+      "delta": 15.1,
+      "value": "1.8 → 16.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 17.6,
-      "current": 10.1,
-      "delta": -7.5,
-      "value": "17.6 → 10.1",
-      "change_arrow": "↓"
+      "previous": 30.0,
+      "current": 47.5,
+      "delta": 17.5,
+      "value": "30.0 → 47.5",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 86.3,
-      "current": 53.4,
-      "delta": -32.9,
-      "value": "86.3 → 53.4",
+      "previous": 100.0,
+      "current": 90.1,
+      "delta": -9.9,
+      "value": "100.0 → 90.1",
       "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 54.9,
-      "current": 66.0,
-      "delta": 11.1,
-      "value": "54.9 → 66.0",
-      "change_arrow": "↑"
+      "previous": 97.9,
+      "current": 95.6,
+      "delta": -2.3,
+      "value": "97.9 → 95.6",
+      "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "mixed",
       "delta": null,
-      "value": "unstable",
-      "change_arrow": "→"
+      "value": "mixed",
+      "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "The DEU40 is currently caught in a state of unstable balance, where price action lacks a clear directional path. While recent movement shows a minor bearish tilt, the broader structural quality remains poor, characterized by frequent local flips and high opposing wick pressure. The market is effectively reorganizing within a wider range, with neither buyers nor sellers able to establish consistent run control. Compression has dropped significantly, yet the volatility range remains expanded, suggesting that the current disorder is not merely a pause but a persistent lack of conviction. A developing bearish Bat pattern sits overhead at 25305.466, providing a potential source of counter-pressure, but until the market breaks its current pattern of erratic alternation, the immediate price action will likely continue to struggle for a sustainable trend.",
-    "The broader history within the 104-brick window suggests a market that has struggled to find a consistent directional identity, but recent behavior highlights a shift toward even greater instability. While the full sample shows a nearly even split between bullish and bearish runs, the most recent sequence of 12 runs reveals that bullish attempts are becoming longer, averaging 3.5 units compared to the broader 2.88, even as bearish runs have contracted to an average of 2.0. Despite this, the market remains trapped in a state of high chop and frequent local flips. The recent acceleration in counter-pace, paired with a sharp drop in continuation scores, confirms that while the market is attempting to move, it lacks the structural persistence to turn those efforts into a clean, sustained trend.",
-    "The current directional move lacks the structural integrity required to qualify as a genuine trend. While price is attempting to push lower, the market is plagued by high chop and very high opposing wick pressure, which consistently undermines the quality of each bearish sequence. The sharp drop in compression—from 86.3 down to 53.4—indicates that the market has moved away from a tighter, more orderly state into one of broader disorder. With continuation and re-acceleration scores both trending downward, the selloff is becoming less, not more, reliable. This is a forceful move occurring inside an unstable background, where the lack of persistent control means that every minor advance is met with immediate, erratic counter-pressure instead of a clean, sustained directional shift.",
-    "The DEU40 currently sits in a zone of structural ambiguity, with price hovering above a confluence of support. The area between 25106.81 and 25124.0—comprising the SAR level, the LR150 regression line, and the Bollinger middle band—serves as the immediate floor. As long as price holds above this cluster, the market maintains its current state of unstable balance. To the upside, the first resistance zone begins near 25244.0 and extends toward the developing bearish Bat completion at 25305.47. This area acts as a primary hurdle for any recovery attempt. Beyond that, the broader trend-control zone remains anchored by the upper Bollinger boundary at 25344.36. Until the market clears these overhead barriers or breaks decisively below the support cluster, it will likely remain trapped in its current disorganized range.",
-    "The current bearish move faces immediate friction from very high opposing wick pressure, which sits at an index of 90.4. This level of rejection shows that buyers are stepping in whenever price dips, preventing the decline from gaining clean momentum. While the volatility envelope remains expanded, providing room for further movement, the lack of fresh expansion behind the selloff suggests the move is stalling instead of accelerating. A developing bearish Bat pattern at 25305.47 adds a layer of potential counter-pressure, though it remains a structural possibility instead of a confirmed reversal. The bearish case would only gain force if sellers could extend their runs with greater consistency, but for now, the market remains trapped in a state of high chop where every directional effort is met with immediate, erratic resistance.",
-    "The broader market remains unresolved as long as the current state of rapid switching, erratic timing, and frequent reversals persists. This disorder keeps the DEU40 trapped in a non-directional range where neither buyers nor sellers can establish a sustainable path. The bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and coherent pace. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken swing area near 25244.0, or invalidate the current directional evidence through a shift toward bullish persistence. Until the market moves away from its current disorganized state—either by settling into a stable range or by establishing clear, sustained directional control—the immediate bearish tilt will likely continue to struggle for structural progress."
+    "DEU40 is currently navigating a period of significant structural disorder, with price hovering at 25429.0. While the immediate sequence shows a bullish tilt, the broader market remains non-directional and caught in a state of reorganization. The volatility range is very expanded and currently widening, which allows for sharp moves but prevents any single direction from establishing a sustained trend. A developing Deep Crab harmonic pattern near current price adds a layer of potential bearish counter-pressure, even as price rides the upper Bollinger band. With balance and compression scores remaining high, the market is struggling to escape its wider state of chop. The current price action is consistent with a market that is testing its boundaries without yet committing to a definitive path.",
+    "The market has shifted from its broader history, where bullish and bearish runs were nearly identical in frequency and length. Within the 104-brick window, the average bullish run of 2.67 and bearish run of 2.40 reflected a balanced environment. Recent behavior tells a different story. Over the last 12 runs, the average bullish run has stretched to 3.5, while the average bearish run has contracted to 1.83. This divergence shows that buying pressure is currently more persistent than selling pressure, even though the broader market remains caught in a non-directional state. While the dominant pace is decelerating, the acceleration in counter-moves suggests that the market is finding new ways to test its boundaries without yet resolving the underlying disorder.",
+    "The current directional move lacks the stability required to define a genuine trend. While buying pressure has become more persistent in recent runs, the market remains trapped in a state of high compression and chop. The recent increase in continuation and re-acceleration scores shows that the latest bullish moves have more force than before, but this is occurring within an expanded volatility range that has not yet resolved its underlying disorder. The market is effectively testing its upper boundaries, yet the lack of a clear structural shift means these advances are just as likely to be absorbed by the prevailing chop as they are to break out. Control is shifting, but it remains fragmented and prone to rapid, counter-directional reversals.",
+    "Price finds immediate support below in the 25343 to 25404 zone, which contains several confirmed pivot lows alongside the harmonic X point sitting at 25234.499 and the SAR level at 25264.90636. This area marks the first line of defense against any pullback from current levels. Overhead, the first resistance area clusters tightly around the upper Bollinger band at 25473.10491 and the nearby confirmed high pivots starting at 25515.0. These boundaries define the immediate channel where buyers and sellers are testing control. Further below, the middle Bollinger band at 25156.6 and the rising regression line at 25058.60722 form the larger trend-control area, keeping the broader market anchored even as shorter-term advances press against the upper limits of the range.",
+    "Price continues to hug the upper Bollinger band at 25473.10491, maintaining a strong upward tilt within an expanded volatility range. Even so, the expanding width of the bands shows that fresh volatility is still building behind the move, leaving room for further extension without guaranteeing a lasting breakout. Moderate wick rejection sits alongside a developing Deep Crab pattern directly at current price. This pattern acts as a source of counter-pressure, signaling caution instead of a confirmed reversal of the broader sequence. Until selling pressure forces price away from its upper limits or tests the support zone below, the market remains caught between ongoing upward tests and the persistent weight of its underlying disorder.",
+    "The broader market remains caught in a state of high balance and chop, meaning rapid switching and frequent reversals will keep the wider background unresolved until the structure stabilizes. That unresolved condition fades only when the market transitions into a stable range or establishes persistent directional control. The recent bullish lean becomes more convincing if upside runs maintain their repetition and buyers preserve structural progress above the immediate support zone near 25343 to 25404. Conversely, that upside tilt grows weaker if sellers reclaim broken swing structure, counter-runs begin lasting longer, or same-side persistence fades. Until one of those concrete changes takes hold, the price action remains suspended between ongoing boundary tests and the weight of its wider disorder."
   ],
-  "text": "The DEU40 is currently caught in a state of unstable balance, where price action lacks a clear directional path. While recent movement shows a minor bearish tilt, the broader structural quality remains poor, characterized by frequent local flips and high opposing wick pressure. The market is effectively reorganizing within a wider range, with neither buyers nor sellers able to establish consistent run control. Compression has dropped significantly, yet the volatility range remains expanded, suggesting that the current disorder is not merely a pause but a persistent lack of conviction. A developing bearish Bat pattern sits overhead at 25305.466, providing a potential source of counter-pressure, but until the market breaks its current pattern of erratic alternation, the immediate price action will likely continue to struggle for a sustainable trend.\n\nThe broader history within the 104-brick window suggests a market that has struggled to find a consistent directional identity, but recent behavior highlights a shift toward even greater instability. While the full sample shows a nearly even split between bullish and bearish runs, the most recent sequence of 12 runs reveals that bullish attempts are becoming longer, averaging 3.5 units compared to the broader 2.88, even as bearish runs have contracted to an average of 2.0. Despite this, the market remains trapped in a state of high chop and frequent local flips. The recent acceleration in counter-pace, paired with a sharp drop in continuation scores, confirms that while the market is attempting to move, it lacks the structural persistence to turn those efforts into a clean, sustained trend.\n\nThe current directional move lacks the structural integrity required to qualify as a genuine trend. While price is attempting to push lower, the market is plagued by high chop and very high opposing wick pressure, which consistently undermines the quality of each bearish sequence. The sharp drop in compression—from 86.3 down to 53.4—indicates that the market has moved away from a tighter, more orderly state into one of broader disorder. With continuation and re-acceleration scores both trending downward, the selloff is becoming less, not more, reliable. This is a forceful move occurring inside an unstable background, where the lack of persistent control means that every minor advance is met with immediate, erratic counter-pressure instead of a clean, sustained directional shift.\n\nThe DEU40 currently sits in a zone of structural ambiguity, with price hovering above a confluence of support. The area between 25106.81 and 25124.0—comprising the SAR level, the LR150 regression line, and the Bollinger middle band—serves as the immediate floor. As long as price holds above this cluster, the market maintains its current state of unstable balance. To the upside, the first resistance zone begins near 25244.0 and extends toward the developing bearish Bat completion at 25305.47. This area acts as a primary hurdle for any recovery attempt. Beyond that, the broader trend-control zone remains anchored by the upper Bollinger boundary at 25344.36. Until the market clears these overhead barriers or breaks decisively below the support cluster, it will likely remain trapped in its current disorganized range.\n\nThe current bearish move faces immediate friction from very high opposing wick pressure, which sits at an index of 90.4. This level of rejection shows that buyers are stepping in whenever price dips, preventing the decline from gaining clean momentum. While the volatility envelope remains expanded, providing room for further movement, the lack of fresh expansion behind the selloff suggests the move is stalling instead of accelerating. A developing bearish Bat pattern at 25305.47 adds a layer of potential counter-pressure, though it remains a structural possibility instead of a confirmed reversal. The bearish case would only gain force if sellers could extend their runs with greater consistency, but for now, the market remains trapped in a state of high chop where every directional effort is met with immediate, erratic resistance.\n\nThe broader market remains unresolved as long as the current state of rapid switching, erratic timing, and frequent reversals persists. This disorder keeps the DEU40 trapped in a non-directional range where neither buyers nor sellers can establish a sustainable path. The bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and coherent pace. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken swing area near 25244.0, or invalidate the current directional evidence through a shift toward bullish persistence. Until the market moves away from its current disorganized state—either by settling into a stable range or by establishing clear, sustained directional control—the immediate bearish tilt will likely continue to struggle for structural progress.",
+  "text": "DEU40 is currently navigating a period of significant structural disorder, with price hovering at 25429.0. While the immediate sequence shows a bullish tilt, the broader market remains non-directional and caught in a state of reorganization. The volatility range is very expanded and currently widening, which allows for sharp moves but prevents any single direction from establishing a sustained trend. A developing Deep Crab harmonic pattern near current price adds a layer of potential bearish counter-pressure, even as price rides the upper Bollinger band. With balance and compression scores remaining high, the market is struggling to escape its wider state of chop. The current price action is consistent with a market that is testing its boundaries without yet committing to a definitive path.\n\nThe market has shifted from its broader history, where bullish and bearish runs were nearly identical in frequency and length. Within the 104-brick window, the average bullish run of 2.67 and bearish run of 2.40 reflected a balanced environment. Recent behavior tells a different story. Over the last 12 runs, the average bullish run has stretched to 3.5, while the average bearish run has contracted to 1.83. This divergence shows that buying pressure is currently more persistent than selling pressure, even though the broader market remains caught in a non-directional state. While the dominant pace is decelerating, the acceleration in counter-moves suggests that the market is finding new ways to test its boundaries without yet resolving the underlying disorder.\n\nThe current directional move lacks the stability required to define a genuine trend. While buying pressure has become more persistent in recent runs, the market remains trapped in a state of high compression and chop. The recent increase in continuation and re-acceleration scores shows that the latest bullish moves have more force than before, but this is occurring within an expanded volatility range that has not yet resolved its underlying disorder. The market is effectively testing its upper boundaries, yet the lack of a clear structural shift means these advances are just as likely to be absorbed by the prevailing chop as they are to break out. Control is shifting, but it remains fragmented and prone to rapid, counter-directional reversals.\n\nPrice finds immediate support below in the 25343 to 25404 zone, which contains several confirmed pivot lows alongside the harmonic X point sitting at 25234.499 and the SAR level at 25264.90636. This area marks the first line of defense against any pullback from current levels. Overhead, the first resistance area clusters tightly around the upper Bollinger band at 25473.10491 and the nearby confirmed high pivots starting at 25515.0. These boundaries define the immediate channel where buyers and sellers are testing control. Further below, the middle Bollinger band at 25156.6 and the rising regression line at 25058.60722 form the larger trend-control area, keeping the broader market anchored even as shorter-term advances press against the upper limits of the range.\n\nPrice continues to hug the upper Bollinger band at 25473.10491, maintaining a strong upward tilt within an expanded volatility range. Even so, the expanding width of the bands shows that fresh volatility is still building behind the move, leaving room for further extension without guaranteeing a lasting breakout. Moderate wick rejection sits alongside a developing Deep Crab pattern directly at current price. This pattern acts as a source of counter-pressure, signaling caution instead of a confirmed reversal of the broader sequence. Until selling pressure forces price away from its upper limits or tests the support zone below, the market remains caught between ongoing upward tests and the persistent weight of its underlying disorder.\n\nThe broader market remains caught in a state of high balance and chop, meaning rapid switching and frequent reversals will keep the wider background unresolved until the structure stabilizes. That unresolved condition fades only when the market transitions into a stable range or establishes persistent directional control. The recent bullish lean becomes more convincing if upside runs maintain their repetition and buyers preserve structural progress above the immediate support zone near 25343 to 25404. Conversely, that upside tilt grows weaker if sellers reclaim broken swing structure, counter-runs begin lasting longer, or same-side persistence fades. Until one of those concrete changes takes hold, the price action remains suspended between ongoing boundary tests and the weight of its wider disorder.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 777
+  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+  "word_count": 722
 }

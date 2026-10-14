@@ -1,71 +1,71 @@
 {
   "instrument": "USDCHF",
-  "as_of": "2026-10-02T12:51:57.709000+00:00",
-  "source_run": 37193446518,
-  "review_run": 37193446518,
+  "as_of": "2026-10-13T00:00:01.235000+00:00",
+  "source_run": 38536888348,
+  "review_run": 38536888348,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "USDCHF remains in an unstable transition where bullish swing structure conflicts with significant overhead pressure.",
+  "status": "OK",
+  "state": "USDCHF is pushing higher within an expanded volatility range, but rising resistance and weakening momentum scores suggest the move is losing its clean directional force.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 48.1,
-      "current": 48.2,
-      "delta": 0.1,
-      "value": "48.1 → 48.2",
-      "change_arrow": "↑"
+      "previous": 48.2,
+      "current": 41.2,
+      "delta": -7.0,
+      "value": "48.2 → 41.2",
+      "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 31.9,
-      "current": 33.2,
-      "delta": 1.3,
-      "value": "31.9 → 33.2",
-      "change_arrow": "↑"
+      "previous": 72.1,
+      "current": 39.3,
+      "delta": -32.8,
+      "value": "72.1 → 39.3",
+      "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 78.7,
-      "current": 79.0,
-      "delta": 0.3,
-      "value": "78.7 → 79.0",
-      "change_arrow": "↑"
+      "previous": 53.7,
+      "current": 36.6,
+      "delta": -17.1,
+      "value": "53.7 → 36.6",
+      "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 86.3,
-      "current": 78.0,
-      "delta": -8.3,
-      "value": "86.3 → 78.0",
-      "change_arrow": "↓"
+      "previous": 11.0,
+      "current": 31.7,
+      "delta": 20.7,
+      "value": "11.0 → 31.7",
+      "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 44.8,
-      "current": 43.4,
-      "delta": -1.4,
-      "value": "44.8 → 43.4",
-      "change_arrow": "↓"
+      "previous": 30.3,
+      "current": 32.9,
+      "delta": 2.6,
+      "value": "30.3 → 32.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "mixed",
       "delta": null,
-      "value": "unstable",
+      "value": "mixed",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "USDCHF is currently caught in a state of unstable transition, where price action remains bullish in its broader structure but lacks the clean momentum to sustain a clear trend. While the market maintains a higher-high and higher-low sequence, with the latest confirmed low at 0.8195, the immediate price of 0.8285 sits below the middle Bollinger band at 0.82947. This positioning highlights a disconnect between the established swing structure and the current lack of follow-through. Opposing wick pressure is very high, reflecting a market that flips direction easily instead of committing to a single path. With the SAR level at 0.83333 acting as a nearby overhead barrier, the current advance struggles to find the necessary stability to overcome these structural constraints.",
-    "The market has shifted from a broader sample of balanced runs into a phase where recent movement is becoming less efficient. Across the 104-brick window, bullish and bearish runs were perfectly matched at 16 apiece, with average bullish runs of 3.88 units and bearish runs of 2.62. However, the most recent 12 runs show a distinct change: bullish extensions have stretched to an average of 5.0 units, while bearish counter-moves have also expanded to 3.0. This simultaneous expansion in both directions highlights that while the dominant trend remains upward, the market is not gaining cleaner control. Instead, the move is becoming sharper and more volatile, with counter-moves lasting longer and opposing wick pressure remaining very high. The result is a sequence that is extending without becoming stable.",
-    "The current market movement is forceful but lacks the stability required for a reliable trend. While price continues to extend, the internal quality is deteriorating as re-acceleration scores remain low at 33.2 and opposing wick pressure stays very high. This combination shows that buyers are pushing price higher, but they are meeting consistent resistance that prevents the move from becoming clean or efficient. The recent expansion in both bullish and bearish runs confirms this disorder; the market is simply moving faster in both directions instead of establishing a clear path. With compression levels dropping to 78.0 and timing consistency remaining low, the current advance is best viewed as an exhaustion-type extension that is struggling to overcome overhead constraints like the SAR level at 0.83333.",
-    "The market map is defined by a series of overhead barriers that keep the current bullish extension under pressure. Price sits just below the middle Bollinger band at 0.82947, which acts as the immediate resistance zone alongside the SAR level at 0.83333. Clearing this area is necessary to test the recent high of 0.8375, but the overhead is crowded and difficult to navigate. Below current price, the first zone of support is anchored by the harmonic D level at 0.82269 and the lower Bollinger band at 0.82108. The larger trend-control area sits lower at 0.8199, where the rising regression line provides a final structural floor. As long as price remains trapped between these levels, the market will likely continue to struggle with its own instability.",
-    "The current bullish extension remains active, but it is increasingly defined by exhaustion instead of momentum. While the volatility range is still expanded, the slowing width change indicates that fresh volatility is no longer building behind the move. This is a caution, not a signal of reversal, but it leaves the market vulnerable to the very high opposing wick pressure that has consistently capped gains. A developing Gartley pattern near 0.82269 provides a source of counter-pressure, though it remains a potential influence instead of a confirmed reversal point. The move can continue as long as price holds above the harmonic D level and the rising regression line at 0.8199. However, the lack of clean continuation scores suggests that any further upside will likely remain erratic and prone to frequent, sharp interruptions.",
-    "The broader market remains unresolved as long as rapid state switching, erratic timing, and frequent reversals dominate the sequence. This disorder fades only when the market achieves a more orderly state, either through a stable range or persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers develop repeated runs with steadier timing and coherent pace. Conversely, the bullish case weakens if the market loses its structural progress, specifically if sellers reclaim the broken swing area at 0.8195 or if counter-moves begin to last longer than the dominant bullish extensions. Until one of these conditions sticks, the market will likely maintain its current erratic character, trapped between its existing structural constraints and the high opposing wick pressure."
+    "USDCHF is currently navigating a period of high volatility, with price sitting at 0.8325. While the broader trend remains upward, the immediate market is showing signs of instability. Price is riding the upper Bollinger band, which is very expanded, indicating that the recent move has been forceful. However, the structural quality is mixed, and high opposing wick pressure suggests that buyers are meeting significant resistance as they push higher. The market is currently reorganizing its swing structure, and with continuation and re-acceleration scores both declining, the upward momentum is becoming less clean. A developing bearish Crab pattern with a D-completion target at 0.83446 adds a layer of potential counter-pressure just above current levels, keeping the immediate outlook unresolved despite the prevailing upward bias.",
+    "The market has shifted from a broader history of balanced movement into a phase of sharper, though less stable, directional runs. Across the 104-brick window, bullish and bearish runs were relatively comparable, with average bullish advances of 3.94 and bearish declines of 2.41. Recent behavior reveals a notable change: the average bullish run has surged to 6.0, while bearish runs have compressed to 1.83. This expansion in the dominant direction suggests that buyers are exerting more force, yet the quality of these advances is deteriorating. With re-acceleration scores dropping significantly and opposing wick pressure remaining high, the recent runs are becoming more aggressive in distance but less persistent in their underlying structure. The market is extending, but it is doing so with increasing friction.",
+    "The current directional move is forceful but lacks the internal stability required to call it a clean trend. While price is riding the upper Bollinger band, the underlying quality of the advance is deteriorating. Continuation and re-acceleration scores have dropped significantly, falling from 48.2 to 41.2 and 72.1 to 39.3 respectively. This shows that while buyers are still pushing price higher, they are doing so with less conviction than in the immediate past. High opposing wick pressure further confirms that every attempt to extend the move meets resistance. The market is essentially producing a sharp, aggressive run inside a background that remains structurally disorganized. It is a forceful move, but it is not a stable one.",
+    "The market map is defined by immediate overhead resistance and a series of support zones that reflect the recent, volatile expansion. The first resistance area sits at 0.83446-0.83525, grouping the harmonic Crab D-completion target with the upper Bollinger band. This zone represents the current ceiling for the aggressive, albeit unstable, bullish run. Below price, the SAR level at 0.82883 serves as the initial support, followed by a broader zone near 0.8205-0.8244 that includes the middle Bollinger band and a significant confirmed high pivot. The larger trend-control barrier remains well below at 0.81419, anchored by the regression line. As long as price holds above these support levels, the upward bias persists, but the lack of stability makes the overhead resistance zone a critical test of the current force.",
+    "The upper Bollinger band sits broad at 0.83525, giving the advance room to maneuver while fresh volatility is no longer expanding behind the move. High opposing wick pressure shows buyers encountering steady friction as they test these upper extremes. At the same time, a developing bearish Crab pattern near current price introduces a source of counter-pressure. This pattern creates caution instead of confirming an immediate reversal. Price continues to ride the upper boundary, but the combination of high opposing wicks and a developing harmonic target overhead means the advance is meeting genuine resistance even as it holds its ground.",
+    "Rapid switching, erratic timing, frequent reversals and disorder keep the wider market unresolved. That state only fades when the background becomes more orderly, either through a stable range or through persistent directional control. The current upward lean becomes more convincing only when instability decreases and buyers develop repeated runs with steadier timing, coherent pace, and continued structural progress. That directional lean becomes weaker if sellers gain persistent control, reclaim broken structure near support levels like 0.8205-0.8244, or invalidate the supplied directional evidence. A stable range can replace the unresolved background without automatically reversing the current directional bias. Until one of those shifts occurs, the market remains forceful at the margin while staying structurally unconfirmed."
   ],
-  "text": "USDCHF is currently caught in a state of unstable transition, where price action remains bullish in its broader structure but lacks the clean momentum to sustain a clear trend. While the market maintains a higher-high and higher-low sequence, with the latest confirmed low at 0.8195, the immediate price of 0.8285 sits below the middle Bollinger band at 0.82947. This positioning highlights a disconnect between the established swing structure and the current lack of follow-through. Opposing wick pressure is very high, reflecting a market that flips direction easily instead of committing to a single path. With the SAR level at 0.83333 acting as a nearby overhead barrier, the current advance struggles to find the necessary stability to overcome these structural constraints.\n\nThe market has shifted from a broader sample of balanced runs into a phase where recent movement is becoming less efficient. Across the 104-brick window, bullish and bearish runs were perfectly matched at 16 apiece, with average bullish runs of 3.88 units and bearish runs of 2.62. However, the most recent 12 runs show a distinct change: bullish extensions have stretched to an average of 5.0 units, while bearish counter-moves have also expanded to 3.0. This simultaneous expansion in both directions highlights that while the dominant trend remains upward, the market is not gaining cleaner control. Instead, the move is becoming sharper and more volatile, with counter-moves lasting longer and opposing wick pressure remaining very high. The result is a sequence that is extending without becoming stable.\n\nThe current market movement is forceful but lacks the stability required for a reliable trend. While price continues to extend, the internal quality is deteriorating as re-acceleration scores remain low at 33.2 and opposing wick pressure stays very high. This combination shows that buyers are pushing price higher, but they are meeting consistent resistance that prevents the move from becoming clean or efficient. The recent expansion in both bullish and bearish runs confirms this disorder; the market is simply moving faster in both directions instead of establishing a clear path. With compression levels dropping to 78.0 and timing consistency remaining low, the current advance is best viewed as an exhaustion-type extension that is struggling to overcome overhead constraints like the SAR level at 0.83333.\n\nThe market map is defined by a series of overhead barriers that keep the current bullish extension under pressure. Price sits just below the middle Bollinger band at 0.82947, which acts as the immediate resistance zone alongside the SAR level at 0.83333. Clearing this area is necessary to test the recent high of 0.8375, but the overhead is crowded and difficult to navigate. Below current price, the first zone of support is anchored by the harmonic D level at 0.82269 and the lower Bollinger band at 0.82108. The larger trend-control area sits lower at 0.8199, where the rising regression line provides a final structural floor. As long as price remains trapped between these levels, the market will likely continue to struggle with its own instability.\n\nThe current bullish extension remains active, but it is increasingly defined by exhaustion instead of momentum. While the volatility range is still expanded, the slowing width change indicates that fresh volatility is no longer building behind the move. This is a caution, not a signal of reversal, but it leaves the market vulnerable to the very high opposing wick pressure that has consistently capped gains. A developing Gartley pattern near 0.82269 provides a source of counter-pressure, though it remains a potential influence instead of a confirmed reversal point. The move can continue as long as price holds above the harmonic D level and the rising regression line at 0.8199. However, the lack of clean continuation scores suggests that any further upside will likely remain erratic and prone to frequent, sharp interruptions.\n\nThe broader market remains unresolved as long as rapid state switching, erratic timing, and frequent reversals dominate the sequence. This disorder fades only when the market achieves a more orderly state, either through a stable range or persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers develop repeated runs with steadier timing and coherent pace. Conversely, the bullish case weakens if the market loses its structural progress, specifically if sellers reclaim the broken swing area at 0.8195 or if counter-moves begin to last longer than the dominant bullish extensions. Until one of these conditions sticks, the market will likely maintain its current erratic character, trapped between its existing structural constraints and the high opposing wick pressure.",
+  "text": "USDCHF is currently navigating a period of high volatility, with price sitting at 0.8325. While the broader trend remains upward, the immediate market is showing signs of instability. Price is riding the upper Bollinger band, which is very expanded, indicating that the recent move has been forceful. However, the structural quality is mixed, and high opposing wick pressure suggests that buyers are meeting significant resistance as they push higher. The market is currently reorganizing its swing structure, and with continuation and re-acceleration scores both declining, the upward momentum is becoming less clean. A developing bearish Crab pattern with a D-completion target at 0.83446 adds a layer of potential counter-pressure just above current levels, keeping the immediate outlook unresolved despite the prevailing upward bias.\n\nThe market has shifted from a broader history of balanced movement into a phase of sharper, though less stable, directional runs. Across the 104-brick window, bullish and bearish runs were relatively comparable, with average bullish advances of 3.94 and bearish declines of 2.41. Recent behavior reveals a notable change: the average bullish run has surged to 6.0, while bearish runs have compressed to 1.83. This expansion in the dominant direction suggests that buyers are exerting more force, yet the quality of these advances is deteriorating. With re-acceleration scores dropping significantly and opposing wick pressure remaining high, the recent runs are becoming more aggressive in distance but less persistent in their underlying structure. The market is extending, but it is doing so with increasing friction.\n\nThe current directional move is forceful but lacks the internal stability required to call it a clean trend. While price is riding the upper Bollinger band, the underlying quality of the advance is deteriorating. Continuation and re-acceleration scores have dropped significantly, falling from 48.2 to 41.2 and 72.1 to 39.3 respectively. This shows that while buyers are still pushing price higher, they are doing so with less conviction than in the immediate past. High opposing wick pressure further confirms that every attempt to extend the move meets resistance. The market is essentially producing a sharp, aggressive run inside a background that remains structurally disorganized. It is a forceful move, but it is not a stable one.\n\nThe market map is defined by immediate overhead resistance and a series of support zones that reflect the recent, volatile expansion. The first resistance area sits at 0.83446-0.83525, grouping the harmonic Crab D-completion target with the upper Bollinger band. This zone represents the current ceiling for the aggressive, albeit unstable, bullish run. Below price, the SAR level at 0.82883 serves as the initial support, followed by a broader zone near 0.8205-0.8244 that includes the middle Bollinger band and a significant confirmed high pivot. The larger trend-control barrier remains well below at 0.81419, anchored by the regression line. As long as price holds above these support levels, the upward bias persists, but the lack of stability makes the overhead resistance zone a critical test of the current force.\n\nThe upper Bollinger band sits broad at 0.83525, giving the advance room to maneuver while fresh volatility is no longer expanding behind the move. High opposing wick pressure shows buyers encountering steady friction as they test these upper extremes. At the same time, a developing bearish Crab pattern near current price introduces a source of counter-pressure. This pattern creates caution instead of confirming an immediate reversal. Price continues to ride the upper boundary, but the combination of high opposing wicks and a developing harmonic target overhead means the advance is meeting genuine resistance even as it holds its ground.\n\nRapid switching, erratic timing, frequent reversals and disorder keep the wider market unresolved. That state only fades when the background becomes more orderly, either through a stable range or through persistent directional control. The current upward lean becomes more convincing only when instability decreases and buyers develop repeated runs with steadier timing, coherent pace, and continued structural progress. That directional lean becomes weaker if sellers gain persistent control, reclaim broken structure near support levels like 0.8205-0.8244, or invalidate the supplied directional evidence. A stable range can replace the unresolved background without automatically reversing the current directional bias. Until one of those shifts occurs, the market remains forceful at the margin while staying structurally unconfirmed.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 770
+  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+  "word_count": 722
 }
