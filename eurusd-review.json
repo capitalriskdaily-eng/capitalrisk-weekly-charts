@@ -1,71 +1,71 @@
 {
   "instrument": "EURUSD",
-  "as_of": "2026-10-13T07:27:28.893000+00:00",
-  "source_run": 38536888348,
-  "review_run": 38536888348,
+  "as_of": "2026-10-16T15:51:01.777000+00:00",
+  "source_run": 39082773918,
+  "review_run": 39082773918,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "The market is in an unstable transition, with price caught between immediate bullish attempts and persistent overhead resistance.",
+  "state": "Sellers maintain the immediate advantage, but the decline still lacks clean trend continuation.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 71.6,
-      "current": 68.1,
-      "delta": -3.5,
-      "value": "71.6 → 68.1",
-      "change_arrow": "↓"
+      "previous": 41.9,
+      "current": 41.9,
+      "delta": 0.0,
+      "value": "41.9 → 41.9",
+      "change_arrow": "→"
     },
     {
       "label": "Re-acceleration",
-      "previous": 16.7,
-      "current": 14.3,
-      "delta": -2.4,
-      "value": "16.7 → 14.3",
-      "change_arrow": "↓"
+      "previous": 11.9,
+      "current": 11.9,
+      "delta": 0.0,
+      "value": "11.9 → 11.9",
+      "change_arrow": "→"
     },
     {
       "label": "Transition pressure",
-      "previous": 49.1,
-      "current": 72.9,
-      "delta": 23.8,
-      "value": "49.1 → 72.9",
-      "change_arrow": "↑"
+      "previous": 55.0,
+      "current": 39.5,
+      "delta": -15.5,
+      "value": "55.0 → 39.5",
+      "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 92.3,
-      "current": 76.7,
-      "delta": -15.6,
-      "value": "92.3 → 76.7",
+      "previous": 28.5,
+      "current": 17.8,
+      "delta": -10.7,
+      "value": "28.5 → 17.8",
       "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 49.9,
-      "current": 40.9,
-      "delta": -9.0,
-      "value": "49.9 → 40.9",
-      "change_arrow": "↓"
+      "previous": 31.5,
+      "current": 31.5,
+      "delta": 0.0,
+      "value": "31.5 → 31.5",
+      "change_arrow": "→"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "mixed",
       "delta": null,
-      "value": "unstable",
-      "change_arrow": "→"
+      "value": "mixed",
+      "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "EURUSD is currently caught in an unstable transition, where price action reflects a market struggling to find a coherent direction. While the immediate sequence shows a bullish tilt, the broader structural quality remains poor, characterized by frequent, erratic reversals that prevent either side from establishing control. The latest swing structure is reorganizing, with confirmed pivots at 1.123 and 1.117 framing the current indecision. Overhead, a cluster of resistance—including the SAR level at 1.1232 and the falling regression line at 1.12422—continues to exert downward pressure, keeping the market trapped below the middle Bollinger band. This conflict between short-term bullish attempts and persistent overhead barriers confirms that the decline has not yet transitioned into a stable trend.",
-    "The broader history across the 104-brick window shows a market dominated by bearish runs, with 20 distinct declines averaging 3.3 units compared to 20 bullish counters averaging only 1.9 units. However, recent behavior reveals a significant shift in this dynamic. In the last 12 runs, the average bullish counter has expanded to 2.5 units, while the average bearish run has compressed to 2.83. This narrowing gap in run length demonstrates that buyers are now finding more persistence than they did historically. Despite this, the market remains trapped in an unstable transition. Both dominant and counter-move paces are accelerating, which keeps the price action erratic instead of directional. The current structure is not yet favoring either side, as the recent increase in bullish persistence is still being countered by persistent selling pressure.",
-    "The market is currently producing a forceful move, but it lacks the stability required for a reliable trend. Control is shifting rapidly between buyers and sellers, as evidenced by the high transition pressure and the erratic nature of recent swings. While bullish counters have shown increased persistence compared to the broader historical sample, this has not translated into a dominant directional advantage. Instead, the market is trapped in a cycle of frequent reversals and high opposing wick pressure, which keeps the structural quality unstable. The recent acceleration in both dominant and counter-move paces further highlights this disorder, suggesting that the current price action is a product of intense, short-term conflict instead of a sustained shift in market control.",
-    "The market map is defined by tight overhead resistance and a nearby support floor that currently keeps price in a narrow, contested band. The first resistance area sits between 1.1210 and 1.1242, grouping the middle Bollinger band, the SAR level at 1.1232, and the falling regression line at 1.12422. This cluster acts as the primary barrier preventing any sustained bullish extension. Below current price, the 1.1170 pivot and the 1.1151 zone—formed by the lower Bollinger band and the developing Deep Crab harmonic D-level—provide the immediate support floor. Clearing these levels is required to shift the current unstable transition into a more directional state. Until price breaks out of this 1.1151-1.1242 range, the market will likely continue to struggle with erratic, short-term reversals.",
-    "The market remains defined by intense, short-term conflict, where high opposing wick pressure—currently at 77.0—consistently rejects price movement in either direction. While the volatility range is broad, it is not expanding, suggesting that fresh momentum is not building behind the current price action. A developing Deep Crab harmonic pattern near 1.1151 provides a source of potential counter-pressure, but it remains a structural possibility instead of a confirmed reversal. The bearish case would gain force if sellers could sustain a move below the 1.1151 support floor with consistent timing. Conversely, the bullish outlook would improve if price reclaims the 1.1242 resistance cluster. Until one side achieves that, the market will likely remain caught in this unstable, high-transition state.",
-    "The broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents either side from establishing dominance. This disorder is the primary feature of the current environment, and it will only fade if the market shifts toward a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers can reduce this instability, producing repeated runs with steadier timing and a coherent pace that breaks through the 1.1151 support floor. Conversely, the bearish case weakens if buyers gain persistent control, specifically by reclaiming the 1.1242 resistance cluster or invalidating the recent downward sequence. Until one side demonstrates such structural progress, the market will likely continue to cycle through these frequent, high-pressure reversals."
+    "Price is pressing downward inside a familiar sequence, but the decline lacks the clean follow-through needed to declare a decisive trend. The confirmed swing structure remains aligned to the downside with lower highs and lower lows, anchored by the latest confirmed high at 1.123 and low at 1.1115. Recent movement shows a steady sequence of overlapping extensions where sellers keep testing lower ground without breaking completely free from the wider disorder. The volatility range is expanding, giving the market room to move, yet opposing wick pressure remains low. This indicates that sellers hold the immediate advantage, but the path lower is still being contested at every turn by persistent counter-runs.",
+    "Comparing the broader sample with recent behavior reveals a shift in how selling pressure and counter-moves interact. Across the full 104-brick window, bearish runs averaged 3.32 units while bullish counters averaged 2.28. In the recent sequence, that baseline has compressed. Average bearish runs shortened to 2.17 units, whereas counter-runs expanded to an average of 3.0 units. This contrast shows that while the wider history favors downside persistence, the immediate market features larger and more frequent bullish counter-moves that slow the descent. Sellers still maintain control of dominant run trends, but the decline has lost some of its previous structural depth as opposing buyers step in more aggressively on every test.",
+    "Underneath the active price action, internal measurements reveal that the decline is proceeding with mixed structural quality instead of establishing a clean trend. Continuation scores sit at 41.9, while re-acceleration rests at a modest 11.9, showing that fresh downward momentum is not expanding behind the selling. At the same time, transition pressures have cooled from 55.0 down to 39.5, and compression has narrowed to 17.8. This combination means that while the broader background remains disordered, the immediate downward pressure is encountering less internal friction. The market is not locked in a tight range, but neither is it generating the synchronized drive required to confirm a lasting directional break.",
+    "Support immediately underneath price clusters near the 1.1215 swing low, reinforced by SAR at 1.11929 and the middle Bollinger band at 1.11938. Below that zone, the latest confirmed low at 1.1115 sits near the lower Bollinger boundary of 1.11117 to form a broader floor. Overhead, the nearest resistance area begins with the confirmed high at 1.123 and extends toward the harmonic completion point at 1.12694 alongside the upper Bollinger band at 1.12758. The larger trend control barrier remains much higher up, anchored by the falling regression line at 1.11262—which is positioned above price despite its downward slope—and the distant harmonic reference at 1.16541. These zones frame a market where immediate downside tests find nearby cushions, but any sustained recovery must clear the resistance cluster before challenging the broader trend boundary.",
+    "The broader volatility envelope remains broad while continuing to expand, yet fresh volatility is no longer building aggressively behind the latest downside moves. This dynamic leaves room for price to maneuver without confirming sustained continuation. At the same time, opposing wick pressure stays low at 18.2, showing that sellers face minimal immediate rejection when pressing lower. That lack of firm rejection allows the current downside bias to persist. Even so, a developing bear Bat pattern near 1.12694 introduces counter-pressure from overhead. This harmonic structure is not a confirmed reversal by itself, but it adds friction and provides a credible source of resistance that could interrupt the descent if buyers manage to test higher ground.",
+    "Rapid switching and erratic timing keep the broader market unresolved for now, meaning that this disordered background will only settle if the market establishes a stable range or persistent directional control. The current bearish lean becomes more convincing only when downside instability decreases and sellers generate repeated runs with steadier timing and continued structural progress. Conversely, that downside lean weakens if buyers gain persistent control, reclaim the resistance zone overhead, or invalidate the supplied swing evidence. Until one of those concrete shifts takes hold, price will keep testing lower ground inside a market that remains caught between dominant downside structure and persistent counter-runs."
   ],
-  "text": "EURUSD is currently caught in an unstable transition, where price action reflects a market struggling to find a coherent direction. While the immediate sequence shows a bullish tilt, the broader structural quality remains poor, characterized by frequent, erratic reversals that prevent either side from establishing control. The latest swing structure is reorganizing, with confirmed pivots at 1.123 and 1.117 framing the current indecision. Overhead, a cluster of resistance—including the SAR level at 1.1232 and the falling regression line at 1.12422—continues to exert downward pressure, keeping the market trapped below the middle Bollinger band. This conflict between short-term bullish attempts and persistent overhead barriers confirms that the decline has not yet transitioned into a stable trend.\n\nThe broader history across the 104-brick window shows a market dominated by bearish runs, with 20 distinct declines averaging 3.3 units compared to 20 bullish counters averaging only 1.9 units. However, recent behavior reveals a significant shift in this dynamic. In the last 12 runs, the average bullish counter has expanded to 2.5 units, while the average bearish run has compressed to 2.83. This narrowing gap in run length demonstrates that buyers are now finding more persistence than they did historically. Despite this, the market remains trapped in an unstable transition. Both dominant and counter-move paces are accelerating, which keeps the price action erratic instead of directional. The current structure is not yet favoring either side, as the recent increase in bullish persistence is still being countered by persistent selling pressure.\n\nThe market is currently producing a forceful move, but it lacks the stability required for a reliable trend. Control is shifting rapidly between buyers and sellers, as evidenced by the high transition pressure and the erratic nature of recent swings. While bullish counters have shown increased persistence compared to the broader historical sample, this has not translated into a dominant directional advantage. Instead, the market is trapped in a cycle of frequent reversals and high opposing wick pressure, which keeps the structural quality unstable. The recent acceleration in both dominant and counter-move paces further highlights this disorder, suggesting that the current price action is a product of intense, short-term conflict instead of a sustained shift in market control.\n\nThe market map is defined by tight overhead resistance and a nearby support floor that currently keeps price in a narrow, contested band. The first resistance area sits between 1.1210 and 1.1242, grouping the middle Bollinger band, the SAR level at 1.1232, and the falling regression line at 1.12422. This cluster acts as the primary barrier preventing any sustained bullish extension. Below current price, the 1.1170 pivot and the 1.1151 zone—formed by the lower Bollinger band and the developing Deep Crab harmonic D-level—provide the immediate support floor. Clearing these levels is required to shift the current unstable transition into a more directional state. Until price breaks out of this 1.1151-1.1242 range, the market will likely continue to struggle with erratic, short-term reversals.\n\nThe market remains defined by intense, short-term conflict, where high opposing wick pressure—currently at 77.0—consistently rejects price movement in either direction. While the volatility range is broad, it is not expanding, suggesting that fresh momentum is not building behind the current price action. A developing Deep Crab harmonic pattern near 1.1151 provides a source of potential counter-pressure, but it remains a structural possibility instead of a confirmed reversal. The bearish case would gain force if sellers could sustain a move below the 1.1151 support floor with consistent timing. Conversely, the bullish outlook would improve if price reclaims the 1.1242 resistance cluster. Until one side achieves that, the market will likely remain caught in this unstable, high-transition state.\n\nThe broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents either side from establishing dominance. This disorder is the primary feature of the current environment, and it will only fade if the market shifts toward a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers can reduce this instability, producing repeated runs with steadier timing and a coherent pace that breaks through the 1.1151 support floor. Conversely, the bearish case weakens if buyers gain persistent control, specifically by reclaiming the 1.1242 resistance cluster or invalidating the recent downward sequence. Until one side demonstrates such structural progress, the market will likely continue to cycle through these frequent, high-pressure reversals.",
+  "text": "Price is pressing downward inside a familiar sequence, but the decline lacks the clean follow-through needed to declare a decisive trend. The confirmed swing structure remains aligned to the downside with lower highs and lower lows, anchored by the latest confirmed high at 1.123 and low at 1.1115. Recent movement shows a steady sequence of overlapping extensions where sellers keep testing lower ground without breaking completely free from the wider disorder. The volatility range is expanding, giving the market room to move, yet opposing wick pressure remains low. This indicates that sellers hold the immediate advantage, but the path lower is still being contested at every turn by persistent counter-runs.\n\nComparing the broader sample with recent behavior reveals a shift in how selling pressure and counter-moves interact. Across the full 104-brick window, bearish runs averaged 3.32 units while bullish counters averaged 2.28. In the recent sequence, that baseline has compressed. Average bearish runs shortened to 2.17 units, whereas counter-runs expanded to an average of 3.0 units. This contrast shows that while the wider history favors downside persistence, the immediate market features larger and more frequent bullish counter-moves that slow the descent. Sellers still maintain control of dominant run trends, but the decline has lost some of its previous structural depth as opposing buyers step in more aggressively on every test.\n\nUnderneath the active price action, internal measurements reveal that the decline is proceeding with mixed structural quality instead of establishing a clean trend. Continuation scores sit at 41.9, while re-acceleration rests at a modest 11.9, showing that fresh downward momentum is not expanding behind the selling. At the same time, transition pressures have cooled from 55.0 down to 39.5, and compression has narrowed to 17.8. This combination means that while the broader background remains disordered, the immediate downward pressure is encountering less internal friction. The market is not locked in a tight range, but neither is it generating the synchronized drive required to confirm a lasting directional break.\n\nSupport immediately underneath price clusters near the 1.1215 swing low, reinforced by SAR at 1.11929 and the middle Bollinger band at 1.11938. Below that zone, the latest confirmed low at 1.1115 sits near the lower Bollinger boundary of 1.11117 to form a broader floor. Overhead, the nearest resistance area begins with the confirmed high at 1.123 and extends toward the harmonic completion point at 1.12694 alongside the upper Bollinger band at 1.12758. The larger trend control barrier remains much higher up, anchored by the falling regression line at 1.11262—which is positioned above price despite its downward slope—and the distant harmonic reference at 1.16541. These zones frame a market where immediate downside tests find nearby cushions, but any sustained recovery must clear the resistance cluster before challenging the broader trend boundary.\n\nThe broader volatility envelope remains broad while continuing to expand, yet fresh volatility is no longer building aggressively behind the latest downside moves. This dynamic leaves room for price to maneuver without confirming sustained continuation. At the same time, opposing wick pressure stays low at 18.2, showing that sellers face minimal immediate rejection when pressing lower. That lack of firm rejection allows the current downside bias to persist. Even so, a developing bear Bat pattern near 1.12694 introduces counter-pressure from overhead. This harmonic structure is not a confirmed reversal by itself, but it adds friction and provides a credible source of resistance that could interrupt the descent if buyers manage to test higher ground.\n\nRapid switching and erratic timing keep the broader market unresolved for now, meaning that this disordered background will only settle if the market establishes a stable range or persistent directional control. The current bearish lean becomes more convincing only when downside instability decreases and sellers generate repeated runs with steadier timing and continued structural progress. Conversely, that downside lean weakens if buyers gain persistent control, reclaim the resistance zone overhead, or invalidate the supplied swing evidence. Until one of those concrete shifts takes hold, price will keep testing lower ground inside a market that remains caught between dominant downside structure and persistent counter-runs.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 755
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 700
 }

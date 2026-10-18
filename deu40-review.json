@@ -1,71 +1,71 @@
 {
   "instrument": "DEU40",
-  "as_of": "2026-10-14T08:31:00.461000+00:00",
-  "source_run": 38536888348,
-  "review_run": 38536888348,
+  "as_of": "2026-10-16T18:04:04.180000+00:00",
+  "source_run": 39082773918,
+  "review_run": 39082773918,
   "review_version": "writer-v6-market-state",
-  "status": "OK",
-  "state": "DEU40 remains caught in a wide, non-directional range where immediate bullish attempts are currently meeting significant structural friction.",
+  "status": "UNRESOLVED",
+  "state": "Sellers have immediate downside control, but frequent rejections and heavy counter-pressure keep the broader move completely unstable.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 35.0,
-      "current": 65.2,
-      "delta": 30.2,
-      "value": "35.0 → 65.2",
-      "change_arrow": "↑"
+      "previous": 31.7,
+      "current": 27.9,
+      "delta": -3.8,
+      "value": "31.7 → 27.9",
+      "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 1.8,
-      "current": 16.9,
-      "delta": 15.1,
-      "value": "1.8 → 16.9",
+      "previous": 55.1,
+      "current": 60.4,
+      "delta": 5.3,
+      "value": "55.1 → 60.4",
       "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 30.0,
-      "current": 47.5,
-      "delta": 17.5,
-      "value": "30.0 → 47.5",
+      "previous": 75.4,
+      "current": 76.4,
+      "delta": 1.0,
+      "value": "75.4 → 76.4",
       "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 100.0,
-      "current": 90.1,
-      "delta": -9.9,
-      "value": "100.0 → 90.1",
+      "previous": 22.4,
+      "current": 17.2,
+      "delta": -5.2,
+      "value": "22.4 → 17.2",
       "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 97.9,
-      "current": 95.6,
-      "delta": -2.3,
-      "value": "97.9 → 95.6",
+      "previous": 90.9,
+      "current": 80.0,
+      "delta": -10.9,
+      "value": "90.9 → 80.0",
       "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "unstable",
       "delta": null,
-      "value": "mixed",
-      "change_arrow": "↑"
+      "value": "unstable",
+      "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "DEU40 is currently navigating a period of significant structural disorder, with price hovering at 25429.0. While the immediate sequence shows a bullish tilt, the broader market remains non-directional and caught in a state of reorganization. The volatility range is very expanded and currently widening, which allows for sharp moves but prevents any single direction from establishing a sustained trend. A developing Deep Crab harmonic pattern near current price adds a layer of potential bearish counter-pressure, even as price rides the upper Bollinger band. With balance and compression scores remaining high, the market is struggling to escape its wider state of chop. The current price action is consistent with a market that is testing its boundaries without yet committing to a definitive path.",
-    "The market has shifted from its broader history, where bullish and bearish runs were nearly identical in frequency and length. Within the 104-brick window, the average bullish run of 2.67 and bearish run of 2.40 reflected a balanced environment. Recent behavior tells a different story. Over the last 12 runs, the average bullish run has stretched to 3.5, while the average bearish run has contracted to 1.83. This divergence shows that buying pressure is currently more persistent than selling pressure, even though the broader market remains caught in a non-directional state. While the dominant pace is decelerating, the acceleration in counter-moves suggests that the market is finding new ways to test its boundaries without yet resolving the underlying disorder.",
-    "The current directional move lacks the stability required to define a genuine trend. While buying pressure has become more persistent in recent runs, the market remains trapped in a state of high compression and chop. The recent increase in continuation and re-acceleration scores shows that the latest bullish moves have more force than before, but this is occurring within an expanded volatility range that has not yet resolved its underlying disorder. The market is effectively testing its upper boundaries, yet the lack of a clear structural shift means these advances are just as likely to be absorbed by the prevailing chop as they are to break out. Control is shifting, but it remains fragmented and prone to rapid, counter-directional reversals.",
-    "Price finds immediate support below in the 25343 to 25404 zone, which contains several confirmed pivot lows alongside the harmonic X point sitting at 25234.499 and the SAR level at 25264.90636. This area marks the first line of defense against any pullback from current levels. Overhead, the first resistance area clusters tightly around the upper Bollinger band at 25473.10491 and the nearby confirmed high pivots starting at 25515.0. These boundaries define the immediate channel where buyers and sellers are testing control. Further below, the middle Bollinger band at 25156.6 and the rising regression line at 25058.60722 form the larger trend-control area, keeping the broader market anchored even as shorter-term advances press against the upper limits of the range.",
-    "Price continues to hug the upper Bollinger band at 25473.10491, maintaining a strong upward tilt within an expanded volatility range. Even so, the expanding width of the bands shows that fresh volatility is still building behind the move, leaving room for further extension without guaranteeing a lasting breakout. Moderate wick rejection sits alongside a developing Deep Crab pattern directly at current price. This pattern acts as a source of counter-pressure, signaling caution instead of a confirmed reversal of the broader sequence. Until selling pressure forces price away from its upper limits or tests the support zone below, the market remains caught between ongoing upward tests and the persistent weight of its underlying disorder.",
-    "The broader market remains caught in a state of high balance and chop, meaning rapid switching and frequent reversals will keep the wider background unresolved until the structure stabilizes. That unresolved condition fades only when the market transitions into a stable range or establishes persistent directional control. The recent bullish lean becomes more convincing if upside runs maintain their repetition and buyers preserve structural progress above the immediate support zone near 25343 to 25404. Conversely, that upside tilt grows weaker if sellers reclaim broken swing structure, counter-runs begin lasting longer, or same-side persistence fades. Until one of those concrete changes takes hold, the price action remains suspended between ongoing boundary tests and the weight of its wider disorder."
+    "Sellers hold the immediate advantage, pressing price down to 25418.0 through a 5-run extension that highlights downside persistence. Yet that movement remains far from a clean trend. The recent sequence shows frequent direction changes and high opposing wick pressure sitting at 53.9, proving that counter-moves are meeting active interference. Price trades below the middle Bollinger band located at 25514.0 while staying safely above the lower band at 25341.67, confirming that the current decline is unfolding inside an unsettled volatility range instead of an open breakout. Structural quality reads as unstable as the market reorganizes its swings without establishing a firm directional home.",
+    "Comparing the full 104-brick window with recent movement reveals a widening split between baseline symmetry and immediate behavior. Across the broader sample, bearish and balanced moves share an even weight of 52 occurrences each, with average run lengths sitting near 2.6 and 2.74. Yet the recent window shows that dynamic fracturing. Bullish counter-runs have stretched to an average of 3.5 while bearish advances have compressed down to 1.83. This contrast proves that while sellers currently hold immediate pace, buyers retain the capacity for sharp counter-moves whenever downward momentum decelerates. The market is not exhibiting a uniform slide; it is wrestling with divergent run potentials.",
+    "The downward push reflects force instead of a secure institutional grip. Re-acceleration reads at 60.4 while transition climbs to 76.4, showing that momentum is picking up while the underlying market state remains unsettled. At the same time, chop sits high at 80.0 and balance holds firm at 80.0, confirming that the current move is developing inside a noisy environment where direction keeps shifting. Sellers are pressing price lower, but they are doing so without a clean clearing of the background disorder. The contraction in volatility width shows that fresh expansion is fading, leaving the decline vulnerable to the rapid state switching that has defined the wider session.",
+    "Immediate support sits just beneath current levels, anchored by confirmed low pivots near 25334.0 to 25374.0 and reinforced by the lower Bollinger band at 25341.67. This nearby zone offers a natural floor where the current decline encounters overlapping swing boundaries. Above price, the first resistance area clusters around the middle Bollinger band at 25514.0 alongside nearby confirmed pivots reaching up to 25574.0. That band marks the initial barrier that buyers must reclaim to challenge the immediate downside momentum. Further overhead, a larger barrier spans from the SAR level at 25629.0 to the upper Bollinger band at 25686.33 and the developing Deep Crab D point at 25695.47, defining the broader ceiling where heavier structural resistance meets the market.",
+    "The descent can extend further as long as sellers maintain their active pace and re-acceleration holds at 60.4. Yet that downside continuation faces immediate obstacles. Volatility width is contracting, which shows that fresh selling pressure is no longer expanding behind the move even though price still has room to maneuver within the existing envelope. At the same time, a developing Deep Crab pattern rests overhead with its D point at 25695.466, providing a source of harmonic counter-pressure that warns against treating the decline as an open path. High opposing wick pressure at 53.9 reinforces that caution by showing active interference from buyers. These forces do not reverse the market by themselves, but they ensure that any further downside extension must navigate competing friction.",
+    "The broader market remains unresolved as long as rapid switching, erratic timing, and frequent reversals persist. That disordered background fades only when the market transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress. Conversely, that downside lean becomes weaker if buyers gain persistent control, reclaim the resistance area above price, or invalidate the existing downside evidence through longer counter-runs and lost selling persistence. Until one of those structural shifts takes hold, the market continues to balance immediate downward force against a wider transitional background."
   ],
-  "text": "DEU40 is currently navigating a period of significant structural disorder, with price hovering at 25429.0. While the immediate sequence shows a bullish tilt, the broader market remains non-directional and caught in a state of reorganization. The volatility range is very expanded and currently widening, which allows for sharp moves but prevents any single direction from establishing a sustained trend. A developing Deep Crab harmonic pattern near current price adds a layer of potential bearish counter-pressure, even as price rides the upper Bollinger band. With balance and compression scores remaining high, the market is struggling to escape its wider state of chop. The current price action is consistent with a market that is testing its boundaries without yet committing to a definitive path.\n\nThe market has shifted from its broader history, where bullish and bearish runs were nearly identical in frequency and length. Within the 104-brick window, the average bullish run of 2.67 and bearish run of 2.40 reflected a balanced environment. Recent behavior tells a different story. Over the last 12 runs, the average bullish run has stretched to 3.5, while the average bearish run has contracted to 1.83. This divergence shows that buying pressure is currently more persistent than selling pressure, even though the broader market remains caught in a non-directional state. While the dominant pace is decelerating, the acceleration in counter-moves suggests that the market is finding new ways to test its boundaries without yet resolving the underlying disorder.\n\nThe current directional move lacks the stability required to define a genuine trend. While buying pressure has become more persistent in recent runs, the market remains trapped in a state of high compression and chop. The recent increase in continuation and re-acceleration scores shows that the latest bullish moves have more force than before, but this is occurring within an expanded volatility range that has not yet resolved its underlying disorder. The market is effectively testing its upper boundaries, yet the lack of a clear structural shift means these advances are just as likely to be absorbed by the prevailing chop as they are to break out. Control is shifting, but it remains fragmented and prone to rapid, counter-directional reversals.\n\nPrice finds immediate support below in the 25343 to 25404 zone, which contains several confirmed pivot lows alongside the harmonic X point sitting at 25234.499 and the SAR level at 25264.90636. This area marks the first line of defense against any pullback from current levels. Overhead, the first resistance area clusters tightly around the upper Bollinger band at 25473.10491 and the nearby confirmed high pivots starting at 25515.0. These boundaries define the immediate channel where buyers and sellers are testing control. Further below, the middle Bollinger band at 25156.6 and the rising regression line at 25058.60722 form the larger trend-control area, keeping the broader market anchored even as shorter-term advances press against the upper limits of the range.\n\nPrice continues to hug the upper Bollinger band at 25473.10491, maintaining a strong upward tilt within an expanded volatility range. Even so, the expanding width of the bands shows that fresh volatility is still building behind the move, leaving room for further extension without guaranteeing a lasting breakout. Moderate wick rejection sits alongside a developing Deep Crab pattern directly at current price. This pattern acts as a source of counter-pressure, signaling caution instead of a confirmed reversal of the broader sequence. Until selling pressure forces price away from its upper limits or tests the support zone below, the market remains caught between ongoing upward tests and the persistent weight of its underlying disorder.\n\nThe broader market remains caught in a state of high balance and chop, meaning rapid switching and frequent reversals will keep the wider background unresolved until the structure stabilizes. That unresolved condition fades only when the market transitions into a stable range or establishes persistent directional control. The recent bullish lean becomes more convincing if upside runs maintain their repetition and buyers preserve structural progress above the immediate support zone near 25343 to 25404. Conversely, that upside tilt grows weaker if sellers reclaim broken swing structure, counter-runs begin lasting longer, or same-side persistence fades. Until one of those concrete changes takes hold, the price action remains suspended between ongoing boundary tests and the weight of its wider disorder.",
+  "text": "Sellers hold the immediate advantage, pressing price down to 25418.0 through a 5-run extension that highlights downside persistence. Yet that movement remains far from a clean trend. The recent sequence shows frequent direction changes and high opposing wick pressure sitting at 53.9, proving that counter-moves are meeting active interference. Price trades below the middle Bollinger band located at 25514.0 while staying safely above the lower band at 25341.67, confirming that the current decline is unfolding inside an unsettled volatility range instead of an open breakout. Structural quality reads as unstable as the market reorganizes its swings without establishing a firm directional home.\n\nComparing the full 104-brick window with recent movement reveals a widening split between baseline symmetry and immediate behavior. Across the broader sample, bearish and balanced moves share an even weight of 52 occurrences each, with average run lengths sitting near 2.6 and 2.74. Yet the recent window shows that dynamic fracturing. Bullish counter-runs have stretched to an average of 3.5 while bearish advances have compressed down to 1.83. This contrast proves that while sellers currently hold immediate pace, buyers retain the capacity for sharp counter-moves whenever downward momentum decelerates. The market is not exhibiting a uniform slide; it is wrestling with divergent run potentials.\n\nThe downward push reflects force instead of a secure institutional grip. Re-acceleration reads at 60.4 while transition climbs to 76.4, showing that momentum is picking up while the underlying market state remains unsettled. At the same time, chop sits high at 80.0 and balance holds firm at 80.0, confirming that the current move is developing inside a noisy environment where direction keeps shifting. Sellers are pressing price lower, but they are doing so without a clean clearing of the background disorder. The contraction in volatility width shows that fresh expansion is fading, leaving the decline vulnerable to the rapid state switching that has defined the wider session.\n\nImmediate support sits just beneath current levels, anchored by confirmed low pivots near 25334.0 to 25374.0 and reinforced by the lower Bollinger band at 25341.67. This nearby zone offers a natural floor where the current decline encounters overlapping swing boundaries. Above price, the first resistance area clusters around the middle Bollinger band at 25514.0 alongside nearby confirmed pivots reaching up to 25574.0. That band marks the initial barrier that buyers must reclaim to challenge the immediate downside momentum. Further overhead, a larger barrier spans from the SAR level at 25629.0 to the upper Bollinger band at 25686.33 and the developing Deep Crab D point at 25695.47, defining the broader ceiling where heavier structural resistance meets the market.\n\nThe descent can extend further as long as sellers maintain their active pace and re-acceleration holds at 60.4. Yet that downside continuation faces immediate obstacles. Volatility width is contracting, which shows that fresh selling pressure is no longer expanding behind the move even though price still has room to maneuver within the existing envelope. At the same time, a developing Deep Crab pattern rests overhead with its D point at 25695.466, providing a source of harmonic counter-pressure that warns against treating the decline as an open path. High opposing wick pressure at 53.9 reinforces that caution by showing active interference from buyers. These forces do not reverse the market by themselves, but they ensure that any further downside extension must navigate competing friction.\n\nThe broader market remains unresolved as long as rapid switching, erratic timing, and frequent reversals persist. That disordered background fades only when the market transitions into a stable range or establishes persistent directional control. The current bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress. Conversely, that downside lean becomes weaker if buyers gain persistent control, reclaim the resistance area above price, or invalidate the existing downside evidence through longer counter-runs and lost selling persistence. Until one of those structural shifts takes hold, the market continues to balance immediate downward force against a wider transitional background.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
-  "word_count": 722
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 684
 }

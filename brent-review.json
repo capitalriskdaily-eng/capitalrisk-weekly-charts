@@ -1,71 +1,71 @@
 {
   "instrument": "BRENT",
-  "as_of": "2026-10-13T20:21:22.186000+00:00",
-  "source_run": 38536888348,
-  "review_run": 38536888348,
+  "as_of": "2026-10-16T19:04:10.506000+00:00",
+  "source_run": 39082773918,
+  "review_run": 39082773918,
   "review_version": "writer-v6-market-state",
   "status": "UNRESOLVED",
-  "state": "Brent remains trapped in a high-frequency, unstable range with no clear directional advantage.",
+  "state": "Price presses toward upper boundary resistance while immediate bullish momentum collides with heavy overhead selling pressure.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 33.6,
-      "current": 35.4,
-      "delta": 1.8,
-      "value": "33.6 → 35.4",
+      "previous": 63.6,
+      "current": 73.4,
+      "delta": 9.8,
+      "value": "63.6 → 73.4",
       "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 25.8,
-      "current": 14.6,
-      "delta": -11.2,
-      "value": "25.8 → 14.6",
-      "change_arrow": "↓"
+      "previous": 37.7,
+      "current": 69.0,
+      "delta": 31.3,
+      "value": "37.7 → 69.0",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 90.7,
-      "current": 62.9,
-      "delta": -27.8,
-      "value": "90.7 → 62.9",
-      "change_arrow": "↓"
+      "previous": 34.4,
+      "current": 49.6,
+      "delta": 15.2,
+      "value": "34.4 → 49.6",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 24.7,
-      "current": 60.7,
-      "delta": 36.0,
-      "value": "24.7 → 60.7",
+      "previous": 12.5,
+      "current": 24.0,
+      "delta": 11.5,
+      "value": "12.5 → 24.0",
       "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 95.2,
-      "current": 99.9,
-      "delta": 4.7,
-      "value": "95.2 → 99.9",
-      "change_arrow": "↑"
+      "previous": 34.3,
+      "current": 34.3,
+      "delta": 0.0,
+      "value": "34.3 → 34.3",
+      "change_arrow": "→"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "orderly",
       "delta": null,
-      "value": "unstable",
+      "value": "orderly",
       "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "Brent is currently caught in a state of high-frequency alternation that prevents any single side from establishing a meaningful trend. While price sits at 106.35, the market is defined by a lack of directional conviction, evidenced by a balance score of 99.9 and a structural quality that remains unstable. Recent movement shows a pattern of rapid, shallow reversals instead of sustained runs, with the most recent 12-run sequence showing an equal count of bullish and bearish moves. This creates a market where price frequently tests levels like the 106.65 high before retreating, yet it consistently finds support near the 105.30 pivot. The volatility range is contracting, which suggests that while price has room to move, the underlying pressure is not yet building into a breakout.",
-    "The 104-brick window reveals a market that has historically maintained a near-equal distribution of bullish and bearish runs, with average run lengths of 2.27 and 2.35 respectively. However, recent behavior shows a distinct shift toward instability. While the broader history suggests a balanced environment, the most recent 12-run sequence highlights a divergence where bullish moves have become more frequent—15 moves across 6 runs compared to 10 bearish moves across 6 runs—yet these advances fail to gain traction. The average bullish run in this recent period has stretched to 2.5, while bearish runs have compressed to 1.67. This indicates that while buyers are attempting to assert control, the market lacks the persistence to convert these runs into a sustained directional trend.",
-    "The current market movement is forceful in its alternation but lacks the stability required for a durable trend. While buyers and sellers are active, the high chop score of 99.9 and the unstable structural quality confirm that control is shifting constantly instead of consolidating. The recent decline in re-acceleration to 14.6, down from 25.8, shows that even when price moves, the momentum behind those swings is fading quickly. With opposing wick pressure remaining very high at 79.3, every attempt to push price in one direction is met with immediate rejection. This creates a environment where price remains trapped between the 105.30 support and the 106.65 resistance, with neither side able to convert their short-term runs into a sustained directional breakout.",
-    "The market map is defined by tight boundaries that reflect the current lack of directional conviction. Support below sits in a cluster between 105.30 and 105.80, combining the recent low pivot with the SAR level and the flat regression line. This zone acts as the primary floor for price, though its proximity to current levels highlights how easily the market flips. Overhead, the first resistance area is anchored by the 106.60-106.71 zone, which includes the upper Bollinger band and the harmonic Gartley completion point. Beyond this, the 107.10-107.25 area serves as the larger trend-control barrier. Until price can clear these levels with sustained force, the current range remains the dominant constraint, keeping the market trapped in its ongoing state of high-frequency alternation.",
-    "Price remains caught within a broad volatility envelope that is now contracting, suggesting that the market has room to maneuver but lacks the fresh expansion needed for a breakout. While the current range allows for continued back-and-forth movement, the lack of underlying volatility growth acts as a natural ceiling on directional progress. A developing bearish Gartley pattern near 106.71 provides a source of counter-pressure, though it functions as a potential hurdle instead of a confirmed reversal signal. With opposing wick pressure at a high 79.3, any move toward the boundaries of this range is likely to face immediate rejection. The market will only break this cycle if one side can gain enough sustained pace to escape the current structural disorder.",
-    "The broader market state remains unresolved because rapid switching and frequent reversals continue to dominate price action. That disorderly condition will persist until volatility settles or one side manages to establish persistent directional control. The immediate bearish lean holds firm as long as sellers maintain their presence near current levels, but it requires cleaner follow-through to become truly convincing. That bearish bias loses ground if buyers step in to reclaim the 106.65 swing high or if the opposing side begins stringing together longer counter-runs that invalidate the present structure. A stable range can eventually replace the current instability without altering the underlying reading, but until a decisive break occurs, the market remains bound by its own internal friction."
+    "Price trades at 109.8, pushing above the latest confirmed high of 109.5 as buying pressure reasserts itself within an expanding volatility range. The upper Bollinger band sits right overhead at 109.97978, matching closely with the developing Deep Crab completion target at 109.975. Even though the confirmed swing structure exhibits lower highs and lower lows from a broader pullback perspective, the immediate sequence has turned bullish with high timing consistency and strong continuation scores. Buyers are pressing against the upper boundary with rising momentum, yet the heavy opposing wick pressure shows that sellers remain active just above current levels.",
+    "Broader history across the 104-brick window reveals a market accustomed to substantial advances, where bullish runs averaged 3.72 units against an average bearish run of just 2.06. Recent behavior shifts that dynamic by compressing the scale of those directional pushes. Over the last 12 runs, average bullish advances narrowed to 2.33 while bearish pullbacks held steady near 2.17. Even though buyers retain the upper hand through consistent timing and strong continuation scoring, the immediate advances are shorter than the historical baseline. Counter-moves are not expanding aggressively, yet the shrinking size of bullish extensions shows that upward momentum is facing a tighter ceiling as price approaches the overhead resistance zone.",
+    "Underneath the rising price action, internal measurements reveal a sharp increase in re-acceleration to 69.0 alongside a jump in transition pressure to 49.6, while chop remains subdued at 34.3. This combination shows that buying force is accelerating rapidly without falling into disorganized chop. Continuation scoring climbs to 73.4, backed by an orderly structural quality that confirms the advance is moving with high timing consistency instead of random noise. At the same time, compression has risen to 24.0, which indicates that the expanding volatility range is beginning to encounter friction. Buyers retain strong directional control in the immediate sequence, but the heavier internal transition scores show that control is being contested as price presses closer to overhead barriers.",
+    "Immediate support below rests in a stacked zone anchored by SAR at 109.19883 and the rising regression line at 109.12764, with confirmed low pivots at 109.05 and 108.9 sitting just underneath to reinforce the floor. The middle Bollinger band at 109.3275 also falls within this protective band. Overhead, the first resistance area is defined tightly by the upper Bollinger band at 109.97978 and the developing Deep Crab completion target at 109.975. The confirmed high pivot at 109.65 sits just inside this barrier path, marking the initial ceiling where buyers must contend with active selling pressure.",
+    "Continuation holds while buyers ride the upper Bollinger band at 109.97978, but fresh expansion is beginning to face friction. Compression has risen to 24.0 inside an expanding volatility envelope, showing that fresh volatility is no longer building behind the move even though price still has room to advance. A developing Deep Crab pattern at 109.975 rests directly overhead to provide active counter-pressure right as high opposing wick pressure confirms selling activity. This harmonic pattern is counter-pressure instead of a confirmed reversal, which means it introduces hesitation without dismantling the upward sequence by itself. The advance can extend further if buyers absorb that overhead supply, but failure to maintain pace above support will invite a deeper challenge to the trend.",
+    "Rapid switching, erratic timing, and frequent reversals keep the broader market unresolved. That disorder clears only when price settles into a persistent directional control or forms an orderly range. The bullish lean grows stronger if buyers maintain high continuation scores, keep counter-runs controlled, and push past the overhead resistance barrier without losing pace. Conversely, that upside case weakens if the opposing side expands counter-runs, accelerates downward pace, or reclaims the broken swing structure below current price. A stable range can replace the current choppy background without automatically reversing the existing directional bias, leaving the immediate outcome tied entirely to whether buyers can absorb the active selling pressure resting just overhead."
   ],
-  "text": "Brent is currently caught in a state of high-frequency alternation that prevents any single side from establishing a meaningful trend. While price sits at 106.35, the market is defined by a lack of directional conviction, evidenced by a balance score of 99.9 and a structural quality that remains unstable. Recent movement shows a pattern of rapid, shallow reversals instead of sustained runs, with the most recent 12-run sequence showing an equal count of bullish and bearish moves. This creates a market where price frequently tests levels like the 106.65 high before retreating, yet it consistently finds support near the 105.30 pivot. The volatility range is contracting, which suggests that while price has room to move, the underlying pressure is not yet building into a breakout.\n\nThe 104-brick window reveals a market that has historically maintained a near-equal distribution of bullish and bearish runs, with average run lengths of 2.27 and 2.35 respectively. However, recent behavior shows a distinct shift toward instability. While the broader history suggests a balanced environment, the most recent 12-run sequence highlights a divergence where bullish moves have become more frequent—15 moves across 6 runs compared to 10 bearish moves across 6 runs—yet these advances fail to gain traction. The average bullish run in this recent period has stretched to 2.5, while bearish runs have compressed to 1.67. This indicates that while buyers are attempting to assert control, the market lacks the persistence to convert these runs into a sustained directional trend.\n\nThe current market movement is forceful in its alternation but lacks the stability required for a durable trend. While buyers and sellers are active, the high chop score of 99.9 and the unstable structural quality confirm that control is shifting constantly instead of consolidating. The recent decline in re-acceleration to 14.6, down from 25.8, shows that even when price moves, the momentum behind those swings is fading quickly. With opposing wick pressure remaining very high at 79.3, every attempt to push price in one direction is met with immediate rejection. This creates a environment where price remains trapped between the 105.30 support and the 106.65 resistance, with neither side able to convert their short-term runs into a sustained directional breakout.\n\nThe market map is defined by tight boundaries that reflect the current lack of directional conviction. Support below sits in a cluster between 105.30 and 105.80, combining the recent low pivot with the SAR level and the flat regression line. This zone acts as the primary floor for price, though its proximity to current levels highlights how easily the market flips. Overhead, the first resistance area is anchored by the 106.60-106.71 zone, which includes the upper Bollinger band and the harmonic Gartley completion point. Beyond this, the 107.10-107.25 area serves as the larger trend-control barrier. Until price can clear these levels with sustained force, the current range remains the dominant constraint, keeping the market trapped in its ongoing state of high-frequency alternation.\n\nPrice remains caught within a broad volatility envelope that is now contracting, suggesting that the market has room to maneuver but lacks the fresh expansion needed for a breakout. While the current range allows for continued back-and-forth movement, the lack of underlying volatility growth acts as a natural ceiling on directional progress. A developing bearish Gartley pattern near 106.71 provides a source of counter-pressure, though it functions as a potential hurdle instead of a confirmed reversal signal. With opposing wick pressure at a high 79.3, any move toward the boundaries of this range is likely to face immediate rejection. The market will only break this cycle if one side can gain enough sustained pace to escape the current structural disorder.\n\nThe broader market state remains unresolved because rapid switching and frequent reversals continue to dominate price action. That disorderly condition will persist until volatility settles or one side manages to establish persistent directional control. The immediate bearish lean holds firm as long as sellers maintain their presence near current levels, but it requires cleaner follow-through to become truly convincing. That bearish bias loses ground if buyers step in to reclaim the 106.65 swing high or if the opposing side begins stringing together longer counter-runs that invalidate the present structure. A stable range can eventually replace the current instability without altering the underlying reading, but until a decisive break occurs, the market remains bound by its own internal friction.",
+  "text": "Price trades at 109.8, pushing above the latest confirmed high of 109.5 as buying pressure reasserts itself within an expanding volatility range. The upper Bollinger band sits right overhead at 109.97978, matching closely with the developing Deep Crab completion target at 109.975. Even though the confirmed swing structure exhibits lower highs and lower lows from a broader pullback perspective, the immediate sequence has turned bullish with high timing consistency and strong continuation scores. Buyers are pressing against the upper boundary with rising momentum, yet the heavy opposing wick pressure shows that sellers remain active just above current levels.\n\nBroader history across the 104-brick window reveals a market accustomed to substantial advances, where bullish runs averaged 3.72 units against an average bearish run of just 2.06. Recent behavior shifts that dynamic by compressing the scale of those directional pushes. Over the last 12 runs, average bullish advances narrowed to 2.33 while bearish pullbacks held steady near 2.17. Even though buyers retain the upper hand through consistent timing and strong continuation scoring, the immediate advances are shorter than the historical baseline. Counter-moves are not expanding aggressively, yet the shrinking size of bullish extensions shows that upward momentum is facing a tighter ceiling as price approaches the overhead resistance zone.\n\nUnderneath the rising price action, internal measurements reveal a sharp increase in re-acceleration to 69.0 alongside a jump in transition pressure to 49.6, while chop remains subdued at 34.3. This combination shows that buying force is accelerating rapidly without falling into disorganized chop. Continuation scoring climbs to 73.4, backed by an orderly structural quality that confirms the advance is moving with high timing consistency instead of random noise. At the same time, compression has risen to 24.0, which indicates that the expanding volatility range is beginning to encounter friction. Buyers retain strong directional control in the immediate sequence, but the heavier internal transition scores show that control is being contested as price presses closer to overhead barriers.\n\nImmediate support below rests in a stacked zone anchored by SAR at 109.19883 and the rising regression line at 109.12764, with confirmed low pivots at 109.05 and 108.9 sitting just underneath to reinforce the floor. The middle Bollinger band at 109.3275 also falls within this protective band. Overhead, the first resistance area is defined tightly by the upper Bollinger band at 109.97978 and the developing Deep Crab completion target at 109.975. The confirmed high pivot at 109.65 sits just inside this barrier path, marking the initial ceiling where buyers must contend with active selling pressure.\n\nContinuation holds while buyers ride the upper Bollinger band at 109.97978, but fresh expansion is beginning to face friction. Compression has risen to 24.0 inside an expanding volatility envelope, showing that fresh volatility is no longer building behind the move even though price still has room to advance. A developing Deep Crab pattern at 109.975 rests directly overhead to provide active counter-pressure right as high opposing wick pressure confirms selling activity. This harmonic pattern is counter-pressure instead of a confirmed reversal, which means it introduces hesitation without dismantling the upward sequence by itself. The advance can extend further if buyers absorb that overhead supply, but failure to maintain pace above support will invite a deeper challenge to the trend.\n\nRapid switching, erratic timing, and frequent reversals keep the broader market unresolved. That disorder clears only when price settles into a persistent directional control or forms an orderly range. The bullish lean grows stronger if buyers maintain high continuation scores, keep counter-runs controlled, and push past the overhead resistance barrier without losing pace. Conversely, that upside case weakens if the opposing side expands counter-runs, accelerates downward pace, or reclaims the broken swing structure below current price. A stable range can replace the current choppy background without automatically reversing the existing directional bias, leaving the immediate outcome tied entirely to whether buyers can absorb the active selling pressure resting just overhead.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
-  "word_count": 750
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 672
 }

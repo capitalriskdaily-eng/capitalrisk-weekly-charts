@@ -1,71 +1,71 @@
 {
   "instrument": "XAUUSD",
-  "as_of": "2026-10-14T08:36:45.350000+00:00",
-  "source_run": 38536888348,
-  "review_run": 38536888348,
+  "as_of": "2026-10-16T17:02:00.724000+00:00",
+  "source_run": 39082773918,
+  "review_run": 39082773918,
   "review_version": "writer-v6-market-state",
   "status": "UNRESOLVED",
-  "state": "Sellers maintain immediate control, though price is now testing a key harmonic support area.",
+  "state": "Price is pressing lower within an unsettled range, testing immediate support while higher swing levels remain overhead.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 72.5,
-      "current": 73.3,
-      "delta": 0.8,
-      "value": "72.5 → 73.3",
+      "previous": 72.3,
+      "current": 75.2,
+      "delta": 2.9,
+      "value": "72.3 → 75.2",
       "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 40.5,
-      "current": 40.5,
-      "delta": 0.0,
-      "value": "40.5 → 40.5",
-      "change_arrow": "→"
+      "previous": 29.7,
+      "current": 20.4,
+      "delta": -9.3,
+      "value": "29.7 → 20.4",
+      "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 23.9,
-      "current": 22.8,
-      "delta": -1.1,
-      "value": "23.9 → 22.8",
-      "change_arrow": "↓"
+      "previous": 69.3,
+      "current": 84.2,
+      "delta": 14.9,
+      "value": "69.3 → 84.2",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 70.6,
-      "current": 39.8,
-      "delta": -30.8,
-      "value": "70.6 → 39.8",
-      "change_arrow": "↓"
+      "previous": 10.8,
+      "current": 28.4,
+      "delta": 17.6,
+      "value": "10.8 → 28.4",
+      "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 29.0,
-      "current": 27.3,
-      "delta": -1.7,
-      "value": "29.0 → 27.3",
-      "change_arrow": "↓"
+      "previous": 19.3,
+      "current": 23.3,
+      "delta": 4.0,
+      "value": "19.3 → 23.3",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "clean",
+      "current": "unstable",
       "delta": null,
-      "value": "clean",
+      "value": "unstable",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "XAUUSD is currently testing the 4140.0 level, which marks the completion area for a developing bullish Bat pattern. While the broader market context remains directional and clean, the immediate price action is bearish. Price has broken below the latest confirmed low at 4155.0, shifting the swing structure into a reorganizing state. The SAR level at 4182.71814 and the rising regression line at 4163.33576 sit overhead, acting as clear resistance barriers that keep downward pressure active. Despite this recent decline, the market has not yet established a sustained downtrend, as the current swing structure is contracting and the overall volatility range remains very expanded. Sellers hold the immediate advantage, but they must contend with the developing harmonic counter-pressure at current levels.",
-    "The broader 104-brick window shows a market that has historically favored bullish runs, with an average bullish move of 3.39 compared to 2.39 for bearish runs. However, recent behavior reveals a distinct shift in momentum. Over the last 12 runs, the average bullish and bearish runs have converged to 2.17 and 2.0 respectively, indicating that the previous dominance of bullish advances has stalled. While the overall structure remains clean, the recent sequence of alternating runs—including six bearish and six bullish moves—shows that the market is struggling to maintain its directional persistence. Sellers have become more competitive, and the contraction in swing size confirms that the earlier, more forceful bullish expansion is currently being challenged by this newfound parity.",
-    "The market is currently forceful, but it lacks the stability of a clean trend. While sellers have successfully pushed price below the 4155.0 support level, the move is occurring within a highly expanded volatility range that prevents the decline from settling into a consistent rhythm. Continuation scores remain elevated at 73.3, suggesting that the current directional pressure is not merely noise, yet the compression levels have dropped sharply, indicating that the market is shedding its previous orderliness. This combination of high force and low stability shows that the current bearish run is an extension of the broader disorder instead of the start of a new, reliable trend. Sellers have the immediate advantage, but they are operating in a market that remains prone to sudden, sharp reversals.",
-    "The market is currently testing the 4140.0 level, which serves as both the current price and the completion point for a developing bullish Bat pattern. Below this, the 4130.81914 Bollinger lower band and the 4125.0 confirmed pivot form the first meaningful support zone. Overhead, the immediate reclaim area sits between 4145.0 and 4166.0, a zone that encompasses the recently broken 4155.0 support level. A larger barrier exists from 4163.33576 to 4182.71814, where the rising regression line and SAR level converge to cap potential rebounds. Price must clear this upper zone to shift the current bearish pressure, but until then, the market remains trapped between immediate harmonic support and a dense cluster of overhead resistance.",
-    "The bearish move currently faces a significant test at 4140.0, where the completion of a bullish Bat pattern introduces counter-pressure. While sellers have successfully pushed price lower, the very expanded volatility range suggests that the market has room to move, even if fresh volatility is no longer building behind the decline. The high level of opposing wick pressure, currently at 83.4, indicates that buyers are already active, though this harmonic pattern serves as a source of counter-pressure instead of a confirmed reversal. For the decline to continue, sellers must break through this immediate harmonic support and maintain their momentum without triggering a broader reorganization. Conversely, any failure to extend below 4140.0 would allow the market to test the overhead resistance cluster, potentially stalling the current bearish run.",
-    "The broader market remains unresolved, characterized by rapid switching and erratic timing that keep the overall structure in a state of disorder. This unresolved background will only fade if the market settles into a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers decrease the frequency of reversals and produce steadier, repeated runs with a coherent pace. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken 4155.0 swing area, or invalidate the recent bearish evidence through longer, more forceful counter-runs. Until one of these shifts occurs, the market will continue to reflect high force without the stability required for a clean, sustained trend."
+    "Gold trades at 4168.0, resting below the middle Bollinger band at 4175.0 while holding above the confirmed swing low at 4158.0. The confirmed swing structure still maintains higher highs and higher lows, yet the immediate sequence is small and hesitant. Recent movement shows a 7-run downswing followed by a modest 1-unit bounce. This pattern captures a market that is losing upside momentum without breaking its broader pattern cleanly. Sellers are pressing downward, but they have not cleared the nearby support zone anchored by the 4158.0 pivot and the developing bullish Bat pattern near 4155.651. At the same time, overhead resistance starts quickly at the 4172.0 to 4173.0 pivot area and extends toward the SAR level at 4193.74256.",
+    "A closer look at the 104-brick window highlights how selling pressure has sharpened recently without completely overriding the broader sample. Across the entire historical record, bullish advances averaged 3.47 units compared to 2.65 for bearish declines. In contrast, the most recent 12 runs show average bearish declines stretching to 3.33 while bullish advances hold steady at 3.5. This subtle shift reveals that sellers are pushing deeper into recent moves, reaching a matching peak downside run of 7 units during the latest sequence. Yet counter-moves remain active and stable, preventing the recent selling pressure from turning into an outright trend. The market is experiencing transitional friction where downside persistence is growing, but buyers still intercept declines before support gives way.",
+    "Evaluating the trustworthiness of the current downside movement shows a market under transitional pressure instead of clean directional control. Continuation holds a strong score of 75.2, yet re-acceleration sits lower at 20.4 alongside a sharp rise in compression to 28.4. This mix means sellers have enough force to extend downward runs, but the wider environment remains unstable with high opposing wick pressure of 73.2. Buyers continue to contest declines around key supports without establishing a dominant counter-trend. Price is generating downside momentum inside an unsettled background where neither side has secured permanent control. The persistent friction keeps the recent selling pressure from translating into a stable, uninterrupted trend.",
+    "Immediate support sits just below price, anchored by the regression level at 4163.93417 and the confirmed swing low at 4158.0, which tightly overlaps with the developing bullish Bat level at 4155.651 and the lower Bollinger band at 4153.0. This confluence creates a dense defense zone where buyers regularly step in to halt downside extensions. On the other side, the first resistance area starts overhead at the 4172.0 to 4173.0 pivot zone, accompanied by the middle Bollinger band at 4175.0. Beyond that immediate test, the larger trend-control barrier extends toward the SAR level at 4193.74256 and the upper Bollinger band at 4197.0. These boundaries frame a market caught between active near-term support and heavy overhead resistance.",
+    "Continuation can persist as long as sellers maintain their recent timing advantage, but multiple friction points stand ready to interrupt the decline. High opposing wick pressure sitting at 73.2 shows that buyers continue to absorb downside pressure whenever price approaches key support. At the same time, the broader volatility range remains normal and stable with no new expansion building behind the move. Price has plenty of room to travel inside that envelope, yet contracting volatility behavior serves as a caution instead of proof of an enduring trend. A developing bullish Bat pattern near 4155.651 adds active counter-pressure to the zone without confirming an outright reversal by itself. That harmonic structure simply gives the market a natural source of resistance against deeper downside extensions.",
+    "Rapid switching, erratic timing, and frequent reversals keep the broader market unresolved while transitional friction dominates the background. That unsettled condition fades only when the market transitions into greater order through a stable range or persistent directional control. The immediate bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress below the 4158.0 pivot. Conversely, that directional lean grows weaker if buyers reclaim the overhead pivot zone between 4172.0 and 4173.0, extend counter-runs beyond recent averages, or invalidate the supplied bearish evidence. Until one side establishes sustained control through those concrete structural changes, price will continue to oscillate inside its normal volatility envelope."
   ],
-  "text": "XAUUSD is currently testing the 4140.0 level, which marks the completion area for a developing bullish Bat pattern. While the broader market context remains directional and clean, the immediate price action is bearish. Price has broken below the latest confirmed low at 4155.0, shifting the swing structure into a reorganizing state. The SAR level at 4182.71814 and the rising regression line at 4163.33576 sit overhead, acting as clear resistance barriers that keep downward pressure active. Despite this recent decline, the market has not yet established a sustained downtrend, as the current swing structure is contracting and the overall volatility range remains very expanded. Sellers hold the immediate advantage, but they must contend with the developing harmonic counter-pressure at current levels.\n\nThe broader 104-brick window shows a market that has historically favored bullish runs, with an average bullish move of 3.39 compared to 2.39 for bearish runs. However, recent behavior reveals a distinct shift in momentum. Over the last 12 runs, the average bullish and bearish runs have converged to 2.17 and 2.0 respectively, indicating that the previous dominance of bullish advances has stalled. While the overall structure remains clean, the recent sequence of alternating runs—including six bearish and six bullish moves—shows that the market is struggling to maintain its directional persistence. Sellers have become more competitive, and the contraction in swing size confirms that the earlier, more forceful bullish expansion is currently being challenged by this newfound parity.\n\nThe market is currently forceful, but it lacks the stability of a clean trend. While sellers have successfully pushed price below the 4155.0 support level, the move is occurring within a highly expanded volatility range that prevents the decline from settling into a consistent rhythm. Continuation scores remain elevated at 73.3, suggesting that the current directional pressure is not merely noise, yet the compression levels have dropped sharply, indicating that the market is shedding its previous orderliness. This combination of high force and low stability shows that the current bearish run is an extension of the broader disorder instead of the start of a new, reliable trend. Sellers have the immediate advantage, but they are operating in a market that remains prone to sudden, sharp reversals.\n\nThe market is currently testing the 4140.0 level, which serves as both the current price and the completion point for a developing bullish Bat pattern. Below this, the 4130.81914 Bollinger lower band and the 4125.0 confirmed pivot form the first meaningful support zone. Overhead, the immediate reclaim area sits between 4145.0 and 4166.0, a zone that encompasses the recently broken 4155.0 support level. A larger barrier exists from 4163.33576 to 4182.71814, where the rising regression line and SAR level converge to cap potential rebounds. Price must clear this upper zone to shift the current bearish pressure, but until then, the market remains trapped between immediate harmonic support and a dense cluster of overhead resistance.\n\nThe bearish move currently faces a significant test at 4140.0, where the completion of a bullish Bat pattern introduces counter-pressure. While sellers have successfully pushed price lower, the very expanded volatility range suggests that the market has room to move, even if fresh volatility is no longer building behind the decline. The high level of opposing wick pressure, currently at 83.4, indicates that buyers are already active, though this harmonic pattern serves as a source of counter-pressure instead of a confirmed reversal. For the decline to continue, sellers must break through this immediate harmonic support and maintain their momentum without triggering a broader reorganization. Conversely, any failure to extend below 4140.0 would allow the market to test the overhead resistance cluster, potentially stalling the current bearish run.\n\nThe broader market remains unresolved, characterized by rapid switching and erratic timing that keep the overall structure in a state of disorder. This unresolved background will only fade if the market settles into a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers decrease the frequency of reversals and produce steadier, repeated runs with a coherent pace. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken 4155.0 swing area, or invalidate the recent bearish evidence through longer, more forceful counter-runs. Until one of these shifts occurs, the market will continue to reflect high force without the stability required for a clean, sustained trend.",
+  "text": "Gold trades at 4168.0, resting below the middle Bollinger band at 4175.0 while holding above the confirmed swing low at 4158.0. The confirmed swing structure still maintains higher highs and higher lows, yet the immediate sequence is small and hesitant. Recent movement shows a 7-run downswing followed by a modest 1-unit bounce. This pattern captures a market that is losing upside momentum without breaking its broader pattern cleanly. Sellers are pressing downward, but they have not cleared the nearby support zone anchored by the 4158.0 pivot and the developing bullish Bat pattern near 4155.651. At the same time, overhead resistance starts quickly at the 4172.0 to 4173.0 pivot area and extends toward the SAR level at 4193.74256.\n\nA closer look at the 104-brick window highlights how selling pressure has sharpened recently without completely overriding the broader sample. Across the entire historical record, bullish advances averaged 3.47 units compared to 2.65 for bearish declines. In contrast, the most recent 12 runs show average bearish declines stretching to 3.33 while bullish advances hold steady at 3.5. This subtle shift reveals that sellers are pushing deeper into recent moves, reaching a matching peak downside run of 7 units during the latest sequence. Yet counter-moves remain active and stable, preventing the recent selling pressure from turning into an outright trend. The market is experiencing transitional friction where downside persistence is growing, but buyers still intercept declines before support gives way.\n\nEvaluating the trustworthiness of the current downside movement shows a market under transitional pressure instead of clean directional control. Continuation holds a strong score of 75.2, yet re-acceleration sits lower at 20.4 alongside a sharp rise in compression to 28.4. This mix means sellers have enough force to extend downward runs, but the wider environment remains unstable with high opposing wick pressure of 73.2. Buyers continue to contest declines around key supports without establishing a dominant counter-trend. Price is generating downside momentum inside an unsettled background where neither side has secured permanent control. The persistent friction keeps the recent selling pressure from translating into a stable, uninterrupted trend.\n\nImmediate support sits just below price, anchored by the regression level at 4163.93417 and the confirmed swing low at 4158.0, which tightly overlaps with the developing bullish Bat level at 4155.651 and the lower Bollinger band at 4153.0. This confluence creates a dense defense zone where buyers regularly step in to halt downside extensions. On the other side, the first resistance area starts overhead at the 4172.0 to 4173.0 pivot zone, accompanied by the middle Bollinger band at 4175.0. Beyond that immediate test, the larger trend-control barrier extends toward the SAR level at 4193.74256 and the upper Bollinger band at 4197.0. These boundaries frame a market caught between active near-term support and heavy overhead resistance.\n\nContinuation can persist as long as sellers maintain their recent timing advantage, but multiple friction points stand ready to interrupt the decline. High opposing wick pressure sitting at 73.2 shows that buyers continue to absorb downside pressure whenever price approaches key support. At the same time, the broader volatility range remains normal and stable with no new expansion building behind the move. Price has plenty of room to travel inside that envelope, yet contracting volatility behavior serves as a caution instead of proof of an enduring trend. A developing bullish Bat pattern near 4155.651 adds active counter-pressure to the zone without confirming an outright reversal by itself. That harmonic structure simply gives the market a natural source of resistance against deeper downside extensions.\n\nRapid switching, erratic timing, and frequent reversals keep the broader market unresolved while transitional friction dominates the background. That unsettled condition fades only when the market transitions into greater order through a stable range or persistent directional control. The immediate bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress below the 4158.0 pivot. Conversely, that directional lean grows weaker if buyers reclaim the overhead pivot zone between 4172.0 and 4173.0, extend counter-runs beyond recent averages, or invalidate the supplied bearish evidence. Until one side establishes sustained control through those concrete structural changes, price will continue to oscillate inside its normal volatility envelope.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 745
+  "writer_model": "gemini-3.5-flash-lite",
+  "word_count": 726
 }
