@@ -1,71 +1,71 @@
 {
   "instrument": "USDJPY",
-  "as_of": "2026-10-14T18:35:30.275000+00:00",
-  "source_run": 39082773918,
-  "review_run": 39082773918,
+  "as_of": "2026-10-23T14:29:32.043000+00:00",
+  "source_run": 40140888109,
+  "review_run": 40140888109,
   "review_version": "writer-v6-market-state",
-  "status": "OK",
-  "state": "Sellers control the immediate downside push, but nearby support levels and neutral swing structure keep the broader trend unresolved.",
+  "status": "UNRESOLVED",
+  "state": "USDJPY remains bearish in its broader structure, but the immediate price action is currently caught in a choppy, short-term rebound.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 76.4,
-      "current": 75.5,
-      "delta": -0.9,
-      "value": "76.4 → 75.5",
+      "previous": 74.9,
+      "current": 71.7,
+      "delta": -3.2,
+      "value": "74.9 → 71.7",
       "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 21.7,
-      "current": 29.8,
-      "delta": 8.1,
-      "value": "21.7 → 29.8",
+      "previous": 11.6,
+      "current": 11.9,
+      "delta": 0.3,
+      "value": "11.6 → 11.9",
       "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 22.3,
-      "current": 24.7,
-      "delta": 2.4,
-      "value": "22.3 → 24.7",
-      "change_arrow": "↑"
-    },
-    {
-      "label": "Compression",
-      "previous": 23.2,
-      "current": 23.2,
+      "previous": 59.0,
+      "current": 59.0,
       "delta": 0.0,
-      "value": "23.2 → 23.2",
+      "value": "59.0 → 59.0",
       "change_arrow": "→"
     },
     {
+      "label": "Compression",
+      "previous": 49.4,
+      "current": 25.0,
+      "delta": -24.4,
+      "value": "49.4 → 25.0",
+      "change_arrow": "↓"
+    },
+    {
       "label": "Balance / chop",
-      "previous": 64.5,
-      "current": 67.4,
-      "delta": 2.9,
-      "value": "64.5 → 67.4",
+      "previous": 66.1,
+      "current": 76.9,
+      "delta": 10.8,
+      "value": "66.1 → 76.9",
       "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "erratic",
       "delta": null,
-      "value": "mixed",
+      "value": "erratic",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "Sellers currently hold the immediate advantage, extending a five-unit downside sequence that presses price down to 157.95. Confirmed swing structure remains neutral and reorganizing, meaning this decline is unfolding inside a broader background of hesitation instead of a clean trend. The latest sequence shows sharp downward movement, but the confirmed swing pivots at 157.65 and 157.8 sit right below current price to challenge the move. Meanwhile, the middle Bollinger band at 158.355 and the SAR level at 158.85 loom overhead. Price is sliding, but the wider market structure has not yet cleared enough room for sellers to establish undisputed control over the broader trend.",
-    "Broader history across the 104-brick window shows a market that spent more time building upward, with 56 bullish moves averaging 3.5 units against 48 bearish moves averaging 3.0 units. Recent behavior tells a tighter story. Over the last 12 runs, bullish advances still manage a larger average span at 4.17 units compared to 2.67 units for declines, but the immediate pressure has turned. Selling runs have grown more persistent, even if counter-moves continue to step in with steady deceleration. This contrast explains why the wider structure retains mixed characteristics. Downside runs are pressing harder right now, yet they have not overridden the longer historical tendency for buyers to stretch upward when momentum opens.",
-    "The selling pressure is forceful, but it lacks the backing of a clean, stable structural state. Re-acceleration is picking up speed, rising to 29.8 alongside a moderate tick in chop to 67.4, which shows that recent downward movement is carving deeper into the chart without resolving the underlying hesitation. Continuation remains high at 75.5, yet transition pressure stays subdued at 24.7 and compression rests near 23.2. Price is extending lower because sellers are pressing their advantage in the immediate sequence, but the broader environment is still heavily entangled in competing signals. The decline has momentum, but the background conditions do not yet support a fully organized trend.",
-    "Immediate support sits just below price at the 157.65 to 157.8 area, encompassing recent confirmed pivot lows that anchor the current downside extension. The lower Bollinger band at 157.87 sits right among those levels to reinforce that zone. Moving overhead, the first resistance area clusters around the middle Bollinger band at 158.355 and nearby confirmed swing highs, giving buyers a clear barrier to reclaim if they want to halt the slide. Further up, the larger trend-control area spans from the SAR level at 158.85 up to the developing Butterfly D completion at 158.948 and harmonic X at 159.034. These overhead barriers define the limits that sellers must respect to keep their advantage intact.",
-    "The volatility range remains broad, but its expansion is cooling even as the downside run presses forward. Price has room to move inside those wider boundaries, yet fresh volatility is no longer building behind the decline. At the same time, moderate opposing wick pressure shows that buyers are stepping in with enough frequency to challenge continuous extension without stopping the immediate descent. Overhead, the developing Butterfly pattern near 158.948 introduces a source of counter-pressure that could stall any recovery attempt. This harmonic structure does not reverse the bearish reading by itself, but it gives the market a recognizable area where resistance can form if buyers attempt to reclaim lost ground.",
-    "Rapid switching, erratic timing, frequent reversals and disorder keep the broader market unresolved. That mixed background fades only when the market becomes more orderly, either through a stable range or through persistent directional control. The current bearish lean becomes more convincing only when instability decreases and sellers develop repeated runs, steadier timing, coherent pace and continued structural progress. That downside lean becomes weaker if buyers gain persistent control, reclaim broken structure by pushing back above the middle Bollinger band or SAR levels, or invalidate the supplied directional evidence. Until one of those structural shifts occurs, price can extend lower without locking in a clean trend."
+    "USDJPY is currently caught in a tug-of-war where the broader bearish trend faces immediate, albeit shallow, counter-pressure. While the confirmed swing structure remains bearish with a sequence of lower highs and lower lows, the most recent price action has carved out a short-term bullish sequence. This creates a disconnect between the established downward momentum and the current, less stable rebound. The market is not yet showing a clean directional break in either direction, as evidenced by the erratic structural quality and a sharp increase in balance and chop. With price sitting at 157.0, it remains pinned beneath the SAR level of 157.10589 and the falling regression line at 157.31112, keeping the larger overhead barriers intact despite the recent attempt to push higher.",
+    "The market has shifted from a broader, more consistent bearish trend into a period of heightened disorder. While the 104-brick window shows a history of 55 bearish moves versus 49 bullish ones, recent behavior reveals a sharp increase in chop, with balance scores climbing from 66.1 to 76.9. The dominant bearish runs are contracting, averaging 4.17 units in the most recent 12-run sample compared to a historical average of 3.06. Simultaneously, counter-moves are accelerating and expanding, creating a tug-of-war that disrupts the previous downward persistence. This change in internal quality, which has weakened by 6.76, confirms that the recent bearish pressure is no longer as clean or as stable as the broader history suggests, leaving the market in a state of erratic transition.",
+    "The current directional move is forceful instead of stable, as the market is operating inside a background of high disorder. While the recent sequence shows a bearish bias, the internal quality score has weakened by 6.76, and the chop index has climbed to 76.9. This confirms that price is not moving with the steady, rhythmic control typical of a clean trend. Instead, the market is experiencing a tug-of-war where counter-moves are accelerating and expanding, effectively disrupting the persistence of the dominant downward runs. With continuation scores dipping to 71.7 and compression dropping sharply to 25.0, the market lacks the structural cohesion to sustain a one-sided push. The recent price action is essentially a series of sharp, erratic swings that lack the stability required for a reliable directional trend.",
+    "Price is currently contained within a narrow band of overhead resistance and immediate support. The area between 157.05 and 157.30 acts as the primary reclaim zone, grouping the recent confirmed low pivot at 157.05, the SAR level at 157.10589, and the falling regression line at 157.31112. This cluster represents the immediate ceiling that price must clear to challenge the broader bearish trend. Below current levels, the zone between 156.60 and 156.95 provides the first meaningful support, anchored by the Bollinger middle band at 156.655 and the harmonic X point at 156.944. A sustained move through this lower boundary would expose the 156.10-156.31 area, where the Bollinger lower band and the developing Butterfly D point converge to define the current trend-control floor.",
+    "The market remains trapped in a state of high disorder where the bearish trend struggles to find consistent follow-through. While the volatility envelope is broad, it is currently contracting, indicating that fresh volatility is no longer building behind the recent selloff. This creates a environment where price has room to move, but the lack of expansion limits the potential for a sustained directional run. A developing Butterfly pattern near 156.312 provides a source of counter-pressure, though it acts only as a potential pivot zone instead of a confirmed reversal. The bearish case remains viable as long as the market avoids reclaiming the overhead barriers at 157.10-157.31, but the current erratic quality and moderate wick rejection suggest that the downward momentum is increasingly vulnerable to further interruption.",
+    "The broader market remains unresolved, trapped in a cycle of rapid switching and erratic timing that prevents any single side from establishing lasting control. This state of disorder will only fade if the market shifts toward a more stable range or develops a persistent, orderly directional run. The current bearish lean becomes more convincing only if sellers can decrease this instability by producing repeated, steady runs with a coherent pace and continued structural progress. Conversely, the bearish case weakens if the market reclaims the broken swing area near 157.15 or if buyers gain persistent control through longer, more frequent counter-moves. Until these conditions shift, the market will likely continue to oscillate within its current erratic transition, lacking the stability required to confirm a definitive trend."
   ],
-  "text": "Sellers currently hold the immediate advantage, extending a five-unit downside sequence that presses price down to 157.95. Confirmed swing structure remains neutral and reorganizing, meaning this decline is unfolding inside a broader background of hesitation instead of a clean trend. The latest sequence shows sharp downward movement, but the confirmed swing pivots at 157.65 and 157.8 sit right below current price to challenge the move. Meanwhile, the middle Bollinger band at 158.355 and the SAR level at 158.85 loom overhead. Price is sliding, but the wider market structure has not yet cleared enough room for sellers to establish undisputed control over the broader trend.\n\nBroader history across the 104-brick window shows a market that spent more time building upward, with 56 bullish moves averaging 3.5 units against 48 bearish moves averaging 3.0 units. Recent behavior tells a tighter story. Over the last 12 runs, bullish advances still manage a larger average span at 4.17 units compared to 2.67 units for declines, but the immediate pressure has turned. Selling runs have grown more persistent, even if counter-moves continue to step in with steady deceleration. This contrast explains why the wider structure retains mixed characteristics. Downside runs are pressing harder right now, yet they have not overridden the longer historical tendency for buyers to stretch upward when momentum opens.\n\nThe selling pressure is forceful, but it lacks the backing of a clean, stable structural state. Re-acceleration is picking up speed, rising to 29.8 alongside a moderate tick in chop to 67.4, which shows that recent downward movement is carving deeper into the chart without resolving the underlying hesitation. Continuation remains high at 75.5, yet transition pressure stays subdued at 24.7 and compression rests near 23.2. Price is extending lower because sellers are pressing their advantage in the immediate sequence, but the broader environment is still heavily entangled in competing signals. The decline has momentum, but the background conditions do not yet support a fully organized trend.\n\nImmediate support sits just below price at the 157.65 to 157.8 area, encompassing recent confirmed pivot lows that anchor the current downside extension. The lower Bollinger band at 157.87 sits right among those levels to reinforce that zone. Moving overhead, the first resistance area clusters around the middle Bollinger band at 158.355 and nearby confirmed swing highs, giving buyers a clear barrier to reclaim if they want to halt the slide. Further up, the larger trend-control area spans from the SAR level at 158.85 up to the developing Butterfly D completion at 158.948 and harmonic X at 159.034. These overhead barriers define the limits that sellers must respect to keep their advantage intact.\n\nThe volatility range remains broad, but its expansion is cooling even as the downside run presses forward. Price has room to move inside those wider boundaries, yet fresh volatility is no longer building behind the decline. At the same time, moderate opposing wick pressure shows that buyers are stepping in with enough frequency to challenge continuous extension without stopping the immediate descent. Overhead, the developing Butterfly pattern near 158.948 introduces a source of counter-pressure that could stall any recovery attempt. This harmonic structure does not reverse the bearish reading by itself, but it gives the market a recognizable area where resistance can form if buyers attempt to reclaim lost ground.\n\nRapid switching, erratic timing, frequent reversals and disorder keep the broader market unresolved. That mixed background fades only when the market becomes more orderly, either through a stable range or through persistent directional control. The current bearish lean becomes more convincing only when instability decreases and sellers develop repeated runs, steadier timing, coherent pace and continued structural progress. That downside lean becomes weaker if buyers gain persistent control, reclaim broken structure by pushing back above the middle Bollinger band or SAR levels, or invalidate the supplied directional evidence. Until one of those structural shifts occurs, price can extend lower without locking in a clean trend.",
+  "text": "USDJPY is currently caught in a tug-of-war where the broader bearish trend faces immediate, albeit shallow, counter-pressure. While the confirmed swing structure remains bearish with a sequence of lower highs and lower lows, the most recent price action has carved out a short-term bullish sequence. This creates a disconnect between the established downward momentum and the current, less stable rebound. The market is not yet showing a clean directional break in either direction, as evidenced by the erratic structural quality and a sharp increase in balance and chop. With price sitting at 157.0, it remains pinned beneath the SAR level of 157.10589 and the falling regression line at 157.31112, keeping the larger overhead barriers intact despite the recent attempt to push higher.\n\nThe market has shifted from a broader, more consistent bearish trend into a period of heightened disorder. While the 104-brick window shows a history of 55 bearish moves versus 49 bullish ones, recent behavior reveals a sharp increase in chop, with balance scores climbing from 66.1 to 76.9. The dominant bearish runs are contracting, averaging 4.17 units in the most recent 12-run sample compared to a historical average of 3.06. Simultaneously, counter-moves are accelerating and expanding, creating a tug-of-war that disrupts the previous downward persistence. This change in internal quality, which has weakened by 6.76, confirms that the recent bearish pressure is no longer as clean or as stable as the broader history suggests, leaving the market in a state of erratic transition.\n\nThe current directional move is forceful instead of stable, as the market is operating inside a background of high disorder. While the recent sequence shows a bearish bias, the internal quality score has weakened by 6.76, and the chop index has climbed to 76.9. This confirms that price is not moving with the steady, rhythmic control typical of a clean trend. Instead, the market is experiencing a tug-of-war where counter-moves are accelerating and expanding, effectively disrupting the persistence of the dominant downward runs. With continuation scores dipping to 71.7 and compression dropping sharply to 25.0, the market lacks the structural cohesion to sustain a one-sided push. The recent price action is essentially a series of sharp, erratic swings that lack the stability required for a reliable directional trend.\n\nPrice is currently contained within a narrow band of overhead resistance and immediate support. The area between 157.05 and 157.30 acts as the primary reclaim zone, grouping the recent confirmed low pivot at 157.05, the SAR level at 157.10589, and the falling regression line at 157.31112. This cluster represents the immediate ceiling that price must clear to challenge the broader bearish trend. Below current levels, the zone between 156.60 and 156.95 provides the first meaningful support, anchored by the Bollinger middle band at 156.655 and the harmonic X point at 156.944. A sustained move through this lower boundary would expose the 156.10-156.31 area, where the Bollinger lower band and the developing Butterfly D point converge to define the current trend-control floor.\n\nThe market remains trapped in a state of high disorder where the bearish trend struggles to find consistent follow-through. While the volatility envelope is broad, it is currently contracting, indicating that fresh volatility is no longer building behind the recent selloff. This creates a environment where price has room to move, but the lack of expansion limits the potential for a sustained directional run. A developing Butterfly pattern near 156.312 provides a source of counter-pressure, though it acts only as a potential pivot zone instead of a confirmed reversal. The bearish case remains viable as long as the market avoids reclaiming the overhead barriers at 157.10-157.31, but the current erratic quality and moderate wick rejection suggest that the downward momentum is increasingly vulnerable to further interruption.\n\nThe broader market remains unresolved, trapped in a cycle of rapid switching and erratic timing that prevents any single side from establishing lasting control. This state of disorder will only fade if the market shifts toward a more stable range or develops a persistent, orderly directional run. The current bearish lean becomes more convincing only if sellers can decrease this instability by producing repeated, steady runs with a coherent pace and continued structural progress. Conversely, the bearish case weakens if the market reclaims the broken swing area near 157.15 or if buyers gain persistent control through longer, more frequent counter-moves. Until these conditions shift, the market will likely continue to oscillate within its current erratic transition, lacking the stability required to confirm a definitive trend.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite",
-  "word_count": 674
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 772
 }

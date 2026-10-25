@@ -1,71 +1,71 @@
 {
   "instrument": "GBPUSD",
-  "as_of": "2026-10-16T20:00:03.191000+00:00",
-  "source_run": 39082773918,
-  "review_run": 39082773918,
+  "as_of": "2026-10-22T16:55:04.052000+00:00",
+  "source_run": 40140888109,
+  "review_run": 40140888109,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "GBPUSD is testing 1.332 as the immediate bullish surge challenges the broader bearish structure.",
+  "status": "OK",
+  "state": "The market is currently trapped in an erratic, directionless state as bullish swing structure meets immediate price hesitation.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 37.2,
-      "current": 36.1,
-      "delta": -1.1,
-      "value": "37.2 → 36.1",
+      "previous": 33.7,
+      "current": 32.9,
+      "delta": -0.8,
+      "value": "33.7 → 32.9",
       "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 14.0,
-      "current": 13.8,
-      "delta": -0.2,
-      "value": "14.0 → 13.8",
+      "previous": 28.6,
+      "current": 17.6,
+      "delta": -11.0,
+      "value": "28.6 → 17.6",
       "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 73.2,
-      "current": 74.4,
-      "delta": 1.2,
-      "value": "73.2 → 74.4",
-      "change_arrow": "↑"
+      "previous": 19.5,
+      "current": 10.7,
+      "delta": -8.8,
+      "value": "19.5 → 10.7",
+      "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 11.0,
-      "current": 11.0,
-      "delta": 0.0,
-      "value": "11.0 → 11.0",
-      "change_arrow": "→"
+      "previous": 78.3,
+      "current": 52.2,
+      "delta": -26.1,
+      "value": "78.3 → 52.2",
+      "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 44.4,
-      "current": 48.5,
-      "delta": 4.1,
-      "value": "44.4 → 48.5",
+      "previous": 58.6,
+      "current": 60.2,
+      "delta": 1.6,
+      "value": "58.6 → 60.2",
       "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "erratic",
       "delta": null,
-      "value": "unstable",
+      "value": "erratic",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "GBPUSD is currently testing the 1.332 level, marking a significant counter-move that has pushed price above the middle Bollinger band at 1.32255. While the broader structural quality remains unstable, this latest surge has been forceful, extending 11 units and effectively challenging the prevailing bearish orientation. The market is currently experiencing a high degree of transition pressure, which at 74.4, signals that the previous downward momentum is facing a credible test. Although the underlying swing structure still reflects lower highs and lower lows, the recent bullish extension has temporarily reclaimed key areas, placing price in a position where the immediate advantage has shifted to the upside. The market is not yet in a clean trend, but the current volatility expansion shows that this counter-move is gaining real traction.",
-    "A deeper look across the 104-brick window highlights how much the character of recent price movement has shifted. Across the full sample, declines averaged 3.41 units while bullish advances averaged 2.71 units, reflecting the persistent downward pull that characterized the broader history. Yet the most recent 12 runs show an abrupt expansion in buying pressure. Bullish counters now average 4.17 units, eclipsing the average bearish run of 4.0 units over the same span. The longest bullish run has reached an 11-unit surge, matching the most aggressive upside extension in the entire historical record. This acceleration in counter-moves shows that buyers are no longer just absorbing selling pressure temporarily. They are actively matching the scale of the dominant downward trend.",
-    "The rising transition pressure at 74.4 points directly to the weight of this counter-move, even though chop remains a factor at 48.5 and overall structural quality stays unstable. Price is not moving inside a quiet or orderly environment. Low opposing wick pressure at 0.3 shows that selling attempts are failing to mount meaningful rejections against the advance. The volatility bands are expanding as price rides the upper boundary at 1.3325, confirming that the current surge is carrying real force. At the same time, low timing consistency means that this momentum is arriving in sharp bursts instead of steady accumulation. The market possesses high directional energy right now, but that energy is operating against a backdrop that has not yet settled into an organized pattern.",
-    "The immediate test sits near the upper Bollinger band and harmonic completion area between 1.332 and 1.3325, where price is currently meeting resistance. Beyond that zone, the nearest overhead resistance reaches into the 1.334 to 1.340 span, encompassing previous confirmed pivots that define the next structural hurdles for the advance. On the downside, support starts at the middle Bollinger band and SAR level resting together from 1.32255 down to 1.31909. Deeper support clusters around the 1.3141 regression line and the lower Bollinger band at 1.3126. These zones show that while the current surge has pushed price against immediate resistance, a layered defense sits underneath to absorb any pullback.",
-    "The capacity of this advance to push higher depends heavily on how price interacts with the upper Bollinger band at 1.3325 and the developing Bat pattern completion right at 1.332. That harmonic structure acts as an immediate source of counter-pressure, yet low opposing wick pressure at 0.3 indicates that sellers are struggling to generate meaningful rejections against the current push. The volatility envelope remains broad and expanded, meaning ample room exists for the move to breathe inside the wider range even though fresh volatility expansion is not accelerating behind the surge. That pattern points to sustained participation without confirming a lasting reversal. If selling pressure fails to reassert itself around these upper levels, the advance retains the structural opening to test higher confirmed pivot zones.",
-    "The broader market remains unresolved because rapid switching and erratic timing continue to define the wider background. That disorder fades only if the market settles into a stable range or establishes persistent directional control. The developing bullish structure gains conviction only when expansion runs repeat, pace remains steady, and structural progress continues without interruption. Conversely, that upside lean weakens if selling pressure reappears to reclaim broken support zones or if counter-moves shorten and fail to sustain their momentum. Until one of those states takes hold, the immediate counter-move operates inside an unsettled environment that still leaves the larger direction open."
+    "GBPUSD is currently caught in a state of erratic movement where neither buyers nor sellers can establish a clean, sustained advantage. While the broader swing structure remains aligned to the upside with higher highs and higher lows, the immediate price action is showing signs of hesitation. Price sits at 1.337, hovering just above the middle Bollinger band at 1.33648 and the SAR level at 1.33598. These levels provide a nearby floor, yet the market is struggling to find the directional conviction needed to push away from them. The recent sequence of runs has become highly inconsistent, and with compression levels dropping significantly, the market is effectively trading in a narrowing volatility environment that lacks a clear dominant path.",
+    "The broader history of the 104-brick window shows a market that has historically favored bullish runs, with an average bullish extension of 3.22 compared to 2.42 for bearish moves. However, recent behavior reveals a sharp shift in character. Over the last 12 runs, the average bullish extension has surged to 4.33, while bearish runs have collapsed to just 1.5. This creates a clear tension: while the overall sample suggests a balanced, if slightly bullish, environment, the most recent activity is defined by increasingly aggressive counter-moves and a notable lack of persistence in the primary direction. The market is becoming more reactive, with counter-pace accelerating even as the dominant trend struggles to maintain its historical efficiency.",
+    "The current market lacks the structural integrity to support a clean directional move. While price maintains a position above the middle Bollinger band at 1.33648 and the SAR at 1.33598, these levels act more as magnets in a congested environment than as launchpads for a sustained trend. Compression has dropped sharply, falling from 78.3 to 52.2, which confirms that the market is losing its capacity for fresh expansion. With continuation scores languishing at 32.9 and re-acceleration pressure fading, the recent price action is best described as erratic. Buyers and sellers are locked in a cycle of short-lived attempts that fail to resolve the broader disorder, leaving the market in a state where force is present but stability is entirely absent.",
+    "The immediate price map is defined by a cluster of support levels just below 1.337. The middle Bollinger band at 1.33648, the SAR level at 1.33598, and the harmonic D-point at 1.33547 form a tight, multi-layered floor. While these levels are currently holding, they offer little structural resistance against the prevailing erratic movement. Overhead, the first reclaim area sits between 1.3395 and 1.3415, where recent high pivots create a zone that price must clear to regain any upward momentum. Beyond this, the larger trend-control area remains anchored by the upward-sloping 150-period regression line at 1.32127 and the harmonic X-point at 1.3202. This deeper zone serves as the ultimate boundary for the broader bullish structure, though it is currently far removed from the active price range.",
+    "The market remains in a state of unresolved pressure where neither side can claim dominance. Moderate wick rejection persists, but it lacks the force to drive a sustained reversal, leaving price to drift within a narrowing volatility envelope. While the Bollinger bands are contracting, this narrowing is a caution instead of a signal of impending expansion; it shows that fresh volatility is no longer building behind the recent price movement. A bullish Gartley pattern is developing near 1.33547, providing a source of counter-pressure that could interrupt the current downside drift. However, this pattern is not a confirmed reversal. The bearish case only gains traction if sellers can break the multi-layered support floor, while any meaningful recovery requires clearing the overhead resistance zone near 1.3395-1.3415.",
+    "The broader market remains unresolved as long as erratic timing, frequent reversals, and disordered price action persist. This state of disorder only fades if the market transitions into a stable range or develops persistent, coherent directional control. The current bullish lean is fragile; it becomes more convincing only if instability decreases and the market achieves repeated runs with steadier timing and sustained structural progress. Conversely, the bullish case weakens if the market loses its current footing, specifically through a reclaim of the broken swing structure by sellers or if counter-moves begin to last longer than the dominant runs. Until one side demonstrates this kind of persistence, the market will likely continue to drift within its narrowing volatility envelope without establishing a clear, dominant path."
   ],
-  "text": "GBPUSD is currently testing the 1.332 level, marking a significant counter-move that has pushed price above the middle Bollinger band at 1.32255. While the broader structural quality remains unstable, this latest surge has been forceful, extending 11 units and effectively challenging the prevailing bearish orientation. The market is currently experiencing a high degree of transition pressure, which at 74.4, signals that the previous downward momentum is facing a credible test. Although the underlying swing structure still reflects lower highs and lower lows, the recent bullish extension has temporarily reclaimed key areas, placing price in a position where the immediate advantage has shifted to the upside. The market is not yet in a clean trend, but the current volatility expansion shows that this counter-move is gaining real traction.\n\nA deeper look across the 104-brick window highlights how much the character of recent price movement has shifted. Across the full sample, declines averaged 3.41 units while bullish advances averaged 2.71 units, reflecting the persistent downward pull that characterized the broader history. Yet the most recent 12 runs show an abrupt expansion in buying pressure. Bullish counters now average 4.17 units, eclipsing the average bearish run of 4.0 units over the same span. The longest bullish run has reached an 11-unit surge, matching the most aggressive upside extension in the entire historical record. This acceleration in counter-moves shows that buyers are no longer just absorbing selling pressure temporarily. They are actively matching the scale of the dominant downward trend.\n\nThe rising transition pressure at 74.4 points directly to the weight of this counter-move, even though chop remains a factor at 48.5 and overall structural quality stays unstable. Price is not moving inside a quiet or orderly environment. Low opposing wick pressure at 0.3 shows that selling attempts are failing to mount meaningful rejections against the advance. The volatility bands are expanding as price rides the upper boundary at 1.3325, confirming that the current surge is carrying real force. At the same time, low timing consistency means that this momentum is arriving in sharp bursts instead of steady accumulation. The market possesses high directional energy right now, but that energy is operating against a backdrop that has not yet settled into an organized pattern.\n\nThe immediate test sits near the upper Bollinger band and harmonic completion area between 1.332 and 1.3325, where price is currently meeting resistance. Beyond that zone, the nearest overhead resistance reaches into the 1.334 to 1.340 span, encompassing previous confirmed pivots that define the next structural hurdles for the advance. On the downside, support starts at the middle Bollinger band and SAR level resting together from 1.32255 down to 1.31909. Deeper support clusters around the 1.3141 regression line and the lower Bollinger band at 1.3126. These zones show that while the current surge has pushed price against immediate resistance, a layered defense sits underneath to absorb any pullback.\n\nThe capacity of this advance to push higher depends heavily on how price interacts with the upper Bollinger band at 1.3325 and the developing Bat pattern completion right at 1.332. That harmonic structure acts as an immediate source of counter-pressure, yet low opposing wick pressure at 0.3 indicates that sellers are struggling to generate meaningful rejections against the current push. The volatility envelope remains broad and expanded, meaning ample room exists for the move to breathe inside the wider range even though fresh volatility expansion is not accelerating behind the surge. That pattern points to sustained participation without confirming a lasting reversal. If selling pressure fails to reassert itself around these upper levels, the advance retains the structural opening to test higher confirmed pivot zones.\n\nThe broader market remains unresolved because rapid switching and erratic timing continue to define the wider background. That disorder fades only if the market settles into a stable range or establishes persistent directional control. The developing bullish structure gains conviction only when expansion runs repeat, pace remains steady, and structural progress continues without interruption. Conversely, that upside lean weakens if selling pressure reappears to reclaim broken support zones or if counter-moves shorten and fail to sustain their momentum. Until one of those states takes hold, the immediate counter-move operates inside an unsettled environment that still leaves the larger direction open.",
+  "text": "GBPUSD is currently caught in a state of erratic movement where neither buyers nor sellers can establish a clean, sustained advantage. While the broader swing structure remains aligned to the upside with higher highs and higher lows, the immediate price action is showing signs of hesitation. Price sits at 1.337, hovering just above the middle Bollinger band at 1.33648 and the SAR level at 1.33598. These levels provide a nearby floor, yet the market is struggling to find the directional conviction needed to push away from them. The recent sequence of runs has become highly inconsistent, and with compression levels dropping significantly, the market is effectively trading in a narrowing volatility environment that lacks a clear dominant path.\n\nThe broader history of the 104-brick window shows a market that has historically favored bullish runs, with an average bullish extension of 3.22 compared to 2.42 for bearish moves. However, recent behavior reveals a sharp shift in character. Over the last 12 runs, the average bullish extension has surged to 4.33, while bearish runs have collapsed to just 1.5. This creates a clear tension: while the overall sample suggests a balanced, if slightly bullish, environment, the most recent activity is defined by increasingly aggressive counter-moves and a notable lack of persistence in the primary direction. The market is becoming more reactive, with counter-pace accelerating even as the dominant trend struggles to maintain its historical efficiency.\n\nThe current market lacks the structural integrity to support a clean directional move. While price maintains a position above the middle Bollinger band at 1.33648 and the SAR at 1.33598, these levels act more as magnets in a congested environment than as launchpads for a sustained trend. Compression has dropped sharply, falling from 78.3 to 52.2, which confirms that the market is losing its capacity for fresh expansion. With continuation scores languishing at 32.9 and re-acceleration pressure fading, the recent price action is best described as erratic. Buyers and sellers are locked in a cycle of short-lived attempts that fail to resolve the broader disorder, leaving the market in a state where force is present but stability is entirely absent.\n\nThe immediate price map is defined by a cluster of support levels just below 1.337. The middle Bollinger band at 1.33648, the SAR level at 1.33598, and the harmonic D-point at 1.33547 form a tight, multi-layered floor. While these levels are currently holding, they offer little structural resistance against the prevailing erratic movement. Overhead, the first reclaim area sits between 1.3395 and 1.3415, where recent high pivots create a zone that price must clear to regain any upward momentum. Beyond this, the larger trend-control area remains anchored by the upward-sloping 150-period regression line at 1.32127 and the harmonic X-point at 1.3202. This deeper zone serves as the ultimate boundary for the broader bullish structure, though it is currently far removed from the active price range.\n\nThe market remains in a state of unresolved pressure where neither side can claim dominance. Moderate wick rejection persists, but it lacks the force to drive a sustained reversal, leaving price to drift within a narrowing volatility envelope. While the Bollinger bands are contracting, this narrowing is a caution instead of a signal of impending expansion; it shows that fresh volatility is no longer building behind the recent price movement. A bullish Gartley pattern is developing near 1.33547, providing a source of counter-pressure that could interrupt the current downside drift. However, this pattern is not a confirmed reversal. The bearish case only gains traction if sellers can break the multi-layered support floor, while any meaningful recovery requires clearing the overhead resistance zone near 1.3395-1.3415.\n\nThe broader market remains unresolved as long as erratic timing, frequent reversals, and disordered price action persist. This state of disorder only fades if the market transitions into a stable range or develops persistent, coherent directional control. The current bullish lean is fragile; it becomes more convincing only if instability decreases and the market achieves repeated runs with steadier timing and sustained structural progress. Conversely, the bullish case weakens if the market loses its current footing, specifically through a reclaim of the broken swing structure by sellers or if counter-moves begin to last longer than the dominant runs. Until one side demonstrates this kind of persistence, the market will likely continue to drift within its narrowing volatility envelope without establishing a clear, dominant path.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
-  "word_count": 725
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 749
 }

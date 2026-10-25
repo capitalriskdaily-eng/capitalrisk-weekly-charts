@@ -1,71 +1,71 @@
 {
   "instrument": "XAUUSD",
-  "as_of": "2026-10-16T17:02:00.724000+00:00",
-  "source_run": 39082773918,
-  "review_run": 39082773918,
+  "as_of": "2026-10-23T20:00:00.003000+00:00",
+  "source_run": 40140888109,
+  "review_run": 40140888109,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "Price is pressing lower within an unsettled range, testing immediate support while higher swing levels remain overhead.",
+  "status": "OK",
+  "state": "Gold is in a forceful downward expansion, with sellers maintaining dominant control as price tests the 3995.0 level.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 72.3,
-      "current": 75.2,
-      "delta": 2.9,
-      "value": "72.3 → 75.2",
-      "change_arrow": "↑"
+      "previous": 77.0,
+      "current": 77.0,
+      "delta": 0.0,
+      "value": "77.0 → 77.0",
+      "change_arrow": "→"
     },
     {
       "label": "Re-acceleration",
-      "previous": 29.7,
-      "current": 20.4,
-      "delta": -9.3,
-      "value": "29.7 → 20.4",
-      "change_arrow": "↓"
+      "previous": 98.6,
+      "current": 98.9,
+      "delta": 0.3,
+      "value": "98.6 → 98.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 69.3,
-      "current": 84.2,
-      "delta": 14.9,
-      "value": "69.3 → 84.2",
-      "change_arrow": "↑"
+      "previous": 52.4,
+      "current": 52.4,
+      "delta": 0.0,
+      "value": "52.4 → 52.4",
+      "change_arrow": "→"
     },
     {
       "label": "Compression",
-      "previous": 10.8,
-      "current": 28.4,
-      "delta": 17.6,
-      "value": "10.8 → 28.4",
-      "change_arrow": "↑"
+      "previous": 4.9,
+      "current": 4.9,
+      "delta": 0.0,
+      "value": "4.9 → 4.9",
+      "change_arrow": "→"
     },
     {
       "label": "Balance / chop",
-      "previous": 19.3,
-      "current": 23.3,
-      "delta": 4.0,
-      "value": "19.3 → 23.3",
-      "change_arrow": "↑"
+      "previous": 41.4,
+      "current": 41.4,
+      "delta": 0.0,
+      "value": "41.4 → 41.4",
+      "change_arrow": "→"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "orderly",
       "delta": null,
-      "value": "unstable",
+      "value": "orderly",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "Gold trades at 4168.0, resting below the middle Bollinger band at 4175.0 while holding above the confirmed swing low at 4158.0. The confirmed swing structure still maintains higher highs and higher lows, yet the immediate sequence is small and hesitant. Recent movement shows a 7-run downswing followed by a modest 1-unit bounce. This pattern captures a market that is losing upside momentum without breaking its broader pattern cleanly. Sellers are pressing downward, but they have not cleared the nearby support zone anchored by the 4158.0 pivot and the developing bullish Bat pattern near 4155.651. At the same time, overhead resistance starts quickly at the 4172.0 to 4173.0 pivot area and extends toward the SAR level at 4193.74256.",
-    "A closer look at the 104-brick window highlights how selling pressure has sharpened recently without completely overriding the broader sample. Across the entire historical record, bullish advances averaged 3.47 units compared to 2.65 for bearish declines. In contrast, the most recent 12 runs show average bearish declines stretching to 3.33 while bullish advances hold steady at 3.5. This subtle shift reveals that sellers are pushing deeper into recent moves, reaching a matching peak downside run of 7 units during the latest sequence. Yet counter-moves remain active and stable, preventing the recent selling pressure from turning into an outright trend. The market is experiencing transitional friction where downside persistence is growing, but buyers still intercept declines before support gives way.",
-    "Evaluating the trustworthiness of the current downside movement shows a market under transitional pressure instead of clean directional control. Continuation holds a strong score of 75.2, yet re-acceleration sits lower at 20.4 alongside a sharp rise in compression to 28.4. This mix means sellers have enough force to extend downward runs, but the wider environment remains unstable with high opposing wick pressure of 73.2. Buyers continue to contest declines around key supports without establishing a dominant counter-trend. Price is generating downside momentum inside an unsettled background where neither side has secured permanent control. The persistent friction keeps the recent selling pressure from translating into a stable, uninterrupted trend.",
-    "Immediate support sits just below price, anchored by the regression level at 4163.93417 and the confirmed swing low at 4158.0, which tightly overlaps with the developing bullish Bat level at 4155.651 and the lower Bollinger band at 4153.0. This confluence creates a dense defense zone where buyers regularly step in to halt downside extensions. On the other side, the first resistance area starts overhead at the 4172.0 to 4173.0 pivot zone, accompanied by the middle Bollinger band at 4175.0. Beyond that immediate test, the larger trend-control barrier extends toward the SAR level at 4193.74256 and the upper Bollinger band at 4197.0. These boundaries frame a market caught between active near-term support and heavy overhead resistance.",
-    "Continuation can persist as long as sellers maintain their recent timing advantage, but multiple friction points stand ready to interrupt the decline. High opposing wick pressure sitting at 73.2 shows that buyers continue to absorb downside pressure whenever price approaches key support. At the same time, the broader volatility range remains normal and stable with no new expansion building behind the move. Price has plenty of room to travel inside that envelope, yet contracting volatility behavior serves as a caution instead of proof of an enduring trend. A developing bullish Bat pattern near 4155.651 adds active counter-pressure to the zone without confirming an outright reversal by itself. That harmonic structure simply gives the market a natural source of resistance against deeper downside extensions.",
-    "Rapid switching, erratic timing, and frequent reversals keep the broader market unresolved while transitional friction dominates the background. That unsettled condition fades only when the market transitions into greater order through a stable range or persistent directional control. The immediate bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress below the 4158.0 pivot. Conversely, that directional lean grows weaker if buyers reclaim the overhead pivot zone between 4172.0 and 4173.0, extend counter-runs beyond recent averages, or invalidate the supplied bearish evidence. Until one side establishes sustained control through those concrete structural changes, price will continue to oscillate inside its normal volatility envelope."
+    "Gold is currently locked in a decisive downward expansion, with price pushing to 3995.0. This move is not merely a drift; it is supported by a high-expansion volatility environment where the market is actively riding the lower Bollinger band. Sellers have established clear control, evidenced by the recent 29-unit bearish run that significantly outweighs the average bearish move of 4.73. While a Deep Crab harmonic pattern is developing with a completion point at the current price, it serves as a potential source of counter-pressure instead of a confirmed reversal. With the SAR level sitting overhead at 4020.46 and the regression line well above at 4089.08, the immediate structural path remains heavily tilted toward the downside.",
+    "The market has shifted from a balanced environment into a phase of aggressive directional expansion. Within the 104-brick window, the average bearish run of 4.73 units has been dwarfed by the recent 29-unit decline, signaling a clear escalation in selling pressure. While the broader history shows an equal count of 15 bullish and bearish runs, recent behavior confirms that sellers have seized the initiative. The average bearish run length in the most recent 12-run sample has climbed to 6.83, while bullish counters remain constrained at an average of 2.83. This contrast highlights a market where downside persistence is deepening, and counter-moves are failing to gain meaningful traction, effectively accelerating the dominant bearish pace.",
+    "The current decline is not just forceful; it is exceptionally orderly. With a continuation score of 77.0 and re-acceleration at 98.9, the market is demonstrating a high level of technical efficiency as it pushes lower. This is not a chaotic selloff, but quite a structured expansion where sellers are consistently maintaining the initiative. The low opposing wick pressure—currently at 2.1%—confirms that buyers are failing to mount any meaningful resistance, allowing the move to ride the lower Bollinger band without interruption. While the market is technically in a state of high volatility, the lack of chop and the alignment of the regression line at 4089.08 suggest that the downward path is well-supported by the current structural organization.",
+    "The immediate price map is defined by the current expansion, with the market testing the 3995.0 level where the Deep Crab harmonic pattern is currently developing. Below this, the lower Bollinger band at 3984.84 serves as the primary technical floor for the ongoing move. Overhead, the first resistance area is anchored by the SAR level at 4020.46, which sits just below the middle Bollinger band at 4042.5. A more significant trend-control barrier resides further up at 4089.08, marked by the falling regression line. Price remains firmly below these levels, confirming that sellers maintain control. Any attempt to reclaim the 4020.46–4042.5 zone would be the first sign of the current bearish momentum losing its immediate grip.",
+    "The bearish expansion remains forceful, but its future trajectory depends on whether sellers can maintain this pace without triggering a meaningful response. While the Deep Crab pattern at 3995.0 provides a technical source of counter-pressure, it is not a reversal signal. The market is currently riding the lower Bollinger band, and with opposing wick pressure at a negligible 2.1%, buyers have yet to show any intent to interrupt the decline. The bearish case remains robust as long as the market avoids re-entering the 4020.46–4042.5 resistance zone. Conversely, if sellers shorten their runs or if counter-moves begin to last longer than the recent average, the current directional lean would weaken, signaling that the downward momentum is losing its immediate structural support.",
+    "The broader market remains in a state of directional expansion, moving away from the disorder that previously defined its history. This unresolved background only fully fades if the current orderly, efficient selloff continues to demonstrate persistent control. The bearish lean becomes more convincing as long as sellers maintain their current pace, keep opposing wick pressure at minimal levels, and avoid re-entering the 4020.46–4042.5 resistance zone. Conversely, the bearish case weakens if the market shifts toward shorter bearish runs, allows counter-moves to extend beyond the recent average, or reclaims the broken structure at 4105.0. While the developing Deep Crab pattern at 3995.0 introduces potential counter-pressure, it does not invalidate the current downward trend unless price action begins to show sustained structural reversal."
   ],
-  "text": "Gold trades at 4168.0, resting below the middle Bollinger band at 4175.0 while holding above the confirmed swing low at 4158.0. The confirmed swing structure still maintains higher highs and higher lows, yet the immediate sequence is small and hesitant. Recent movement shows a 7-run downswing followed by a modest 1-unit bounce. This pattern captures a market that is losing upside momentum without breaking its broader pattern cleanly. Sellers are pressing downward, but they have not cleared the nearby support zone anchored by the 4158.0 pivot and the developing bullish Bat pattern near 4155.651. At the same time, overhead resistance starts quickly at the 4172.0 to 4173.0 pivot area and extends toward the SAR level at 4193.74256.\n\nA closer look at the 104-brick window highlights how selling pressure has sharpened recently without completely overriding the broader sample. Across the entire historical record, bullish advances averaged 3.47 units compared to 2.65 for bearish declines. In contrast, the most recent 12 runs show average bearish declines stretching to 3.33 while bullish advances hold steady at 3.5. This subtle shift reveals that sellers are pushing deeper into recent moves, reaching a matching peak downside run of 7 units during the latest sequence. Yet counter-moves remain active and stable, preventing the recent selling pressure from turning into an outright trend. The market is experiencing transitional friction where downside persistence is growing, but buyers still intercept declines before support gives way.\n\nEvaluating the trustworthiness of the current downside movement shows a market under transitional pressure instead of clean directional control. Continuation holds a strong score of 75.2, yet re-acceleration sits lower at 20.4 alongside a sharp rise in compression to 28.4. This mix means sellers have enough force to extend downward runs, but the wider environment remains unstable with high opposing wick pressure of 73.2. Buyers continue to contest declines around key supports without establishing a dominant counter-trend. Price is generating downside momentum inside an unsettled background where neither side has secured permanent control. The persistent friction keeps the recent selling pressure from translating into a stable, uninterrupted trend.\n\nImmediate support sits just below price, anchored by the regression level at 4163.93417 and the confirmed swing low at 4158.0, which tightly overlaps with the developing bullish Bat level at 4155.651 and the lower Bollinger band at 4153.0. This confluence creates a dense defense zone where buyers regularly step in to halt downside extensions. On the other side, the first resistance area starts overhead at the 4172.0 to 4173.0 pivot zone, accompanied by the middle Bollinger band at 4175.0. Beyond that immediate test, the larger trend-control barrier extends toward the SAR level at 4193.74256 and the upper Bollinger band at 4197.0. These boundaries frame a market caught between active near-term support and heavy overhead resistance.\n\nContinuation can persist as long as sellers maintain their recent timing advantage, but multiple friction points stand ready to interrupt the decline. High opposing wick pressure sitting at 73.2 shows that buyers continue to absorb downside pressure whenever price approaches key support. At the same time, the broader volatility range remains normal and stable with no new expansion building behind the move. Price has plenty of room to travel inside that envelope, yet contracting volatility behavior serves as a caution instead of proof of an enduring trend. A developing bullish Bat pattern near 4155.651 adds active counter-pressure to the zone without confirming an outright reversal by itself. That harmonic structure simply gives the market a natural source of resistance against deeper downside extensions.\n\nRapid switching, erratic timing, and frequent reversals keep the broader market unresolved while transitional friction dominates the background. That unsettled condition fades only when the market transitions into greater order through a stable range or persistent directional control. The immediate bearish lean becomes more convincing only if instability decreases and sellers develop repeated runs with steadier timing and continued structural progress below the 4158.0 pivot. Conversely, that directional lean grows weaker if buyers reclaim the overhead pivot zone between 4172.0 and 4173.0, extend counter-runs beyond recent averages, or invalidate the supplied bearish evidence. Until one side establishes sustained control through those concrete structural changes, price will continue to oscillate inside its normal volatility envelope.",
+  "text": "Gold is currently locked in a decisive downward expansion, with price pushing to 3995.0. This move is not merely a drift; it is supported by a high-expansion volatility environment where the market is actively riding the lower Bollinger band. Sellers have established clear control, evidenced by the recent 29-unit bearish run that significantly outweighs the average bearish move of 4.73. While a Deep Crab harmonic pattern is developing with a completion point at the current price, it serves as a potential source of counter-pressure instead of a confirmed reversal. With the SAR level sitting overhead at 4020.46 and the regression line well above at 4089.08, the immediate structural path remains heavily tilted toward the downside.\n\nThe market has shifted from a balanced environment into a phase of aggressive directional expansion. Within the 104-brick window, the average bearish run of 4.73 units has been dwarfed by the recent 29-unit decline, signaling a clear escalation in selling pressure. While the broader history shows an equal count of 15 bullish and bearish runs, recent behavior confirms that sellers have seized the initiative. The average bearish run length in the most recent 12-run sample has climbed to 6.83, while bullish counters remain constrained at an average of 2.83. This contrast highlights a market where downside persistence is deepening, and counter-moves are failing to gain meaningful traction, effectively accelerating the dominant bearish pace.\n\nThe current decline is not just forceful; it is exceptionally orderly. With a continuation score of 77.0 and re-acceleration at 98.9, the market is demonstrating a high level of technical efficiency as it pushes lower. This is not a chaotic selloff, but quite a structured expansion where sellers are consistently maintaining the initiative. The low opposing wick pressure—currently at 2.1%—confirms that buyers are failing to mount any meaningful resistance, allowing the move to ride the lower Bollinger band without interruption. While the market is technically in a state of high volatility, the lack of chop and the alignment of the regression line at 4089.08 suggest that the downward path is well-supported by the current structural organization.\n\nThe immediate price map is defined by the current expansion, with the market testing the 3995.0 level where the Deep Crab harmonic pattern is currently developing. Below this, the lower Bollinger band at 3984.84 serves as the primary technical floor for the ongoing move. Overhead, the first resistance area is anchored by the SAR level at 4020.46, which sits just below the middle Bollinger band at 4042.5. A more significant trend-control barrier resides further up at 4089.08, marked by the falling regression line. Price remains firmly below these levels, confirming that sellers maintain control. Any attempt to reclaim the 4020.46–4042.5 zone would be the first sign of the current bearish momentum losing its immediate grip.\n\nThe bearish expansion remains forceful, but its future trajectory depends on whether sellers can maintain this pace without triggering a meaningful response. While the Deep Crab pattern at 3995.0 provides a technical source of counter-pressure, it is not a reversal signal. The market is currently riding the lower Bollinger band, and with opposing wick pressure at a negligible 2.1%, buyers have yet to show any intent to interrupt the decline. The bearish case remains robust as long as the market avoids re-entering the 4020.46–4042.5 resistance zone. Conversely, if sellers shorten their runs or if counter-moves begin to last longer than the recent average, the current directional lean would weaken, signaling that the downward momentum is losing its immediate structural support.\n\nThe broader market remains in a state of directional expansion, moving away from the disorder that previously defined its history. This unresolved background only fully fades if the current orderly, efficient selloff continues to demonstrate persistent control. The bearish lean becomes more convincing as long as sellers maintain their current pace, keep opposing wick pressure at minimal levels, and avoid re-entering the 4020.46–4042.5 resistance zone. Conversely, the bearish case weakens if the market shifts toward shorter bearish runs, allows counter-moves to extend beyond the recent average, or reclaims the broken structure at 4105.0. While the developing Deep Crab pattern at 3995.0 introduces potential counter-pressure, it does not invalidate the current downward trend unless price action begins to show sustained structural reversal.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite",
-  "word_count": 726
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 731
 }

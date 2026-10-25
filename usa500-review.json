@@ -1,71 +1,71 @@
 {
   "instrument": "USA500",
-  "as_of": "2026-10-16T20:00:00.005000+00:00",
-  "source_run": 39082773918,
-  "review_run": 39082773918,
+  "as_of": "2026-10-23T17:08:17.829000+00:00",
+  "source_run": 40140888109,
+  "review_run": 40140888109,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "Sellers drive price lower and breach the latest confirmed low, keeping the downside active despite lingering internal chop.",
+  "status": "OK",
+  "state": "USA500 is currently caught in a period of structural instability, lacking a clear directional mandate.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 31.6,
-      "current": 31.6,
-      "delta": 0.0,
-      "value": "31.6 → 31.6",
-      "change_arrow": "→"
+      "previous": 29.2,
+      "current": 39.7,
+      "delta": 10.5,
+      "value": "29.2 → 39.7",
+      "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 55.9,
-      "current": 57.1,
-      "delta": 1.2,
-      "value": "55.9 → 57.1",
+      "previous": 6.1,
+      "current": 37.4,
+      "delta": 31.3,
+      "value": "6.1 → 37.4",
       "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 57.6,
-      "current": 57.4,
-      "delta": -0.2,
-      "value": "57.6 → 57.4",
-      "change_arrow": "↓"
+      "previous": 12.8,
+      "current": 18.9,
+      "delta": 6.1,
+      "value": "12.8 → 18.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 27.3,
-      "current": 27.3,
-      "delta": 0.0,
-      "value": "27.3 → 27.3",
-      "change_arrow": "→"
+      "previous": 67.1,
+      "current": 54.2,
+      "delta": -12.9,
+      "value": "67.1 → 54.2",
+      "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 48.3,
-      "current": 57.8,
-      "delta": 9.5,
-      "value": "48.3 → 57.8",
-      "change_arrow": "↑"
+      "previous": 75.7,
+      "current": 75.4,
+      "delta": -0.3,
+      "value": "75.7 → 75.4",
+      "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "unstable",
       "delta": null,
-      "value": "mixed",
-      "change_arrow": "→"
+      "value": "unstable",
+      "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "Sellers hold the immediate advantage, pressing price down to 7653.0 and breaching the latest confirmed low at 7673.0. Confirmed swing structure remains aligned downward in a sequence of lower highs and lower lows, showing that the recent decline is extending with real force. Price is riding the lower Bollinger band at 7650.1, and the SAR level sits overhead at 7726.2, maintaining downside pressure. Even so, the move is not developing in a vacuum of clean momentum. Chop and balance measures remain elevated, and counter-moves, while shorter on average, keep interrupting the decline. The market has clear downside extension, but it is operating inside a noisy background instead of a smooth, uninterrupted trend.",
-    "Broader history across the 104-brick window shows a balanced market where bullish and bearish moves share nearly equal footing. Across those 32 total runs, bullish pushes averaged 3.31 units while declines averaged 3.19. Recent behavior departs from that balanced baseline in a sharp way. Over the last 12 runs, bearish downward extensions have stretched to an average of 4.67 units, while counter-moves have contracted down to an average of 3.0 units. Dominant selling pressure is accelerating and expanding in scope, whereas counter-runs are shrinking. That shift explains why the decline has more force now than it did across the wider historical sample even though overall chop and balance measures remain elevated.",
-    "The broader setup remains mixed, but the immediate downside pressure is gaining sharper definition. Re-acceleration reads at 57.1 alongside low opposing wick pressure of 21.3, showing that sellers are meeting little meaningful rejection when they press price lower. At the same time, chop and balance measures sit at 57.8. That elevated background disorder confirms that the decline is not unfolding as a pristine trend. Instead, control is asserting itself through force and longer downside extensions instead of smooth, uninterrupted momentum. The volatility range is contracting slightly, yet price continues to hug the lower Bollinger band at 7650.1. Sellers are imposing direct control over the immediate sequence, but they are doing so within a noisy environment that still refuses to settle.",
-    "Immediate support rests right around the harmonic D completion at 7653.0 and the lower Bollinger band at 7650.1, with the X extension waiting further below at 7615.1. Overhead, the first resistance zone forms between the SAR level at 7726.2 and the middle Bollinger band at 7706.0. Beyond that immediate band, a larger trend barrier sits higher up, anchored by the falling regression line at 7766.1 and the upper Bollinger band at 7761.9. Price sits trapped beneath these overhead obstacles while hugging the lower boundary of its range. Sellers maintain control of the immediate sequence as long as those upper barriers hold, keeping any recovery attempts contained well below the broader trend ceiling.",
-    "Sellers keep pushing price downward because they face very little immediate rejection, with opposing wick pressure sitting low at 21.3. Re-acceleration reads at 57.1, showing that downside extensions maintain active force. Yet the volatility range is contracting slightly while hugging the lower Bollinger band at 7650.1. That narrowing envelope means there is still room for the decline to travel, but fresh volatility is no longer expanding behind the move. At the same time, a developing bullish Bat pattern sits right around current price at 7653.0. This pattern acts as a source of counter-pressure without providing a confirmed reversal by itself. The selloff can continue as long as overhead barriers hold, but the contracting volatility envelope and harmonic presence serve as clear points of caution.",
-    "The broader market remains unresolved because rapid switching, erratic timing, and frequent reversals continue to color the background. That disorderly state will only give way when the market shifts into something more settled, whether through a stable range or persistent directional control. The current bearish lean becomes more convincing if sellers maintain their recent progress through repeated downside extensions, steady timing, and continued structural separation below broken lows. On the other hand, that downside bias weakens if counter-moves grow longer, opposite-side pressure returns in earnest, or buyers manage to reclaim the broken swing structure at 7673.0 and the SAR level at 7726.2. Until one of those concrete shifts materializes, the downward pressure remains active without resolving the wider environment."
+    "USA500 is currently navigating a period of structural instability where price action lacks a clear directional mandate. While the immediate sequence shows a bearish lean with a two-unit run, the broader market remains caught in a reorganization phase. Sellers have not yet secured the dominance needed to define a sustained trend, as evidenced by the high level of opposing wick pressure and the lack of a confirmed break below the recent swing low at 7616.0. The market is effectively oscillating within a contracting volatility range, with price currently sitting below the middle Bollinger band at 7646.5. This setup highlights a market that is shifting control frequently without establishing the necessary stability to escape its current non-directional state.",
+    "The broader history across the 104-brick window shows a market that has historically maintained parity between bullish and bearish runs, with both sides averaging roughly 2.4 moves per sequence. However, recent behavior reveals a distinct shift in character. Over the last 12 runs, the average length of bullish advances has collapsed to 1.33, while bearish runs have retained more relative persistence at 2.17. This divergence highlights a market where selling pressure is becoming more efficient than buying pressure, even as the overall structure remains trapped in a non-directional state. While the recent re-acceleration score has jumped significantly to 37.4, the lack of clean continuation suggests that these bearish attempts are currently struggling to break the broader cycle of reorganization.",
+    "The current directional move is forceful but lacks the stability of a genuine trend. While re-acceleration has jumped to 37.4 and continuation has improved to 39.7, these readings remain too low to suggest a clean breakout. The market is essentially experiencing a sharp, short-term push that is being immediately met with high opposing wick pressure, keeping the structural quality firmly in the unstable category. Control is flipping frequently, and the compression level of 54.2 shows that the market has not yet opened into a sustained directional phase. This creates a environment where price can extend lower, but the lack of follow-through prevents these moves from becoming a reliable trend. The current sequence is a product of high-frequency alternation instead of a shift in underlying market dominance.",
+    "The immediate support zone sits just below current price, anchored by the SAR level at 7621.7 and the harmonic Deep Crab completion target at 7611.0. This area is reinforced by the recent confirmed low pivot at 7616.0, creating a cluster that sellers must clear to gain any meaningful downside traction. Overhead, the first resistance zone is defined by the middle Bollinger band at 7646.5 and the falling regression line at 7664.9. These levels act as the primary barriers to a recovery. Beyond this, the harmonic X-point at 7669.4 serves as a larger trend-control area. Until price can reclaim these overhead levels, the market remains trapped in a non-directional state where bearish attempts are repeatedly stalled by the underlying reorganization.",
+    "The market is currently defined by a tug-of-war between downward momentum and immediate counter-pressure. While the bearish sequence has enough force to keep price probing lower, the extremely high opposing wick pressure—at an index of 88.5—shows that sellers are consistently failing to hold their gains. This creates a situation where the decline can extend, but it lacks the clean execution required for a breakout. The volatility range is broad but contracting, meaning that while there is still room for price to move, fresh expansion is not fueling the current selloff. A developing Deep Crab pattern at 7611.0 provides a source of counter-pressure, though it is not a confirmed reversal. The bearish case improves only if sellers can clear this support cluster with steadier timing and fewer reversals.",
+    "The broader market remains unresolved, trapped in a cycle of rapid switching and erratic timing that prevents any single side from establishing dominance. This state of disorder will only fade if the market shifts toward a more orderly condition, either through a stable range or persistent directional control. The current bearish lean is forceful but fragile; it becomes more convincing only if sellers demonstrate steadier timing, coherent pace, and repeated runs that clear the support cluster at 7611.0-7621.7. Conversely, the bearish lean weakens if the market fails to sustain this pressure, allowing buyers to reclaim the middle Bollinger band at 7646.5 or the falling regression line at 7664.9. Until one side proves it can hold control, the market will likely continue its current pattern of frequent, unstable reversals."
   ],
-  "text": "Sellers hold the immediate advantage, pressing price down to 7653.0 and breaching the latest confirmed low at 7673.0. Confirmed swing structure remains aligned downward in a sequence of lower highs and lower lows, showing that the recent decline is extending with real force. Price is riding the lower Bollinger band at 7650.1, and the SAR level sits overhead at 7726.2, maintaining downside pressure. Even so, the move is not developing in a vacuum of clean momentum. Chop and balance measures remain elevated, and counter-moves, while shorter on average, keep interrupting the decline. The market has clear downside extension, but it is operating inside a noisy background instead of a smooth, uninterrupted trend.\n\nBroader history across the 104-brick window shows a balanced market where bullish and bearish moves share nearly equal footing. Across those 32 total runs, bullish pushes averaged 3.31 units while declines averaged 3.19. Recent behavior departs from that balanced baseline in a sharp way. Over the last 12 runs, bearish downward extensions have stretched to an average of 4.67 units, while counter-moves have contracted down to an average of 3.0 units. Dominant selling pressure is accelerating and expanding in scope, whereas counter-runs are shrinking. That shift explains why the decline has more force now than it did across the wider historical sample even though overall chop and balance measures remain elevated.\n\nThe broader setup remains mixed, but the immediate downside pressure is gaining sharper definition. Re-acceleration reads at 57.1 alongside low opposing wick pressure of 21.3, showing that sellers are meeting little meaningful rejection when they press price lower. At the same time, chop and balance measures sit at 57.8. That elevated background disorder confirms that the decline is not unfolding as a pristine trend. Instead, control is asserting itself through force and longer downside extensions instead of smooth, uninterrupted momentum. The volatility range is contracting slightly, yet price continues to hug the lower Bollinger band at 7650.1. Sellers are imposing direct control over the immediate sequence, but they are doing so within a noisy environment that still refuses to settle.\n\nImmediate support rests right around the harmonic D completion at 7653.0 and the lower Bollinger band at 7650.1, with the X extension waiting further below at 7615.1. Overhead, the first resistance zone forms between the SAR level at 7726.2 and the middle Bollinger band at 7706.0. Beyond that immediate band, a larger trend barrier sits higher up, anchored by the falling regression line at 7766.1 and the upper Bollinger band at 7761.9. Price sits trapped beneath these overhead obstacles while hugging the lower boundary of its range. Sellers maintain control of the immediate sequence as long as those upper barriers hold, keeping any recovery attempts contained well below the broader trend ceiling.\n\nSellers keep pushing price downward because they face very little immediate rejection, with opposing wick pressure sitting low at 21.3. Re-acceleration reads at 57.1, showing that downside extensions maintain active force. Yet the volatility range is contracting slightly while hugging the lower Bollinger band at 7650.1. That narrowing envelope means there is still room for the decline to travel, but fresh volatility is no longer expanding behind the move. At the same time, a developing bullish Bat pattern sits right around current price at 7653.0. This pattern acts as a source of counter-pressure without providing a confirmed reversal by itself. The selloff can continue as long as overhead barriers hold, but the contracting volatility envelope and harmonic presence serve as clear points of caution.\n\nThe broader market remains unresolved because rapid switching, erratic timing, and frequent reversals continue to color the background. That disorderly state will only give way when the market shifts into something more settled, whether through a stable range or persistent directional control. The current bearish lean becomes more convincing if sellers maintain their recent progress through repeated downside extensions, steady timing, and continued structural separation below broken lows. On the other hand, that downside bias weakens if counter-moves grow longer, opposite-side pressure returns in earnest, or buyers manage to reclaim the broken swing structure at 7673.0 and the SAR level at 7726.2. Until one of those concrete shifts materializes, the downward pressure remains active without resolving the wider environment.",
+  "text": "USA500 is currently navigating a period of structural instability where price action lacks a clear directional mandate. While the immediate sequence shows a bearish lean with a two-unit run, the broader market remains caught in a reorganization phase. Sellers have not yet secured the dominance needed to define a sustained trend, as evidenced by the high level of opposing wick pressure and the lack of a confirmed break below the recent swing low at 7616.0. The market is effectively oscillating within a contracting volatility range, with price currently sitting below the middle Bollinger band at 7646.5. This setup highlights a market that is shifting control frequently without establishing the necessary stability to escape its current non-directional state.\n\nThe broader history across the 104-brick window shows a market that has historically maintained parity between bullish and bearish runs, with both sides averaging roughly 2.4 moves per sequence. However, recent behavior reveals a distinct shift in character. Over the last 12 runs, the average length of bullish advances has collapsed to 1.33, while bearish runs have retained more relative persistence at 2.17. This divergence highlights a market where selling pressure is becoming more efficient than buying pressure, even as the overall structure remains trapped in a non-directional state. While the recent re-acceleration score has jumped significantly to 37.4, the lack of clean continuation suggests that these bearish attempts are currently struggling to break the broader cycle of reorganization.\n\nThe current directional move is forceful but lacks the stability of a genuine trend. While re-acceleration has jumped to 37.4 and continuation has improved to 39.7, these readings remain too low to suggest a clean breakout. The market is essentially experiencing a sharp, short-term push that is being immediately met with high opposing wick pressure, keeping the structural quality firmly in the unstable category. Control is flipping frequently, and the compression level of 54.2 shows that the market has not yet opened into a sustained directional phase. This creates a environment where price can extend lower, but the lack of follow-through prevents these moves from becoming a reliable trend. The current sequence is a product of high-frequency alternation instead of a shift in underlying market dominance.\n\nThe immediate support zone sits just below current price, anchored by the SAR level at 7621.7 and the harmonic Deep Crab completion target at 7611.0. This area is reinforced by the recent confirmed low pivot at 7616.0, creating a cluster that sellers must clear to gain any meaningful downside traction. Overhead, the first resistance zone is defined by the middle Bollinger band at 7646.5 and the falling regression line at 7664.9. These levels act as the primary barriers to a recovery. Beyond this, the harmonic X-point at 7669.4 serves as a larger trend-control area. Until price can reclaim these overhead levels, the market remains trapped in a non-directional state where bearish attempts are repeatedly stalled by the underlying reorganization.\n\nThe market is currently defined by a tug-of-war between downward momentum and immediate counter-pressure. While the bearish sequence has enough force to keep price probing lower, the extremely high opposing wick pressure—at an index of 88.5—shows that sellers are consistently failing to hold their gains. This creates a situation where the decline can extend, but it lacks the clean execution required for a breakout. The volatility range is broad but contracting, meaning that while there is still room for price to move, fresh expansion is not fueling the current selloff. A developing Deep Crab pattern at 7611.0 provides a source of counter-pressure, though it is not a confirmed reversal. The bearish case improves only if sellers can clear this support cluster with steadier timing and fewer reversals.\n\nThe broader market remains unresolved, trapped in a cycle of rapid switching and erratic timing that prevents any single side from establishing dominance. This state of disorder will only fade if the market shifts toward a more orderly condition, either through a stable range or persistent directional control. The current bearish lean is forceful but fragile; it becomes more convincing only if sellers demonstrate steadier timing, coherent pace, and repeated runs that clear the support cluster at 7611.0-7621.7. Conversely, the bearish lean weakens if the market fails to sustain this pressure, allowing buyers to reclaim the middle Bollinger band at 7646.5 or the falling regression line at 7664.9. Until one side proves it can hold control, the market will likely continue its current pattern of frequent, unstable reversals.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite",
-  "word_count": 723
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 759
 }

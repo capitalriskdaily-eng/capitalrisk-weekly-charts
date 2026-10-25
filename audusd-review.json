@@ -1,71 +1,71 @@
 {
   "instrument": "AUDUSD",
-  "as_of": "2026-10-16T07:00:19.012000+00:00",
-  "source_run": 39082773918,
-  "review_run": 39082773918,
+  "as_of": "2026-10-22T11:03:07.575000+00:00",
+  "source_run": 40140888109,
+  "review_run": 40140888109,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "Price is attempting a modest rebound above the middle Bollinger band, but confirmed swing structure remains downward and overhead resistance is close.",
+  "state": "AUDUSD is testing upper volatility boundaries while a developing bearish harmonic pattern keeps the immediate advance under pressure.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 73.5,
-      "current": 73.6,
-      "delta": 0.1,
-      "value": "73.5 → 73.6",
+      "previous": 36.2,
+      "current": 37.9,
+      "delta": 1.7,
+      "value": "36.2 → 37.9",
       "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 44.3,
-      "current": 54.1,
-      "delta": 9.8,
-      "value": "44.3 → 54.1",
-      "change_arrow": "↑"
+      "previous": 5.9,
+      "current": 1.8,
+      "delta": -4.1,
+      "value": "5.9 → 1.8",
+      "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 68.8,
-      "current": 68.6,
-      "delta": -0.2,
-      "value": "68.8 → 68.6",
-      "change_arrow": "↓"
+      "previous": 29.1,
+      "current": 31.0,
+      "delta": 1.9,
+      "value": "29.1 → 31.0",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 11.0,
-      "current": 11.0,
-      "delta": 0.0,
-      "value": "11.0 → 11.0",
-      "change_arrow": "→"
+      "previous": 61.6,
+      "current": 86.3,
+      "delta": 24.7,
+      "value": "61.6 → 86.3",
+      "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 42.3,
-      "current": 39.7,
-      "delta": -2.6,
-      "value": "42.3 → 39.7",
-      "change_arrow": "↓"
+      "previous": 45.5,
+      "current": 45.5,
+      "delta": 0.0,
+      "value": "45.5 → 45.5",
+      "change_arrow": "→"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "mixed",
       "delta": null,
-      "value": "unstable",
+      "value": "mixed",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "Price currently trades at 0.6965, holding just above the middle Bollinger band located at 0.69622 while attempting a modest counter-extension. The immediate sequence shows a four-unit bullish push off recent lows, yet the confirmed swing structure remains firmly aligned downward with lower highs and lower lows. A confirmed low pivot sits right overhead at 0.699, backed closely by the SAR level at 0.69739 and a developing Gartley pattern completion marker at 0.69897. These nearby references form an immediate overhead barrier that challenges the sustainability of the current rebound. Meanwhile, low opposing wick pressure indicates that rejection remains muted, but the broader transitional market state keeps the bounce from looking like a clean trend reversal.",
-    "Looking beneath the surface reveals a distinct shift in how the market moves when comparing the full 104-brick window to recent behavior. Across the broader sample, bullish advances average 3.5 units while declines average 2.41, giving buyers a traditional edge in run size. Yet the recent sequence shows selling pressure turning sharper and more persistent during downside legs, highlighted by an average bearish run of 3.5 against a longer-term baseline. At the same time, counter-moves are contracting and their pace is decelerating, showing that recent rallies lack the staying power of earlier advances. Even though continuation scores remain elevated at 73.6, the internal re-acceleration metric has climbed 9.8 points to reach 54.1, proving that recent moves are growing more forceful without establishing a cleaner underlying trend.",
-    "The rebound unfolding above the middle band lacks the structural footing required for a lasting reversal. Balance and chop readings sit contained at 39.7 while compression stays exceptionally low at 11.0, showing that price is moving without the backing of a stable base or a tightening range that typically allows new trends to take root. Instead, the market is caught in a transitional state with transition pressure lingering high at 68.6. This background prevents the current buying push from developing genuine authority. Control remains fractured because buyers can muster short-term extensions but cannot alter the wider downward swing sequence. The action stays forceful yet fundamentally unsettled within its broader disorder.",
-    "The immediate support zone rests at 0.69622 where the middle Bollinger band sits right beneath price, providing the foundation for the current bounce. Directly above, the first resistance area clusters tightly between 0.69739 and 0.69897, encompassing the SAR level alongside a developing Gartley pattern completion marker and a confirmed low pivot sitting at 0.699. This dense overhead cluster creates immediate friction for the bounce without requiring price to clear every isolated metric simultaneously. Further up, a broader trend-control barrier waits around 0.701 to 0.70196, anchored by a confirmed high pivot and the upper Bollinger band. Beyond that, the falling regression line at 0.70984 marks the far ceiling for the wider market.",
-    "The broader volatility range remains broad while contracting, which means price still has room to move inside the existing envelope even though fresh volatility is no longer building behind the decline. That contraction serves as a caution instead of confirmation that the trend will keep extending cleanly. At the same time, the developing Gartley pattern near 0.69897 acts as a source of counter-pressure. It introduces resistance and challenges the bounce, but it is not a confirmed reversal by itself. Low opposing wick pressure shows that genuine rejection remains muted overhead. The bounce can continue as long as that quiet persists, but any shift toward stronger counter-moves or active rejection would quickly challenge the durability of the current advance.",
-    "Rapid switching, erratic timing, frequent reversals, and widespread disorder continue to keep the broader market unresolved. That unsettled condition fades only when the underlying environment settles into an orderly state, either through a stable range or through persistent directional control. Meanwhile, the current bearish lean becomes more convincing only if instability decreases and sellers establish repeated runs with steadier timing and continued structural progress. The bearish bias loses traction if the opposing side gains persistent control, reclaims broken structure, or invalidates the supplied directional evidence. Until one of those conditions takes hold, price action remains caught between temporary recovery attempts and the heavier downward swing structure overhead."
+    "AUDUSD is currently testing the upper boundary of its volatility range, with price at 0.7035 sitting just beneath the 0.70487 Bollinger upper band. While the immediate direction is bullish, the market remains caught in a compressed state where directional conviction is low. A developing bearish Gartley pattern, with its D-point at 0.70362, provides a source of overhead resistance that is currently capping the advance. Although the SAR level at 0.69417 remains below price to support the current bullish bias, the broader swing structure shows a series of lower highs and lower lows. This creates a tension between the immediate upward momentum and the underlying structural weakness, keeping the market in a state of unresolved, mixed quality.",
+    "The market has shifted toward a more volatile state, even if the underlying direction remains elusive. Across the 104-brick window, bullish and bearish runs were evenly matched at 16 apiece, but recent behavior shows a distinct change in character. In the last 12 runs, the average bearish run has stretched to 3.83, surpassing the 3.67 average for bullish runs. This marks a departure from the broader history, where bullish runs averaged 3.62 against 2.88 for bearish moves. While the overall pace remains stable, the recent increase in bearish run length suggests that selling pressure is gaining ground. The market is not yet trending, but the recent sequence reveals that the previous bullish dominance is being tested by more persistent counter-moves.",
+    "The current market movement is forceful but lacks the stability of a genuine trend. While price is riding the upper Bollinger band at 0.70487, the underlying control remains fragmented. Compression has spiked to 86.3, indicating that the market is tightening instead of breaking out into a sustained directional move. Re-acceleration has dropped to 1.8, showing that the momentum behind the latest advance is fading quickly. This creates a situation where the market is moving higher but struggling to maintain its footing. The high opposing wick pressure confirms that sellers are active at these levels, preventing the move from gaining conviction. Ultimately, the market is producing a shallow, controlled pullback within a broader, unresolved structure, instead of a clean, stable breakout.",
+    "The market faces a dense cluster of overhead resistance starting at 0.70362, defined by the Gartley D-point, and extending through the 0.70487 Bollinger upper band. This zone acts as the immediate ceiling for the current advance. Beyond this, the falling regression line at 0.70654 and the 0.70881 harmonic X-point form a larger barrier that marks the limit of current upside control. To the downside, the first area of support sits near the 0.7005 confirmed high pivot and the 0.69735 middle Bollinger band. The SAR level at 0.69417 provides a final layer of support beneath that. While price is currently testing the upper boundary, the overlapping resistance levels create a difficult environment for a clean breakout.",
+    "The current advance remains trapped beneath a dense ceiling of resistance, with the Gartley pattern at 0.70362 and the Bollinger upper band at 0.70487 acting as the primary constraints. While the market is riding the upper band, the high opposing wick pressure confirms that buyers are meeting consistent rejection at these levels. The volatility range is broad, but the recent spike in compression to 86.3 suggests that the market is tightening instead of expanding into a clean trend. This contraction is a caution, indicating that fresh volatility is no longer fueling the move. The bearish Gartley pattern provides meaningful counter-pressure, but it is not a confirmed reversal. The bullish bias persists only as long as price avoids a structural breakdown through the middle Bollinger band at 0.69735.",
+    "The broader market remains unresolved, characterized by erratic timing and frequent reversals that keep directional conviction low. This state of disorder only fades when the market achieves either a stable range or persistent, one-sided control. For the current bullish lean, the case becomes more convincing if the market decreases its internal instability and begins to produce steadier timing with repeated, coherent runs. Conversely, the bullish case weakens if sellers gain persistent control, reclaim the middle Bollinger band at 0.69735, or invalidate the SAR support at 0.69417. Until the market moves away from its current compressed state and establishes a clear structural path, the recent sequence of mixed quality will continue to dominate the broader outlook."
   ],
-  "text": "Price currently trades at 0.6965, holding just above the middle Bollinger band located at 0.69622 while attempting a modest counter-extension. The immediate sequence shows a four-unit bullish push off recent lows, yet the confirmed swing structure remains firmly aligned downward with lower highs and lower lows. A confirmed low pivot sits right overhead at 0.699, backed closely by the SAR level at 0.69739 and a developing Gartley pattern completion marker at 0.69897. These nearby references form an immediate overhead barrier that challenges the sustainability of the current rebound. Meanwhile, low opposing wick pressure indicates that rejection remains muted, but the broader transitional market state keeps the bounce from looking like a clean trend reversal.\n\nLooking beneath the surface reveals a distinct shift in how the market moves when comparing the full 104-brick window to recent behavior. Across the broader sample, bullish advances average 3.5 units while declines average 2.41, giving buyers a traditional edge in run size. Yet the recent sequence shows selling pressure turning sharper and more persistent during downside legs, highlighted by an average bearish run of 3.5 against a longer-term baseline. At the same time, counter-moves are contracting and their pace is decelerating, showing that recent rallies lack the staying power of earlier advances. Even though continuation scores remain elevated at 73.6, the internal re-acceleration metric has climbed 9.8 points to reach 54.1, proving that recent moves are growing more forceful without establishing a cleaner underlying trend.\n\nThe rebound unfolding above the middle band lacks the structural footing required for a lasting reversal. Balance and chop readings sit contained at 39.7 while compression stays exceptionally low at 11.0, showing that price is moving without the backing of a stable base or a tightening range that typically allows new trends to take root. Instead, the market is caught in a transitional state with transition pressure lingering high at 68.6. This background prevents the current buying push from developing genuine authority. Control remains fractured because buyers can muster short-term extensions but cannot alter the wider downward swing sequence. The action stays forceful yet fundamentally unsettled within its broader disorder.\n\nThe immediate support zone rests at 0.69622 where the middle Bollinger band sits right beneath price, providing the foundation for the current bounce. Directly above, the first resistance area clusters tightly between 0.69739 and 0.69897, encompassing the SAR level alongside a developing Gartley pattern completion marker and a confirmed low pivot sitting at 0.699. This dense overhead cluster creates immediate friction for the bounce without requiring price to clear every isolated metric simultaneously. Further up, a broader trend-control barrier waits around 0.701 to 0.70196, anchored by a confirmed high pivot and the upper Bollinger band. Beyond that, the falling regression line at 0.70984 marks the far ceiling for the wider market.\n\nThe broader volatility range remains broad while contracting, which means price still has room to move inside the existing envelope even though fresh volatility is no longer building behind the decline. That contraction serves as a caution instead of confirmation that the trend will keep extending cleanly. At the same time, the developing Gartley pattern near 0.69897 acts as a source of counter-pressure. It introduces resistance and challenges the bounce, but it is not a confirmed reversal by itself. Low opposing wick pressure shows that genuine rejection remains muted overhead. The bounce can continue as long as that quiet persists, but any shift toward stronger counter-moves or active rejection would quickly challenge the durability of the current advance.\n\nRapid switching, erratic timing, frequent reversals, and widespread disorder continue to keep the broader market unresolved. That unsettled condition fades only when the underlying environment settles into an orderly state, either through a stable range or through persistent directional control. Meanwhile, the current bearish lean becomes more convincing only if instability decreases and sellers establish repeated runs with steadier timing and continued structural progress. The bearish bias loses traction if the opposing side gains persistent control, reclaims broken structure, or invalidates the supplied directional evidence. Until one of those conditions takes hold, price action remains caught between temporary recovery attempts and the heavier downward swing structure overhead.",
+  "text": "AUDUSD is currently testing the upper boundary of its volatility range, with price at 0.7035 sitting just beneath the 0.70487 Bollinger upper band. While the immediate direction is bullish, the market remains caught in a compressed state where directional conviction is low. A developing bearish Gartley pattern, with its D-point at 0.70362, provides a source of overhead resistance that is currently capping the advance. Although the SAR level at 0.69417 remains below price to support the current bullish bias, the broader swing structure shows a series of lower highs and lower lows. This creates a tension between the immediate upward momentum and the underlying structural weakness, keeping the market in a state of unresolved, mixed quality.\n\nThe market has shifted toward a more volatile state, even if the underlying direction remains elusive. Across the 104-brick window, bullish and bearish runs were evenly matched at 16 apiece, but recent behavior shows a distinct change in character. In the last 12 runs, the average bearish run has stretched to 3.83, surpassing the 3.67 average for bullish runs. This marks a departure from the broader history, where bullish runs averaged 3.62 against 2.88 for bearish moves. While the overall pace remains stable, the recent increase in bearish run length suggests that selling pressure is gaining ground. The market is not yet trending, but the recent sequence reveals that the previous bullish dominance is being tested by more persistent counter-moves.\n\nThe current market movement is forceful but lacks the stability of a genuine trend. While price is riding the upper Bollinger band at 0.70487, the underlying control remains fragmented. Compression has spiked to 86.3, indicating that the market is tightening instead of breaking out into a sustained directional move. Re-acceleration has dropped to 1.8, showing that the momentum behind the latest advance is fading quickly. This creates a situation where the market is moving higher but struggling to maintain its footing. The high opposing wick pressure confirms that sellers are active at these levels, preventing the move from gaining conviction. Ultimately, the market is producing a shallow, controlled pullback within a broader, unresolved structure, instead of a clean, stable breakout.\n\nThe market faces a dense cluster of overhead resistance starting at 0.70362, defined by the Gartley D-point, and extending through the 0.70487 Bollinger upper band. This zone acts as the immediate ceiling for the current advance. Beyond this, the falling regression line at 0.70654 and the 0.70881 harmonic X-point form a larger barrier that marks the limit of current upside control. To the downside, the first area of support sits near the 0.7005 confirmed high pivot and the 0.69735 middle Bollinger band. The SAR level at 0.69417 provides a final layer of support beneath that. While price is currently testing the upper boundary, the overlapping resistance levels create a difficult environment for a clean breakout.\n\nThe current advance remains trapped beneath a dense ceiling of resistance, with the Gartley pattern at 0.70362 and the Bollinger upper band at 0.70487 acting as the primary constraints. While the market is riding the upper band, the high opposing wick pressure confirms that buyers are meeting consistent rejection at these levels. The volatility range is broad, but the recent spike in compression to 86.3 suggests that the market is tightening instead of expanding into a clean trend. This contraction is a caution, indicating that fresh volatility is no longer fueling the move. The bearish Gartley pattern provides meaningful counter-pressure, but it is not a confirmed reversal. The bullish bias persists only as long as price avoids a structural breakdown through the middle Bollinger band at 0.69735.\n\nThe broader market remains unresolved, characterized by erratic timing and frequent reversals that keep directional conviction low. This state of disorder only fades when the market achieves either a stable range or persistent, one-sided control. For the current bullish lean, the case becomes more convincing if the market decreases its internal instability and begins to produce steadier timing with repeated, coherent runs. Conversely, the bullish case weakens if sellers gain persistent control, reclaim the middle Bollinger band at 0.69735, or invalidate the SAR support at 0.69417. Until the market moves away from its current compressed state and establishes a clear structural path, the recent sequence of mixed quality will continue to dominate the broader outlook.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite",
-  "word_count": 708
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 737
 }
