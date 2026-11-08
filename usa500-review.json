@@ -1,50 +1,50 @@
 {
   "instrument": "USA500",
-  "as_of": "2026-11-04T10:26:21.713000+00:00",
-  "source_run": 41824172872,
-  "review_run": 41824172872,
+  "as_of": "2026-11-06T21:00:00.182000+00:00",
+  "source_run": 42448650192,
+  "review_run": 42448650192,
   "review_version": "writer-v6-market-state",
-  "status": "UNRESOLVED",
-  "state": "The market is testing a bearish harmonic completion point while struggling to maintain structural stability.",
+  "status": "OK",
+  "state": "The market is in a transitional, unstable state with no clear dominant direction.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 31.9,
-      "current": 29.4,
-      "delta": -2.5,
-      "value": "31.9 → 29.4",
+      "previous": 53.3,
+      "current": 53.2,
+      "delta": -0.1,
+      "value": "53.3 → 53.2",
       "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 13.9,
-      "current": 40.3,
-      "delta": 26.4,
-      "value": "13.9 → 40.3",
-      "change_arrow": "↑"
-    },
-    {
-      "label": "Transition pressure",
-      "previous": 74.2,
-      "current": 73.1,
-      "delta": -1.1,
-      "value": "74.2 → 73.1",
+      "previous": 32.1,
+      "current": 31.5,
+      "delta": -0.6,
+      "value": "32.1 → 31.5",
       "change_arrow": "↓"
     },
     {
-      "label": "Compression",
-      "previous": 11.0,
-      "current": 11.0,
+      "label": "Transition pressure",
+      "previous": 100.0,
+      "current": 100.0,
       "delta": 0.0,
-      "value": "11.0 → 11.0",
+      "value": "100.0 → 100.0",
+      "change_arrow": "→"
+    },
+    {
+      "label": "Compression",
+      "previous": 62.5,
+      "current": 62.5,
+      "delta": 0.0,
+      "value": "62.5 → 62.5",
       "change_arrow": "→"
     },
     {
       "label": "Balance / chop",
-      "previous": 54.5,
-      "current": 56.2,
-      "delta": 1.7,
-      "value": "54.5 → 56.2",
+      "previous": 23.2,
+      "current": 25.1,
+      "delta": 1.9,
+      "value": "23.2 → 25.1",
       "change_arrow": "↑"
     },
     {
@@ -53,19 +53,19 @@
       "current": "unstable",
       "delta": null,
       "value": "unstable",
-      "change_arrow": "↑"
+      "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "USA500 is currently testing the 7655.0 level, which marks the completion point of a developing bearish Bat pattern. While the immediate sequence shows a sharp 18-unit bullish extension, the broader market structure remains unstable and trapped in a transitional state. The recent price action has reclaimed the latest confirmed high at 7605.0, but this move lacks the underlying stability of a clean trend. With re-acceleration scores rising to 40.3 and counter-pace accelerating, the market is experiencing significant tug-of-war pressure. The current volatility range is very expanded, and price is riding the upper Bollinger band at 7675.32563, yet the overall structural quality remains poor. This creates a market where impulsive moves are frequent but struggle to sustain momentum against the prevailing disorder.",
-    "The market has shifted from a balanced historical state into a period of heightened volatility and erratic directional swings. Within the 104-brick window, the average bullish and bearish runs were relatively contained at 3.43 and 4.0 units, respectively. However, the most recent 12 runs reveal a sharp departure from this history, with the average run length expanding to 4.83 units. This increase in run size is accompanied by a notable rise in re-acceleration, which has jumped to 40.3. While the broader sample shows an equal distribution of 14 bullish and 14 bearish runs, recent behavior shows that both sides are now capable of more forceful, albeit less stable, extensions. The current market is moving with greater intensity, yet it lacks the persistence required to establish a clear, lasting trend.",
-    "The current market movement is forceful but lacks the structural integrity of a sustained trend. While price is actively testing the 7655.0 harmonic level, the underlying quality remains unstable. This is not a market where one side has established clear, reliable control; instead, the sharp rise in re-acceleration to 40.3 shows that the recent bullish extension is meeting significant friction. The market is caught in a tug-of-war where impulsive runs are frequently countered, leaving the broader structure in a transitional state. With chop scores elevated at 56.2 and price riding the upper Bollinger band, the current advance is more a product of high-volatility disorder than a clean, directional shift. The move is sharp, but it is not yet stable.",
-    "The market currently sits at 7655.0, a level defined by the completion of a bearish Bat pattern. Immediate resistance rests just above at 7656.0-7675.33, a zone combining a recent confirmed high with the upper Bollinger band. This area serves as the primary hurdle for any further upside extension. Below, the first support zone is anchored by the SAR level at 7600.16, which sits just beneath the 7605.0 confirmed high. A more substantial barrier lies further down at 7529.09-7560.0, where the falling regression line meets the middle Bollinger band. This deeper zone represents the larger trend-control area; while price remains above it, the current bullish volatility can persist, but a sustained break below would signal a shift toward the broader downward structure.",
-    "The current bullish extension is testing the 7655.0 harmonic Bat completion point, but this advance faces immediate resistance from the upper Bollinger band at 7675.33. While price is riding this upper boundary, the volatility range remains very expanded, suggesting that while there is room for further movement, the intensity behind the move is not necessarily building. The low opposing wick pressure indicates that sellers have yet to mount a meaningful defense, but the developing harmonic pattern acts as a source of counter-pressure that could stall the advance. The bearish case would gain traction if the market fails to clear the 7656.0-7675.33 zone and instead shifts back toward the 7600.16 SAR level. Until the market establishes a more stable directional pace, this harmonic conflict will likely keep the upside movement contained.",
-    "The broader market remains unresolved, characterized by rapid switching, erratic timing, and frequent reversals that keep structural quality unstable. This disorder only fades if the market settles into a consistent range or establishes a persistent directional path. The current bullish lean becomes more convincing only if instability decreases and the market develops repeated runs with steadier timing and coherent structural progress. Conversely, this bullish lean weakens if the opposite side gains persistent control, reclaims the 7600.16 SAR level, or invalidates the current harmonic evidence. While the market is currently experiencing high-volatility expansion, this state does not replace the wider disorder until one side demonstrates the persistence required to break the current cycle of frequent, sharp counter-moves."
+    "Price is currently testing 7385.0, a level defined by the completion of a developing bearish Bat pattern. While the immediate sequence shows a bullish run of 7 units, the broader market remains in a transitional, unstable state where neither side holds a clear dominant advantage. The recent swing structure is reorganizing, and while price sits above the middle Bollinger band at 7348.0 and the SAR level at 7320.49762, the downward-sloping regression line at 7356.21902 continues to act as a barrier. The market is seeing expanding volatility, yet the lack of a confirmed breakout means this recent advance is not yet a trend. Sellers remain present in the broader picture, but the current price action is currently caught in a period of indecision.",
+    "The broader 104-brick window shows a market historically dominated by bearish pressure, with 68 bearish moves compared to only 36 bullish ones. However, recent behavior reveals a meaningful shift in this dynamic. Over the last 12 runs, the frequency of bullish and bearish moves has reached parity, with 6 runs for each side. While the average bearish run length in the full sample is 5.23, the recent average has compressed to 3.0, indicating that selling pressure is losing its historical persistence. Conversely, bullish counters have become more competitive, matching the longest bearish run of 7 units. This transition toward a more balanced, albeit unstable, state suggests that the once-dominant downward force is currently struggling to maintain its previous structural advantage.",
+    "The current market move is forceful instead of stable, reflecting a state of high transition pressure and persistent disorder. While the recent 7-unit bullish run shows the market is capable of sharp counter-moves, the internal evidence—specifically the elevated compression score of 62.5 and rising chop—indicates that this activity is occurring within a wider, unresolved range. Continuation and re-acceleration scores remain muted, confirming that the move lacks the structural consistency required for a clean trend. Price is currently testing the 7385.0 level, but with transition pressure at its maximum and structural quality remaining unstable, this advance is better viewed as a volatile swing inside a broader, fragmented background than as a shift toward a new, sustained direction.",
+    "The market currently navigates a tight structural corridor defined by the 7385.0 harmonic Bat completion and the overhead Bollinger upper band at 7398.63596. This zone acts as the immediate resistance area, where price must clear the recent pivot at 7425.0 to signal a potential shift in momentum. Below current price, a support zone forms between the downward-sloping regression line at 7356.21902 and the middle Bollinger band at 7348.0. A deeper, more significant floor exists at the 7305.0-7320.49762 area, which encompasses the SAR level and the most recent confirmed low. While these levels provide clear reference points for control, the broader trend remains constrained by the regression slope, keeping the larger barrier overhead until price can sustain movement above the 7465.0 swing area.",
+    "The market is currently testing the 7385.0 harmonic Bat completion, which acts as a focal point for counter-pressure against the recent bullish sequence. While volatility is expanding, the Bollinger band width remains in a normal state, suggesting that while price has room to move, the underlying volatility is not yet accelerating into a breakout. Moderate wick rejection shows that buyers are meeting resistance, but this harmonic pattern is a source of potential interruption instead of a confirmed reversal. The bearish case would gain traction if price fails to sustain its position above the 7356.21902 regression line and the 7348.0 middle Bollinger band. Conversely, a clean push through the 7398.63596 upper band would signal that the current advance has enough force to challenge the broader overhead barriers.",
+    "The broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents either side from establishing a lasting advantage. This disorder will only fade if the market settles into a stable range or develops persistent directional control. The current bearish lean—rooted in the long-term historical dominance of sellers—becomes more convincing only if the market sheds its instability and produces repeated, steady runs with coherent pace. Conversely, the bearish case weakens if the market reclaims the 7425.0 swing high or if bullish counters begin to last longer than the recent 7-unit run. Until the market demonstrates such structural progress or a clear failure of the current harmonic pattern, the prevailing state of fragmented, transitional movement will persist."
   ],
-  "text": "USA500 is currently testing the 7655.0 level, which marks the completion point of a developing bearish Bat pattern. While the immediate sequence shows a sharp 18-unit bullish extension, the broader market structure remains unstable and trapped in a transitional state. The recent price action has reclaimed the latest confirmed high at 7605.0, but this move lacks the underlying stability of a clean trend. With re-acceleration scores rising to 40.3 and counter-pace accelerating, the market is experiencing significant tug-of-war pressure. The current volatility range is very expanded, and price is riding the upper Bollinger band at 7675.32563, yet the overall structural quality remains poor. This creates a market where impulsive moves are frequent but struggle to sustain momentum against the prevailing disorder.\n\nThe market has shifted from a balanced historical state into a period of heightened volatility and erratic directional swings. Within the 104-brick window, the average bullish and bearish runs were relatively contained at 3.43 and 4.0 units, respectively. However, the most recent 12 runs reveal a sharp departure from this history, with the average run length expanding to 4.83 units. This increase in run size is accompanied by a notable rise in re-acceleration, which has jumped to 40.3. While the broader sample shows an equal distribution of 14 bullish and 14 bearish runs, recent behavior shows that both sides are now capable of more forceful, albeit less stable, extensions. The current market is moving with greater intensity, yet it lacks the persistence required to establish a clear, lasting trend.\n\nThe current market movement is forceful but lacks the structural integrity of a sustained trend. While price is actively testing the 7655.0 harmonic level, the underlying quality remains unstable. This is not a market where one side has established clear, reliable control; instead, the sharp rise in re-acceleration to 40.3 shows that the recent bullish extension is meeting significant friction. The market is caught in a tug-of-war where impulsive runs are frequently countered, leaving the broader structure in a transitional state. With chop scores elevated at 56.2 and price riding the upper Bollinger band, the current advance is more a product of high-volatility disorder than a clean, directional shift. The move is sharp, but it is not yet stable.\n\nThe market currently sits at 7655.0, a level defined by the completion of a bearish Bat pattern. Immediate resistance rests just above at 7656.0-7675.33, a zone combining a recent confirmed high with the upper Bollinger band. This area serves as the primary hurdle for any further upside extension. Below, the first support zone is anchored by the SAR level at 7600.16, which sits just beneath the 7605.0 confirmed high. A more substantial barrier lies further down at 7529.09-7560.0, where the falling regression line meets the middle Bollinger band. This deeper zone represents the larger trend-control area; while price remains above it, the current bullish volatility can persist, but a sustained break below would signal a shift toward the broader downward structure.\n\nThe current bullish extension is testing the 7655.0 harmonic Bat completion point, but this advance faces immediate resistance from the upper Bollinger band at 7675.33. While price is riding this upper boundary, the volatility range remains very expanded, suggesting that while there is room for further movement, the intensity behind the move is not necessarily building. The low opposing wick pressure indicates that sellers have yet to mount a meaningful defense, but the developing harmonic pattern acts as a source of counter-pressure that could stall the advance. The bearish case would gain traction if the market fails to clear the 7656.0-7675.33 zone and instead shifts back toward the 7600.16 SAR level. Until the market establishes a more stable directional pace, this harmonic conflict will likely keep the upside movement contained.\n\nThe broader market remains unresolved, characterized by rapid switching, erratic timing, and frequent reversals that keep structural quality unstable. This disorder only fades if the market settles into a consistent range or establishes a persistent directional path. The current bullish lean becomes more convincing only if instability decreases and the market develops repeated runs with steadier timing and coherent structural progress. Conversely, this bullish lean weakens if the opposite side gains persistent control, reclaims the 7600.16 SAR level, or invalidates the current harmonic evidence. While the market is currently experiencing high-volatility expansion, this state does not replace the wider disorder until one side demonstrates the persistence required to break the current cycle of frequent, sharp counter-moves.",
+  "text": "Price is currently testing 7385.0, a level defined by the completion of a developing bearish Bat pattern. While the immediate sequence shows a bullish run of 7 units, the broader market remains in a transitional, unstable state where neither side holds a clear dominant advantage. The recent swing structure is reorganizing, and while price sits above the middle Bollinger band at 7348.0 and the SAR level at 7320.49762, the downward-sloping regression line at 7356.21902 continues to act as a barrier. The market is seeing expanding volatility, yet the lack of a confirmed breakout means this recent advance is not yet a trend. Sellers remain present in the broader picture, but the current price action is currently caught in a period of indecision.\n\nThe broader 104-brick window shows a market historically dominated by bearish pressure, with 68 bearish moves compared to only 36 bullish ones. However, recent behavior reveals a meaningful shift in this dynamic. Over the last 12 runs, the frequency of bullish and bearish moves has reached parity, with 6 runs for each side. While the average bearish run length in the full sample is 5.23, the recent average has compressed to 3.0, indicating that selling pressure is losing its historical persistence. Conversely, bullish counters have become more competitive, matching the longest bearish run of 7 units. This transition toward a more balanced, albeit unstable, state suggests that the once-dominant downward force is currently struggling to maintain its previous structural advantage.\n\nThe current market move is forceful instead of stable, reflecting a state of high transition pressure and persistent disorder. While the recent 7-unit bullish run shows the market is capable of sharp counter-moves, the internal evidence—specifically the elevated compression score of 62.5 and rising chop—indicates that this activity is occurring within a wider, unresolved range. Continuation and re-acceleration scores remain muted, confirming that the move lacks the structural consistency required for a clean trend. Price is currently testing the 7385.0 level, but with transition pressure at its maximum and structural quality remaining unstable, this advance is better viewed as a volatile swing inside a broader, fragmented background than as a shift toward a new, sustained direction.\n\nThe market currently navigates a tight structural corridor defined by the 7385.0 harmonic Bat completion and the overhead Bollinger upper band at 7398.63596. This zone acts as the immediate resistance area, where price must clear the recent pivot at 7425.0 to signal a potential shift in momentum. Below current price, a support zone forms between the downward-sloping regression line at 7356.21902 and the middle Bollinger band at 7348.0. A deeper, more significant floor exists at the 7305.0-7320.49762 area, which encompasses the SAR level and the most recent confirmed low. While these levels provide clear reference points for control, the broader trend remains constrained by the regression slope, keeping the larger barrier overhead until price can sustain movement above the 7465.0 swing area.\n\nThe market is currently testing the 7385.0 harmonic Bat completion, which acts as a focal point for counter-pressure against the recent bullish sequence. While volatility is expanding, the Bollinger band width remains in a normal state, suggesting that while price has room to move, the underlying volatility is not yet accelerating into a breakout. Moderate wick rejection shows that buyers are meeting resistance, but this harmonic pattern is a source of potential interruption instead of a confirmed reversal. The bearish case would gain traction if price fails to sustain its position above the 7356.21902 regression line and the 7348.0 middle Bollinger band. Conversely, a clean push through the 7398.63596 upper band would signal that the current advance has enough force to challenge the broader overhead barriers.\n\nThe broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents either side from establishing a lasting advantage. This disorder will only fade if the market settles into a stable range or develops persistent directional control. The current bearish lean—rooted in the long-term historical dominance of sellers—becomes more convincing only if the market sheds its instability and produces repeated, steady runs with coherent pace. Conversely, the bearish case weakens if the market reclaims the 7425.0 swing high or if bullish counters begin to last longer than the recent 7-unit run. Until the market demonstrates such structural progress or a clear failure of the current harmonic pattern, the prevailing state of fragmented, transitional movement will persist.",
   "writer_source": "ai",
   "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 760
+  "word_count": 752
 }

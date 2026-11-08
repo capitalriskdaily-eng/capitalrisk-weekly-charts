@@ -1,71 +1,71 @@
 {
   "instrument": "XAUUSD",
-  "as_of": "2026-11-04T09:09:29.531000+00:00",
-  "source_run": 41254798903,
-  "review_run": 41824172872,
+  "as_of": "2026-11-06T18:53:07.491000+00:00",
+  "source_run": 42448650192,
+  "review_run": 42448650192,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "XAUUSD is pushing higher with expanding volatility, though the broader structural quality remains mixed.",
+  "state": "Gold remains in a neutral, orderly state of reorganization, lacking the conviction to break from its recent range.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 35.8,
-      "current": 40.1,
-      "delta": 4.3,
-      "value": "35.8 → 40.1",
+      "previous": 60.0,
+      "current": 62.3,
+      "delta": 2.3,
+      "value": "60.0 → 62.3",
       "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 58.0,
-      "current": 66.7,
-      "delta": 8.7,
-      "value": "58.0 → 66.7",
-      "change_arrow": "↑"
+      "previous": 24.8,
+      "current": 19.0,
+      "delta": -5.8,
+      "value": "24.8 → 19.0",
+      "change_arrow": "↓"
     },
     {
       "label": "Transition pressure",
-      "previous": 16.9,
-      "current": 14.8,
-      "delta": -2.1,
-      "value": "16.9 → 14.8",
+      "previous": 54.7,
+      "current": 29.0,
+      "delta": -25.7,
+      "value": "54.7 → 29.0",
       "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 32.5,
-      "current": 13.9,
-      "delta": -18.6,
-      "value": "32.5 → 13.9",
-      "change_arrow": "↓"
+      "previous": 11.0,
+      "current": 28.8,
+      "delta": 17.8,
+      "value": "11.0 → 28.8",
+      "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 57.1,
-      "current": 43.7,
-      "delta": -13.4,
-      "value": "57.1 → 43.7",
-      "change_arrow": "↓"
+      "previous": 51.7,
+      "current": 52.4,
+      "delta": 0.7,
+      "value": "51.7 → 52.4",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "orderly",
       "delta": null,
-      "value": "mixed",
+      "value": "orderly",
       "change_arrow": "↑"
     }
   ],
   "paragraphs": [
-    "XAUUSD is currently pushing higher, with price resting at 4049.0. This move is supported by an expanding volatility range and a clear alignment with the SAR level at 4028.37834, which sits well below current price. While the broader market condition remains mixed, the recent sequence shows a distinct bullish tilt, characterized by accelerating re-acceleration scores and a rise in continuation pressure. The market is effectively riding the upper Bollinger band, indicating that the immediate force is directed upward. Although a developing Deep Crab pattern suggests potential overhead resistance, the current price action has not yet met significant rejection, as evidenced by low opposing wick pressure. The market is currently in a state of expansion, though it has yet to establish a clean, sustained trend structure.",
-    "The market has shifted from a balanced state to one of distinct bullish expansion. Across the 104-brick window, the average bullish run of 3.75 moves is now being significantly outpaced by recent behavior, where bullish runs have reached an average of 5.5 moves. This increase in persistence is mirrored by a contraction in bearish run length, which has dropped from a historical average of 2.75 moves to just 1.83 in the most recent sequence. While the broader history shows an equal number of bullish and bearish runs, the recent 12-run sample reveals that buyers are now exerting more control, with 33 bullish moves compared to only 11 bearish ones. This change in internal pressure shows that the market is moving away from its previous chop toward a more forceful, directional advance.",
-    "The current bullish move is forceful, yet it lacks the structural maturity of a clean, established trend. While re-acceleration has climbed to 66.7 and continuation pressure has risen to 40.1, the market is still operating within a mixed structural quality. This indicates that buyers are successfully pushing price higher, but they have not yet fully escaped the broader disorder that characterized recent sessions. Compression has dropped significantly to 13.9, suggesting that the market is finally opening up, yet the presence of a developing Deep Crab pattern creates a layer of potential overhead friction. Buyers currently hold the advantage, but the stability of this control remains dependent on their ability to maintain the current pace without triggering a return to the previous chop.",
-    "The immediate support zone for XAUUSD sits between 4028.0 and 4038.0, anchored by the SAR level at 4028.38 and recent confirmed pivot activity. This area provides a necessary cushion for the current bullish expansion, as price remains well above the middle Bollinger band at 4012.75 and the upward-sloping regression line at 3982.97. Overhead, the first resistance area is narrow, defined by the upper Bollinger band at 4052.98 and the immediate price ceiling near 4058.0. Beyond this, the market faces a larger trend-control barrier as it navigates the developing Deep Crab pattern. While buyers currently hold the advantage, they must clear these overhead levels to solidify the move and escape the friction inherent in the current mixed structural quality.",
-    "Buyers continue to press the advance toward the upper boundary of the range, supported by an expanding volatility envelope that gives price room to maneuver. Yet low opposing wick pressure indicates that sellers have offered minimal resistance so far, leaving the advance reliant on momentum instead of confirmed rejection of lower prices. At the same time, the developing Deep Crab pattern at 4049.0 acts as a source of counter-pressure, introducing friction right where price is testing overhead resistance. This pattern does not signal an immediate reversal, but it creates a conflicting force against the current upward drive. As long as the volatility range keeps expanding and same-side runs hold their length, the bullish move retains its opening, but the looming harmonic structure warns that continuation remains conditional.",
-    "Rapid switching and erratic timing keep the broader market unresolved for now, meaning that underlying disorder can fade only when price settles into a stable range or establishes persistent directional control. The current bullish lean becomes more convincing if buyers continue to expand their runs with steady timing and clean structural progress above support. Conversely, that upside bias weakens if sellers reclaim broken structure, lengthen their counter-moves, or force price back through the SAR level at 4028.38. Until one of those changes materializes, the advance remains active but conditional, anchored by expanding volatility yet tested by the overhead harmonic resistance."
+    "Gold is currently navigating a period of structural reorganization, sitting at 4064.0. While the broader market remains directional and orderly, the immediate price action is caught in a neutral alignment, failing to commit to a clear trend. Price is holding above the middle Bollinger band at 4051.25 and the SAR level at 4048.94, yet it has not broken away with any conviction. The recent sequence shows a mix of short-term bullish and bearish moves, reflecting a market that is balancing instead of trending. With compression rising to 28.8 and transition pressure fading, the market is currently in a state of wait-and-see. The lack of a decisive break from the established swing structure suggests that neither buyers nor sellers have secured a firm, lasting advantage.",
+    "The market is shifting from a broader, more consistent directional state into a period of localized indecision. Within the 104-brick window, the average bearish run of 3.24 slightly outpaced the 2.88 average bullish run, establishing a clear underlying downward bias. However, recent behavior shows a marked contrast. Over the last 12 runs, the average bullish move has expanded to 3.67, while bearish runs have contracted to 2.83. This reversal in run-length efficiency highlights that while the broader history remains bearish, the immediate price action is struggling to maintain that momentum. Sellers are finding it harder to extend their advantage, and the recent increase in bullish run length suggests that buyers are becoming more capable of mounting counter-moves, even if they have not yet shifted the overall trend.",
+    "Price is currently moving through a period of orderly but indecisive activity. While the market retains a stair-step continuation structure, the quality of control is shifting. Compression has risen sharply to 28.8, and transition pressure has faded significantly, indicating that the market is losing its directional intensity. Sellers retain a core advantage, but the lack of re-acceleration—which has dropped to 19.0—shows that the recent decline is not gaining the force needed to clear the current range. Instead of a clean trend, price is trapped in a stable, balancing state where neither side can sustain a breakout. This creates a market that is structurally orderly but functionally stalled, with recent price action failing to commit to either the downside or a meaningful recovery.",
+    "Price is currently contained within a narrow structural corridor. The first resistance area sits between 4073.72 and 4079.0, defined by the upper Bollinger band and the harmonic Bat D-point. This zone acts as the immediate ceiling for any recovery attempt. To the downside, a support cluster forms around 4042.21 to 4051.25, encompassing the 150-period linear regression line, the SAR level, and the middle Bollinger band. This area is critical for maintaining the current stair-step structure; a breach here would challenge the prevailing bearish bias. Beyond these immediate boundaries, the larger trend-control area remains anchored near the harmonic X-point at 4127.97, which continues to mark the broader overhead barrier for the market.",
+    "The current market move retains a bearish bias, but its ability to sustain downward progress is increasingly challenged. While the volatility envelope remains broad, it is contracting, signaling that fresh expansion behind the selloff is fading instead of building. This creates a environment where price has room to maneuver, yet the force behind the decline is diminishing. A developing harmonic Bat pattern near 4078.465 provides a source of counter-pressure, though it acts only as a potential interruption point instead of a confirmed reversal. Sellers must overcome this localized resistance and maintain their rhythmic control to keep the move alive. The bearish case improves if they extend the decline with steadier timing, while a recovery through the overhead resistance zone would weaken the current directional lean.",
+    "The broader market remains unresolved, characterized by rapid switching and erratic timing that prevents a clean directional trend from taking hold. This state of disorder will only fade if the market settles into a consistent range or establishes a persistent, orderly directional run. The current bearish lean is not yet definitive; it becomes more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing with repeated, coherent downward runs. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken swing structure near 4079.0, or invalidate the current stair-step continuation. Until the market moves away from this high-compression, balancing state, the directional lean remains a marginal observation instead of a confirmed structural shift."
   ],
-  "text": "XAUUSD is currently pushing higher, with price resting at 4049.0. This move is supported by an expanding volatility range and a clear alignment with the SAR level at 4028.37834, which sits well below current price. While the broader market condition remains mixed, the recent sequence shows a distinct bullish tilt, characterized by accelerating re-acceleration scores and a rise in continuation pressure. The market is effectively riding the upper Bollinger band, indicating that the immediate force is directed upward. Although a developing Deep Crab pattern suggests potential overhead resistance, the current price action has not yet met significant rejection, as evidenced by low opposing wick pressure. The market is currently in a state of expansion, though it has yet to establish a clean, sustained trend structure.\n\nThe market has shifted from a balanced state to one of distinct bullish expansion. Across the 104-brick window, the average bullish run of 3.75 moves is now being significantly outpaced by recent behavior, where bullish runs have reached an average of 5.5 moves. This increase in persistence is mirrored by a contraction in bearish run length, which has dropped from a historical average of 2.75 moves to just 1.83 in the most recent sequence. While the broader history shows an equal number of bullish and bearish runs, the recent 12-run sample reveals that buyers are now exerting more control, with 33 bullish moves compared to only 11 bearish ones. This change in internal pressure shows that the market is moving away from its previous chop toward a more forceful, directional advance.\n\nThe current bullish move is forceful, yet it lacks the structural maturity of a clean, established trend. While re-acceleration has climbed to 66.7 and continuation pressure has risen to 40.1, the market is still operating within a mixed structural quality. This indicates that buyers are successfully pushing price higher, but they have not yet fully escaped the broader disorder that characterized recent sessions. Compression has dropped significantly to 13.9, suggesting that the market is finally opening up, yet the presence of a developing Deep Crab pattern creates a layer of potential overhead friction. Buyers currently hold the advantage, but the stability of this control remains dependent on their ability to maintain the current pace without triggering a return to the previous chop.\n\nThe immediate support zone for XAUUSD sits between 4028.0 and 4038.0, anchored by the SAR level at 4028.38 and recent confirmed pivot activity. This area provides a necessary cushion for the current bullish expansion, as price remains well above the middle Bollinger band at 4012.75 and the upward-sloping regression line at 3982.97. Overhead, the first resistance area is narrow, defined by the upper Bollinger band at 4052.98 and the immediate price ceiling near 4058.0. Beyond this, the market faces a larger trend-control barrier as it navigates the developing Deep Crab pattern. While buyers currently hold the advantage, they must clear these overhead levels to solidify the move and escape the friction inherent in the current mixed structural quality.\n\nBuyers continue to press the advance toward the upper boundary of the range, supported by an expanding volatility envelope that gives price room to maneuver. Yet low opposing wick pressure indicates that sellers have offered minimal resistance so far, leaving the advance reliant on momentum instead of confirmed rejection of lower prices. At the same time, the developing Deep Crab pattern at 4049.0 acts as a source of counter-pressure, introducing friction right where price is testing overhead resistance. This pattern does not signal an immediate reversal, but it creates a conflicting force against the current upward drive. As long as the volatility range keeps expanding and same-side runs hold their length, the bullish move retains its opening, but the looming harmonic structure warns that continuation remains conditional.\n\nRapid switching and erratic timing keep the broader market unresolved for now, meaning that underlying disorder can fade only when price settles into a stable range or establishes persistent directional control. The current bullish lean becomes more convincing if buyers continue to expand their runs with steady timing and clean structural progress above support. Conversely, that upside bias weakens if sellers reclaim broken structure, lengthen their counter-moves, or force price back through the SAR level at 4028.38. Until one of those changes materializes, the advance remains active but conditional, anchored by expanding volatility yet tested by the overhead harmonic resistance.",
+  "text": "Gold is currently navigating a period of structural reorganization, sitting at 4064.0. While the broader market remains directional and orderly, the immediate price action is caught in a neutral alignment, failing to commit to a clear trend. Price is holding above the middle Bollinger band at 4051.25 and the SAR level at 4048.94, yet it has not broken away with any conviction. The recent sequence shows a mix of short-term bullish and bearish moves, reflecting a market that is balancing instead of trending. With compression rising to 28.8 and transition pressure fading, the market is currently in a state of wait-and-see. The lack of a decisive break from the established swing structure suggests that neither buyers nor sellers have secured a firm, lasting advantage.\n\nThe market is shifting from a broader, more consistent directional state into a period of localized indecision. Within the 104-brick window, the average bearish run of 3.24 slightly outpaced the 2.88 average bullish run, establishing a clear underlying downward bias. However, recent behavior shows a marked contrast. Over the last 12 runs, the average bullish move has expanded to 3.67, while bearish runs have contracted to 2.83. This reversal in run-length efficiency highlights that while the broader history remains bearish, the immediate price action is struggling to maintain that momentum. Sellers are finding it harder to extend their advantage, and the recent increase in bullish run length suggests that buyers are becoming more capable of mounting counter-moves, even if they have not yet shifted the overall trend.\n\nPrice is currently moving through a period of orderly but indecisive activity. While the market retains a stair-step continuation structure, the quality of control is shifting. Compression has risen sharply to 28.8, and transition pressure has faded significantly, indicating that the market is losing its directional intensity. Sellers retain a core advantage, but the lack of re-acceleration—which has dropped to 19.0—shows that the recent decline is not gaining the force needed to clear the current range. Instead of a clean trend, price is trapped in a stable, balancing state where neither side can sustain a breakout. This creates a market that is structurally orderly but functionally stalled, with recent price action failing to commit to either the downside or a meaningful recovery.\n\nPrice is currently contained within a narrow structural corridor. The first resistance area sits between 4073.72 and 4079.0, defined by the upper Bollinger band and the harmonic Bat D-point. This zone acts as the immediate ceiling for any recovery attempt. To the downside, a support cluster forms around 4042.21 to 4051.25, encompassing the 150-period linear regression line, the SAR level, and the middle Bollinger band. This area is critical for maintaining the current stair-step structure; a breach here would challenge the prevailing bearish bias. Beyond these immediate boundaries, the larger trend-control area remains anchored near the harmonic X-point at 4127.97, which continues to mark the broader overhead barrier for the market.\n\nThe current market move retains a bearish bias, but its ability to sustain downward progress is increasingly challenged. While the volatility envelope remains broad, it is contracting, signaling that fresh expansion behind the selloff is fading instead of building. This creates a environment where price has room to maneuver, yet the force behind the decline is diminishing. A developing harmonic Bat pattern near 4078.465 provides a source of counter-pressure, though it acts only as a potential interruption point instead of a confirmed reversal. Sellers must overcome this localized resistance and maintain their rhythmic control to keep the move alive. The bearish case improves if they extend the decline with steadier timing, while a recovery through the overhead resistance zone would weaken the current directional lean.\n\nThe broader market remains unresolved, characterized by rapid switching and erratic timing that prevents a clean directional trend from taking hold. This state of disorder will only fade if the market settles into a consistent range or establishes a persistent, orderly directional run. The current bearish lean is not yet definitive; it becomes more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing with repeated, coherent downward runs. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken swing structure near 4079.0, or invalidate the current stair-step continuation. Until the market moves away from this high-compression, balancing state, the directional lean remains a marginal observation instead of a confirmed structural shift.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.1-flash-lite,gemini-3.5-flash-lite",
-  "word_count": 741
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 746
 }

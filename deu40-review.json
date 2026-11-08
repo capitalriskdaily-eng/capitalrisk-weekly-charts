@@ -1,71 +1,71 @@
 {
   "instrument": "DEU40",
-  "as_of": "2026-11-04T10:25:49.022000+00:00",
-  "source_run": 41254798903,
-  "review_run": 41824172872,
+  "as_of": "2026-11-06T17:20:43.699000+00:00",
+  "source_run": 42448650192,
+  "review_run": 42448650192,
   "review_version": "writer-v6-market-state",
-  "status": "OK",
-  "state": "Buyers press higher toward 26253.0 with a sharp 16-unit extension, keeping the immediate advance forceful though still developing.",
+  "status": "UNRESOLVED",
+  "state": "Sellers hold the immediate advantage, but high transition pressure and unstable structural quality keep the downside move from gaining clean, sustained momentum.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 60.9,
-      "current": 62.1,
-      "delta": 1.2,
-      "value": "60.9 → 62.1",
-      "change_arrow": "↑"
+      "previous": 29.6,
+      "current": 28.5,
+      "delta": -1.1,
+      "value": "29.6 → 28.5",
+      "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 82.5,
-      "current": 86.6,
-      "delta": 4.1,
-      "value": "82.5 → 86.6",
+      "previous": 13.2,
+      "current": 13.3,
+      "delta": 0.1,
+      "value": "13.2 → 13.3",
       "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 36.2,
-      "current": 36.2,
-      "delta": 0.0,
-      "value": "36.2 → 36.2",
-      "change_arrow": "→"
+      "previous": 67.2,
+      "current": 86.0,
+      "delta": 18.8,
+      "value": "67.2 → 86.0",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 11.0,
-      "current": 10.8,
-      "delta": -0.2,
-      "value": "11.0 → 10.8",
+      "previous": 80.7,
+      "current": 41.7,
+      "delta": -39.0,
+      "value": "80.7 → 41.7",
       "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 46.7,
-      "current": 44.4,
-      "delta": -2.3,
-      "value": "46.7 → 44.4",
-      "change_arrow": "↓"
+      "previous": 29.6,
+      "current": 34.9,
+      "delta": 5.3,
+      "value": "29.6 → 34.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "orderly",
+      "current": "unstable",
       "delta": null,
-      "value": "orderly",
+      "value": "unstable",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "Buyers hold the immediate advantage, pushing price to 26253.0 and breaching the latest confirmed high pivot at 26013.0. The advance shows notable momentum, highlighted by a dominant run stretching 16 units higher alongside expanding volatility and an active upper band ride. While the swing structure remains reorganizing and a developing bear Butterfly pattern sits directly overhead at current price, the expansion itself is presently orderly. Re-acceleration reads at 86.6 with continuation at 62.1, confirming that the upside extension carries genuine force. Yet because confirmation metrics have not fully caught up to the initial breakout footprint, the advance remains developing instead of fully entrenched. Sellers face an uphill task while price stays supported well above the SAR level at 26007.39 and the rising regression line at 26026.85.",
-    "Expanding runs set recent behavior apart from the wider 104-brick window. Across the full sample, bullish advances average 3.29 units and bearish declines average 3.0 units. Recent action reveals a clear shift toward sharper asymmetry. The latest 12 runs show average bullish legs stretching to 5.33 units, capped by a dominant 16-unit advance, while counter-moves remain contained by comparison. At the same time, counter-pace has turned accelerating alongside expanding counter-runs. Buyers are pushing further during dominant phases, yet pullbacks are attempting to respond more quickly. That combination highlights how directional pressure has intensified without erasing the underlying friction from opposing sellers.",
-    "Force outweighs stability for now, but the advance carries enough internal energy to keep pressing forward. Re-acceleration sits high at 86.6 alongside a steady upward pace and low opposing wick pressure, confirming that buyers are driving price higher without encountering heavy rejections. At the same time, chop remains subdued at 44.4 and compression sits low at 10.8, showing that the market is actively expanding instead of stalling in a tight range. Even though transition stays muted and the advance is still classified as a developing breakout instead of a fully confirmed trend, the immediate directional push is orderly. Sellers have failed to mount an effective counter-offensive, leaving the market structure firmly oriented around the upside extension.",
-    "The price map shows support clustered closely beneath current levels. The rising regression line sits at 26026.85, closely accompanied by SAR at 26007.39 and the confirmed high pivot at 26013.0, forming a thick support zone that underpins the advance. Higher up, the active harmonic pattern sits right at current price of 26253.0, acting as an immediate resistance test alongside the upper Bollinger band sitting at 26308.45. This structure means buyers are pressing directly against overhead boundaries while a substantial cushion of support rests underneath. As long as price holds above that lower cluster, the path of least resistance continues to lean upward despite the developing counter-pressure.",
-    "The advance has room to extend further because volatility remains very expanded while trading along the upper Bollinger band at 26308.44726. At the same time, opposing wick pressure is low and re-acceleration sits strong at 86.6, showing that buyers continue to press upward without running into heavy rejections. Yet this upward momentum meets an immediate test from a developing bear Butterfly pattern located right at current price of 26253.0. That harmonic formation acts as counter-pressure instead of a confirmed reversal, signaling caution without invalidating the ongoing expansion. As long as price stays supported above the rising regression line and SAR cluster, the directional push can maintain its path even as overhead barriers loom.",
-    "Rapid switching, erratic timing, frequent reversals and disorder keep the broader market unresolved while underlying conditions reorganize. That unresolved state fades only when the market becomes more orderly through a stable range or persistent directional control. The current bullish lean becomes more convincing as instability decreases and the same side develops repeated runs, steadier timing, coherent pace and continued structural progress. Conversely, that directional lean becomes weaker when the opposite side gains persistent control, reclaims broken structure like the high pivot at 26013.0, or invalidates the supplied directional evidence. A stable range can replace the unresolved background without automatically reversing the active directional lean. Buyers hold control while price stays above the support cluster near the rising regression line and SAR."
+    "The DEU40 is currently caught in a bearish sequence, with price sitting at 25693.0. While the immediate direction is bearish, the market structure remains unstable. Recent swings show a pattern of lower highs and lower lows, yet the move lacks the clean, sustained momentum of a true trend. High opposing wick pressure—currently at 53.8—indicates that sellers are meeting resistance even as they attempt to push lower. The market is in a state of transition, evidenced by a sharp rise in transition pressure to 86.0 and a significant drop in compression. This suggests that while the downside has the immediate advantage, the broader market is still struggling to define a clear directional path, leaving the current decline vulnerable to frequent reversals.",
+    "The broader history of the DEU40, viewed across the 104-brick window, shows a market that has historically maintained equal balance between bullish and bearish runs, with both sides averaging 2.89 units. Recent behavior, however, marks a distinct shift toward downside pressure. In the latest 12 runs, the average bearish run remains steady at 2.83, while bullish counters have contracted significantly to an average of just 1.83. This divergence highlights a change in character: the market is now experiencing more frequent and persistent selling, even if the overall structure remains trapped in a state of transition. While the long-term record suggests a balanced environment, the recent sequence shows that sellers are gaining a sharper, more immediate advantage over the buyers.",
+    "Sellers are currently exerting force, but they lack the stability to claim total control. The market is moving lower, yet the high transition pressure of 86.0 and the elevated opposing wick pressure of 53.8 show that every downside attempt faces immediate friction. While the recent sequence of lower highs and lower lows confirms the bearish lean, the structural quality remains unstable. Compression has dropped sharply to 41.7, indicating that the market is no longer building the tight, orderly conditions that typically support a sustained trend. Instead, the current decline is unfolding within a wider, more disordered environment where reversals are frequent. The move is becoming sharper, but it has not yet become cleaner, leaving the bearish outlook vulnerable to the ongoing chop.",
+    "The DEU40 faces a narrow support zone between 25613.0 and 25653.0, reinforced by the SAR level at 25645.85. This area acts as the immediate floor for the current bearish sequence. Overhead, the first resistance zone sits between 25765.0 and 25893.0, encompassing the Bollinger middle band and recent pivot points that have capped recovery attempts. A more significant barrier exists further up, centered around the 26041.48 harmonic level and the falling regression line at 26182.14. These levels define the ceiling for any potential rebound, keeping the broader trend control firmly in the hands of the sellers as long as price remains below these markers. The market is currently trapped between these structural boundaries, unable to break decisively in either direction.",
+    "The bearish sequence maintains its immediate advantage, but the market is not yet free to accelerate. While the volatility envelope remains broad, it is currently expanding, which provides enough room for the decline to continue without hitting immediate structural barriers. However, the high opposing wick pressure of 53.8 acts as a persistent brake, signaling that buyers are stepping in to challenge the downside at every turn. A developing Gartley pattern adds a layer of counter-pressure near current levels; it is not a reversal signal, but it creates a zone of friction that complicates the bearish path. The decline will only gain real momentum if sellers can overcome this resistance and push through the immediate support floor without triggering another round of transition-driven reversals.",
+    "The broader market remains unresolved, trapped in a state of transition that is characterized by rapid switching and erratic timing. This disorder will only fade if the market settles into a more stable range or establishes a persistent, orderly directional run. The current bearish lean becomes more convincing only if sellers reduce this instability by producing repeated, steady runs and clear structural progress. Conversely, the bearish case weakens if buyers reclaim the broken swing area at 25893.0 or if counter-moves begin to last longer than the recent average of 1.83 units. Until the market moves away from its current high transition pressure of 86.0 and stops flipping direction so easily, the bearish lean will remain a marginal observation instead of a confirmed trend."
   ],
-  "text": "Buyers hold the immediate advantage, pushing price to 26253.0 and breaching the latest confirmed high pivot at 26013.0. The advance shows notable momentum, highlighted by a dominant run stretching 16 units higher alongside expanding volatility and an active upper band ride. While the swing structure remains reorganizing and a developing bear Butterfly pattern sits directly overhead at current price, the expansion itself is presently orderly. Re-acceleration reads at 86.6 with continuation at 62.1, confirming that the upside extension carries genuine force. Yet because confirmation metrics have not fully caught up to the initial breakout footprint, the advance remains developing instead of fully entrenched. Sellers face an uphill task while price stays supported well above the SAR level at 26007.39 and the rising regression line at 26026.85.\n\nExpanding runs set recent behavior apart from the wider 104-brick window. Across the full sample, bullish advances average 3.29 units and bearish declines average 3.0 units. Recent action reveals a clear shift toward sharper asymmetry. The latest 12 runs show average bullish legs stretching to 5.33 units, capped by a dominant 16-unit advance, while counter-moves remain contained by comparison. At the same time, counter-pace has turned accelerating alongside expanding counter-runs. Buyers are pushing further during dominant phases, yet pullbacks are attempting to respond more quickly. That combination highlights how directional pressure has intensified without erasing the underlying friction from opposing sellers.\n\nForce outweighs stability for now, but the advance carries enough internal energy to keep pressing forward. Re-acceleration sits high at 86.6 alongside a steady upward pace and low opposing wick pressure, confirming that buyers are driving price higher without encountering heavy rejections. At the same time, chop remains subdued at 44.4 and compression sits low at 10.8, showing that the market is actively expanding instead of stalling in a tight range. Even though transition stays muted and the advance is still classified as a developing breakout instead of a fully confirmed trend, the immediate directional push is orderly. Sellers have failed to mount an effective counter-offensive, leaving the market structure firmly oriented around the upside extension.\n\nThe price map shows support clustered closely beneath current levels. The rising regression line sits at 26026.85, closely accompanied by SAR at 26007.39 and the confirmed high pivot at 26013.0, forming a thick support zone that underpins the advance. Higher up, the active harmonic pattern sits right at current price of 26253.0, acting as an immediate resistance test alongside the upper Bollinger band sitting at 26308.45. This structure means buyers are pressing directly against overhead boundaries while a substantial cushion of support rests underneath. As long as price holds above that lower cluster, the path of least resistance continues to lean upward despite the developing counter-pressure.\n\nThe advance has room to extend further because volatility remains very expanded while trading along the upper Bollinger band at 26308.44726. At the same time, opposing wick pressure is low and re-acceleration sits strong at 86.6, showing that buyers continue to press upward without running into heavy rejections. Yet this upward momentum meets an immediate test from a developing bear Butterfly pattern located right at current price of 26253.0. That harmonic formation acts as counter-pressure instead of a confirmed reversal, signaling caution without invalidating the ongoing expansion. As long as price stays supported above the rising regression line and SAR cluster, the directional push can maintain its path even as overhead barriers loom.\n\nRapid switching, erratic timing, frequent reversals and disorder keep the broader market unresolved while underlying conditions reorganize. That unresolved state fades only when the market becomes more orderly through a stable range or persistent directional control. The current bullish lean becomes more convincing as instability decreases and the same side develops repeated runs, steadier timing, coherent pace and continued structural progress. Conversely, that directional lean becomes weaker when the opposite side gains persistent control, reclaims broken structure like the high pivot at 26013.0, or invalidates the supplied directional evidence. A stable range can replace the unresolved background without automatically reversing the active directional lean. Buyers hold control while price stays above the support cluster near the rising regression line and SAR.",
+  "text": "The DEU40 is currently caught in a bearish sequence, with price sitting at 25693.0. While the immediate direction is bearish, the market structure remains unstable. Recent swings show a pattern of lower highs and lower lows, yet the move lacks the clean, sustained momentum of a true trend. High opposing wick pressure—currently at 53.8—indicates that sellers are meeting resistance even as they attempt to push lower. The market is in a state of transition, evidenced by a sharp rise in transition pressure to 86.0 and a significant drop in compression. This suggests that while the downside has the immediate advantage, the broader market is still struggling to define a clear directional path, leaving the current decline vulnerable to frequent reversals.\n\nThe broader history of the DEU40, viewed across the 104-brick window, shows a market that has historically maintained equal balance between bullish and bearish runs, with both sides averaging 2.89 units. Recent behavior, however, marks a distinct shift toward downside pressure. In the latest 12 runs, the average bearish run remains steady at 2.83, while bullish counters have contracted significantly to an average of just 1.83. This divergence highlights a change in character: the market is now experiencing more frequent and persistent selling, even if the overall structure remains trapped in a state of transition. While the long-term record suggests a balanced environment, the recent sequence shows that sellers are gaining a sharper, more immediate advantage over the buyers.\n\nSellers are currently exerting force, but they lack the stability to claim total control. The market is moving lower, yet the high transition pressure of 86.0 and the elevated opposing wick pressure of 53.8 show that every downside attempt faces immediate friction. While the recent sequence of lower highs and lower lows confirms the bearish lean, the structural quality remains unstable. Compression has dropped sharply to 41.7, indicating that the market is no longer building the tight, orderly conditions that typically support a sustained trend. Instead, the current decline is unfolding within a wider, more disordered environment where reversals are frequent. The move is becoming sharper, but it has not yet become cleaner, leaving the bearish outlook vulnerable to the ongoing chop.\n\nThe DEU40 faces a narrow support zone between 25613.0 and 25653.0, reinforced by the SAR level at 25645.85. This area acts as the immediate floor for the current bearish sequence. Overhead, the first resistance zone sits between 25765.0 and 25893.0, encompassing the Bollinger middle band and recent pivot points that have capped recovery attempts. A more significant barrier exists further up, centered around the 26041.48 harmonic level and the falling regression line at 26182.14. These levels define the ceiling for any potential rebound, keeping the broader trend control firmly in the hands of the sellers as long as price remains below these markers. The market is currently trapped between these structural boundaries, unable to break decisively in either direction.\n\nThe bearish sequence maintains its immediate advantage, but the market is not yet free to accelerate. While the volatility envelope remains broad, it is currently expanding, which provides enough room for the decline to continue without hitting immediate structural barriers. However, the high opposing wick pressure of 53.8 acts as a persistent brake, signaling that buyers are stepping in to challenge the downside at every turn. A developing Gartley pattern adds a layer of counter-pressure near current levels; it is not a reversal signal, but it creates a zone of friction that complicates the bearish path. The decline will only gain real momentum if sellers can overcome this resistance and push through the immediate support floor without triggering another round of transition-driven reversals.\n\nThe broader market remains unresolved, trapped in a state of transition that is characterized by rapid switching and erratic timing. This disorder will only fade if the market settles into a more stable range or establishes a persistent, orderly directional run. The current bearish lean becomes more convincing only if sellers reduce this instability by producing repeated, steady runs and clear structural progress. Conversely, the bearish case weakens if buyers reclaim the broken swing area at 25893.0 or if counter-moves begin to last longer than the recent average of 1.83 units. Until the market moves away from its current high transition pressure of 86.0 and stops flipping direction so easily, the bearish lean will remain a marginal observation instead of a confirmed trend.",
   "writer_source": "ai",
-  "writer_model": "gemini-3.5-flash-lite",
-  "word_count": 704
+  "writer_model": "gemini-3.1-flash-lite",
+  "word_count": 748
 }
