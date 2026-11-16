@@ -1,71 +1,71 @@
 {
   "instrument": "USDCHF",
-  "as_of": "2026-11-06T13:30:01.452000+00:00",
-  "source_run": 42448650192,
-  "review_run": 42448650192,
+  "as_of": "2026-11-15T22:00:11.133000+00:00",
+  "source_run": 43851347526,
+  "review_run": 43851347526,
   "review_version": "writer-v6-market-state",
-  "status": "OK",
-  "state": "USDCHF remains trapped in a compressed, erratic range where neither side can establish a dominant directional path.",
+  "status": "UNRESOLVED",
+  "state": "Buyers hold the immediate advantage following a sharp 14-unit bullish extension that has reclaimed key swing structure.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 26.8,
-      "current": 31.2,
-      "delta": 4.4,
-      "value": "26.8 → 31.2",
-      "change_arrow": "↑"
+      "previous": 31.6,
+      "current": 31.6,
+      "delta": 0.0,
+      "value": "31.6 → 31.6",
+      "change_arrow": "→"
     },
     {
       "label": "Re-acceleration",
-      "previous": 5.0,
-      "current": 3.7,
-      "delta": -1.3,
-      "value": "5.0 → 3.7",
-      "change_arrow": "↓"
+      "previous": 68.2,
+      "current": 71.3,
+      "delta": 3.1,
+      "value": "68.2 → 71.3",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 15.8,
-      "current": 9.0,
-      "delta": -6.8,
-      "value": "15.8 → 9.0",
+      "previous": 20.1,
+      "current": 19.8,
+      "delta": -0.3,
+      "value": "20.1 → 19.8",
       "change_arrow": "↓"
     },
     {
       "label": "Compression",
-      "previous": 70.2,
-      "current": 63.7,
-      "delta": -6.5,
-      "value": "70.2 → 63.7",
-      "change_arrow": "↓"
+      "previous": 52.1,
+      "current": 52.1,
+      "delta": 0.0,
+      "value": "52.1 → 52.1",
+      "change_arrow": "→"
     },
     {
       "label": "Balance / chop",
-      "previous": 79.1,
-      "current": 80.0,
-      "delta": 0.9,
-      "value": "79.1 → 80.0",
-      "change_arrow": "↑"
+      "previous": 61.9,
+      "current": 55.8,
+      "delta": -6.1,
+      "value": "61.9 → 55.8",
+      "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "erratic",
+      "current": "mixed",
       "delta": null,
-      "value": "erratic",
-      "change_arrow": "↑"
+      "value": "mixed",
+      "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "USDCHF is currently navigating a period of significant structural disorder, where price action lacks a clear directional mandate. While the most recent sequence shows a modest bullish extension of four units, the broader market remains caught in a state of erratic reorganization. The volatility range is actively contracting, with the Bollinger bands squeezing around current price levels, yet the high degree of opposing wick pressure suggests that buyers and sellers are struggling to establish lasting control. The market is effectively trapped between competing pivot levels, and the lack of consistent timing further underscores the absence of a dominant trend. Until price can break away from this compressed, high-chop environment, the current movement remains a series of local flips instead of a sustained directional shift.",
-    "The broader 104-brick window shows a market that has historically maintained a near-equal distribution of bullish and bearish runs, with average lengths of 3.0 and 2.94 units respectively. Recent behavior, however, reveals a shift in character. Over the last 12 runs, the average bearish extension has stretched to 3.67 units, while bullish advances have shortened to an average of 2.5 units. This change highlights a subtle increase in downside pressure that is not yet reflected in the overall history. Despite this, the market remains trapped in a state of high chop, as evidenced by the persistent opposing wick pressure. One side is gaining a sharper pace, but it has not yet achieved the clean continuation needed to escape the wider disorder.",
-    "The current directional move lacks the structural integrity required to signal a genuine shift in control. While price has managed a modest four-unit bullish extension, the overall market remains trapped in a state of erratic reorganization. The high level of opposing wick pressure—currently at 82.6—confirms that every advance is met with immediate and forceful rejection, preventing any meaningful continuation. Although continuation scores have ticked up slightly to 31.2, they remain well below the threshold for a stable trend. The market is essentially producing forceful, short-lived moves inside a compressed volatility range instead of building a foundation for sustained momentum. Until the frequency of these local flips subsides and the structural quality improves, the price action will continue to reflect disorder instead of conviction.",
-    "Price is currently pinned against immediate resistance at 0.82141, which marks the upper Bollinger band. A reclaim of this area, followed by the zone of confirmed pivots between 0.823 and 0.826, is necessary to suggest any shift toward bullish conviction. Overhead, the falling regression line at 0.82846 serves as the primary barrier for the broader trend, keeping the market contained even if the current bullish extension finds more room. Below, support is clustered around the 0.81688 middle Bollinger band and the SAR level at 0.81383. This zone is reinforced by the harmonic D-point at 0.81323. A break below this support cluster would signal that the recent downside pressure is reasserting control, effectively invalidating the current attempt at a bullish move.",
-    "The current bullish extension has room to maneuver, but the market is not building the momentum required to escape its wider disorder. While the volatility envelope remains broad, the Bollinger bands are actively contracting, signaling that fresh expansion is no longer fueling the move. This compression acts as a caution instead of a sign of stability. Meanwhile, the very high opposing wick pressure of 82.6 suggests that every attempt to push higher is met with immediate rejection, keeping the market trapped in its erratic state. A developing bullish Bat pattern near 0.81323 provides a source of counter-pressure, but it is not a confirmed reversal. The market will remain unresolved until one side can demonstrate the clean, sustained continuation that is currently absent from the price action.",
-    "The broader market remains unresolved as long as rapid flipping, erratic timing, and frequent reversals dominate the price action. This state of disorder fades only when the market achieves a more stable range or develops persistent directional control. The current bullish lean is not yet convincing because the market lacks the necessary structural progress and steadiness. For the bullish case to gain real weight, the price must demonstrate repeated, coherent runs with fewer interruptions and lower opposing wick pressure. Conversely, the current lean weakens if the market fails to hold the recent gains, reclaims the broken swing area, or if the downside pressure reasserts itself through longer, more persistent runs. Until one side establishes that kind of structural persistence, the market will continue to reflect its current high-chop, compressed condition."
+    "USDCHF is currently pushing higher, with the latest sequence culminating in a 14-unit bullish extension that has reclaimed significant ground. This move is forceful, characterized by expanding volatility and a clear band-ride behavior against the upper Bollinger level at 0.84115. While the broader market condition remains mixed, the immediate advantage sits firmly with buyers. The recent surge has effectively broken through previous swing highs, including the 0.8215 level, signaling a shift in momentum that is supported by accelerating re-acceleration scores. Despite this aggressive advance, the market is still developing a bearish Gartley pattern, suggesting that while the current run is dominant, the structural backdrop remains unresolved and prone to counter-pressure as price tests these elevated levels.",
+    "The market has shifted from a balanced state into a more aggressive expansion, though the broader history still reflects significant disorder. Within the 104-brick window, bullish and bearish runs were historically symmetrical at 16 apiece, with average lengths of 3.5 and 3.0 units respectively. Recent behavior has broken this symmetry. Over the last 12 runs, bullish momentum has accelerated, highlighted by a 14-unit extension that dwarfs the historical average. While bearish runs have become shorter and less frequent, the overall structural quality remains mixed. Buyers clearly hold the immediate advantage, but the persistence of these gains is still being tested against a backdrop that has not yet fully transitioned into a clean, sustained trend.",
+    "The current advance is forceful, but it lacks the consistent timing that would signal a stable, mature trend. While re-acceleration scores have climbed to 71.3, indicating that the move is gaining momentum, the market remains trapped in a state of mixed structural quality. The recent 14-unit extension shows that buyers have successfully pushed price against the upper Bollinger band at 0.84115, yet the broader chop—while declining—still sits at 55.8. This suggests the market is expanding into a new range instead of establishing a clean, orderly path. Because transition pressure remains low at 19.8, the current bullish control is more a product of sharp, localized expansion than a fundamental shift in the underlying market organization.",
+    "The immediate bullish expansion has pushed price directly against the harmonic D level at 0.8395, which now acts as the first point of resistance. Just above this, the upper Bollinger band at 0.84115 serves as the primary overhead barrier, defining the current limit of the band-ride behavior. Should the market pull back, the first support zone sits between 0.837 and 0.838, encompassing recent confirmed highs that price must now hold to maintain its momentum. Further down, the SAR level at 0.83206 provides a secondary reference for bullish control. The broader trend-control area remains anchored around the middle Bollinger band at 0.827 and the regression line at 0.82564, which together define the floor for the current bullish sequence.",
+    "The current bullish expansion is forceful, yet it faces immediate counter-pressure from the developing bearish Gartley pattern at 0.8395. While low opposing wick pressure shows that sellers are struggling to gain traction during this advance, the market is not without limits. The volatility envelope remains very expanded and continues to widen, providing room for the move to persist, but the lack of consistent timing suggests this is a localized burst instead of a stable trend. A pullback would first test the 0.837-0.838 support zone; if price holds there, the bullish case remains intact. However, should the market fail to sustain these levels, the harmonic structure could act as a catalyst for a broader reversal, especially as the structural backdrop remains mixed.",
+    "The broader market remains unresolved, as the persistent disorder and erratic timing keep the current bullish expansion from settling into a clean, sustained trend. This unresolved state will only fade if the market shifts toward a more orderly condition, whether through a stable range or a consistent directional path. The current bullish lean becomes more convincing only if buyers demonstrate steadier timing and repeat these forceful runs without frequent reversals. Conversely, the bullish case weakens if the market loses its current momentum, specifically if price falls back through the 0.837-0.838 support zone or if the bearish Gartley pattern at 0.8395 triggers a persistent counter-move that reclaims the broken swing structure. Until one of these changes sticks, the market remains trapped in its wider, mixed state."
   ],
-  "text": "USDCHF is currently navigating a period of significant structural disorder, where price action lacks a clear directional mandate. While the most recent sequence shows a modest bullish extension of four units, the broader market remains caught in a state of erratic reorganization. The volatility range is actively contracting, with the Bollinger bands squeezing around current price levels, yet the high degree of opposing wick pressure suggests that buyers and sellers are struggling to establish lasting control. The market is effectively trapped between competing pivot levels, and the lack of consistent timing further underscores the absence of a dominant trend. Until price can break away from this compressed, high-chop environment, the current movement remains a series of local flips instead of a sustained directional shift.\n\nThe broader 104-brick window shows a market that has historically maintained a near-equal distribution of bullish and bearish runs, with average lengths of 3.0 and 2.94 units respectively. Recent behavior, however, reveals a shift in character. Over the last 12 runs, the average bearish extension has stretched to 3.67 units, while bullish advances have shortened to an average of 2.5 units. This change highlights a subtle increase in downside pressure that is not yet reflected in the overall history. Despite this, the market remains trapped in a state of high chop, as evidenced by the persistent opposing wick pressure. One side is gaining a sharper pace, but it has not yet achieved the clean continuation needed to escape the wider disorder.\n\nThe current directional move lacks the structural integrity required to signal a genuine shift in control. While price has managed a modest four-unit bullish extension, the overall market remains trapped in a state of erratic reorganization. The high level of opposing wick pressure—currently at 82.6—confirms that every advance is met with immediate and forceful rejection, preventing any meaningful continuation. Although continuation scores have ticked up slightly to 31.2, they remain well below the threshold for a stable trend. The market is essentially producing forceful, short-lived moves inside a compressed volatility range instead of building a foundation for sustained momentum. Until the frequency of these local flips subsides and the structural quality improves, the price action will continue to reflect disorder instead of conviction.\n\nPrice is currently pinned against immediate resistance at 0.82141, which marks the upper Bollinger band. A reclaim of this area, followed by the zone of confirmed pivots between 0.823 and 0.826, is necessary to suggest any shift toward bullish conviction. Overhead, the falling regression line at 0.82846 serves as the primary barrier for the broader trend, keeping the market contained even if the current bullish extension finds more room. Below, support is clustered around the 0.81688 middle Bollinger band and the SAR level at 0.81383. This zone is reinforced by the harmonic D-point at 0.81323. A break below this support cluster would signal that the recent downside pressure is reasserting control, effectively invalidating the current attempt at a bullish move.\n\nThe current bullish extension has room to maneuver, but the market is not building the momentum required to escape its wider disorder. While the volatility envelope remains broad, the Bollinger bands are actively contracting, signaling that fresh expansion is no longer fueling the move. This compression acts as a caution instead of a sign of stability. Meanwhile, the very high opposing wick pressure of 82.6 suggests that every attempt to push higher is met with immediate rejection, keeping the market trapped in its erratic state. A developing bullish Bat pattern near 0.81323 provides a source of counter-pressure, but it is not a confirmed reversal. The market will remain unresolved until one side can demonstrate the clean, sustained continuation that is currently absent from the price action.\n\nThe broader market remains unresolved as long as rapid flipping, erratic timing, and frequent reversals dominate the price action. This state of disorder fades only when the market achieves a more stable range or develops persistent directional control. The current bullish lean is not yet convincing because the market lacks the necessary structural progress and steadiness. For the bullish case to gain real weight, the price must demonstrate repeated, coherent runs with fewer interruptions and lower opposing wick pressure. Conversely, the current lean weakens if the market fails to hold the recent gains, reclaims the broken swing area, or if the downside pressure reasserts itself through longer, more persistent runs. Until one side establishes that kind of structural persistence, the market will continue to reflect its current high-chop, compressed condition.",
+  "text": "USDCHF is currently pushing higher, with the latest sequence culminating in a 14-unit bullish extension that has reclaimed significant ground. This move is forceful, characterized by expanding volatility and a clear band-ride behavior against the upper Bollinger level at 0.84115. While the broader market condition remains mixed, the immediate advantage sits firmly with buyers. The recent surge has effectively broken through previous swing highs, including the 0.8215 level, signaling a shift in momentum that is supported by accelerating re-acceleration scores. Despite this aggressive advance, the market is still developing a bearish Gartley pattern, suggesting that while the current run is dominant, the structural backdrop remains unresolved and prone to counter-pressure as price tests these elevated levels.\n\nThe market has shifted from a balanced state into a more aggressive expansion, though the broader history still reflects significant disorder. Within the 104-brick window, bullish and bearish runs were historically symmetrical at 16 apiece, with average lengths of 3.5 and 3.0 units respectively. Recent behavior has broken this symmetry. Over the last 12 runs, bullish momentum has accelerated, highlighted by a 14-unit extension that dwarfs the historical average. While bearish runs have become shorter and less frequent, the overall structural quality remains mixed. Buyers clearly hold the immediate advantage, but the persistence of these gains is still being tested against a backdrop that has not yet fully transitioned into a clean, sustained trend.\n\nThe current advance is forceful, but it lacks the consistent timing that would signal a stable, mature trend. While re-acceleration scores have climbed to 71.3, indicating that the move is gaining momentum, the market remains trapped in a state of mixed structural quality. The recent 14-unit extension shows that buyers have successfully pushed price against the upper Bollinger band at 0.84115, yet the broader chop—while declining—still sits at 55.8. This suggests the market is expanding into a new range instead of establishing a clean, orderly path. Because transition pressure remains low at 19.8, the current bullish control is more a product of sharp, localized expansion than a fundamental shift in the underlying market organization.\n\nThe immediate bullish expansion has pushed price directly against the harmonic D level at 0.8395, which now acts as the first point of resistance. Just above this, the upper Bollinger band at 0.84115 serves as the primary overhead barrier, defining the current limit of the band-ride behavior. Should the market pull back, the first support zone sits between 0.837 and 0.838, encompassing recent confirmed highs that price must now hold to maintain its momentum. Further down, the SAR level at 0.83206 provides a secondary reference for bullish control. The broader trend-control area remains anchored around the middle Bollinger band at 0.827 and the regression line at 0.82564, which together define the floor for the current bullish sequence.\n\nThe current bullish expansion is forceful, yet it faces immediate counter-pressure from the developing bearish Gartley pattern at 0.8395. While low opposing wick pressure shows that sellers are struggling to gain traction during this advance, the market is not without limits. The volatility envelope remains very expanded and continues to widen, providing room for the move to persist, but the lack of consistent timing suggests this is a localized burst instead of a stable trend. A pullback would first test the 0.837-0.838 support zone; if price holds there, the bullish case remains intact. However, should the market fail to sustain these levels, the harmonic structure could act as a catalyst for a broader reversal, especially as the structural backdrop remains mixed.\n\nThe broader market remains unresolved, as the persistent disorder and erratic timing keep the current bullish expansion from settling into a clean, sustained trend. This unresolved state will only fade if the market shifts toward a more orderly condition, whether through a stable range or a consistent directional path. The current bullish lean becomes more convincing only if buyers demonstrate steadier timing and repeat these forceful runs without frequent reversals. Conversely, the bullish case weakens if the market loses its current momentum, specifically if price falls back through the 0.837-0.838 support zone or if the bearish Gartley pattern at 0.8395 triggers a persistent counter-move that reclaims the broken swing structure. Until one of these changes sticks, the market remains trapped in its wider, mixed state.",
   "writer_source": "ai",
   "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 761
+  "word_count": 730
 }

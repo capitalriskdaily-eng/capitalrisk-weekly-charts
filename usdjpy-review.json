@@ -1,71 +1,71 @@
 {
   "instrument": "USDJPY",
-  "as_of": "2026-11-06T18:28:23.325000+00:00",
-  "source_run": 42448650192,
-  "review_run": 42448650192,
+  "as_of": "2026-11-16T08:43:07.618000+00:00",
+  "source_run": 43851347526,
+  "review_run": 43851347526,
   "review_version": "writer-v6-market-state",
   "status": "UNRESOLVED",
-  "state": "USDJPY is in a state of directional compression, balancing a dominant uptrend against an unstable, lower-high swing structure.",
+  "state": "The market remains bullishly aligned but is currently stalled within a compressed, low-conviction range.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 80.2,
-      "current": 79.8,
-      "delta": -0.4,
-      "value": "80.2 → 79.8",
-      "change_arrow": "↓"
+      "previous": 73.5,
+      "current": 75.8,
+      "delta": 2.3,
+      "value": "73.5 → 75.8",
+      "change_arrow": "↑"
     },
     {
       "label": "Re-acceleration",
-      "previous": 18.8,
-      "current": 18.6,
-      "delta": -0.2,
-      "value": "18.8 → 18.6",
-      "change_arrow": "↓"
+      "previous": 40.4,
+      "current": 52.3,
+      "delta": 11.9,
+      "value": "40.4 → 52.3",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 75.9,
-      "current": 75.5,
-      "delta": -0.4,
-      "value": "75.9 → 75.5",
-      "change_arrow": "↓"
+      "previous": 41.1,
+      "current": 56.0,
+      "delta": 14.9,
+      "value": "41.1 → 56.0",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 95.1,
-      "current": 92.1,
-      "delta": -3.0,
-      "value": "95.1 → 92.1",
-      "change_arrow": "↓"
+      "previous": 48.2,
+      "current": 84.9,
+      "delta": 36.7,
+      "value": "48.2 → 84.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Balance / chop",
-      "previous": 49.5,
-      "current": 49.5,
-      "delta": 0.0,
-      "value": "49.5 → 49.5",
-      "change_arrow": "→"
+      "previous": 19.5,
+      "current": 19.4,
+      "delta": -0.1,
+      "value": "19.5 → 19.4",
+      "change_arrow": "↓"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "unstable",
+      "current": "mixed",
       "delta": null,
-      "value": "unstable",
+      "value": "mixed",
       "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "USDJPY is currently navigating a period of directional compression where price remains above key support markers, yet the broader structural quality is unstable. While the dominant direction is upward, recent price action has settled into a sequence of lower highs and lower lows, creating a clear tension between the larger trend and the immediate downside swing. The market is currently riding the upper Bollinger band, but with band width contracting, the volatility that previously supported the advance is fading. High opposing wick pressure further complicates the picture, signaling that buyers are meeting consistent resistance. A developing bearish Gartley pattern adds a layer of harmonic counter-pressure, suggesting that the current upward bias is mature and struggling to find fresh momentum to break through overhead levels.",
-    "The broader 104-brick window shows a market that has historically favored bullish runs, with an average move of 3.28 compared to 2.65 for bearish declines. However, recent behavior reveals a distinct shift in the quality of these advances. Over the last 12 runs, the average bearish move has extended to 3.83, surpassing the average bullish run of 3.5. This reversal in run-length dominance highlights that selling pressure is now more persistent than it was across the full sample. While the market remains in an upward trend, the recent sequence of lower highs and lower lows shows that buyers are struggling to maintain the same force they previously held. The dominant trend is contracting, and the market is losing the expansionary quality that once defined its strength.",
-    "The current directional move lacks the stability required for a clean trend. While price maintains an upward bias, the internal scores for continuation and re-acceleration are drifting lower, showing that the market is struggling to find fresh momentum. Compression is high and rising, which confirms that the move is occurring within a narrowing volatility range instead of an open, expanding one. This creates a forceful appearance that masks an underlying lack of structural conviction. Sellers are increasingly active, as evidenced by the high opposing wick pressure and the recent shift in run-length dominance toward the downside. The market is essentially moving through a period of transition where the previous bullish force is being tested by persistent, short-term counter-swings, leaving the overall quality of control in an unstable state.",
-    "The market currently operates within a tight structural corridor. Overhead, the zone between 158.50 and 158.60 serves as the first meaningful resistance area, incorporating recent confirmed high pivots and the upper Bollinger band at 158.53. A move beyond this, toward the 158.75-158.85 range, would encounter further resistance from harmonic D and X levels. Below price, a critical support zone sits between 157.71 and 157.95. This area clusters the SAR level at 157.71, the regression line at 157.89, and the middle Bollinger band at 157.95. As long as price holds above this zone, the bullish bias remains technically intact. However, a breach of this support would signal that the recent downside swing has gained enough force to challenge the larger trend.",
-    "The current upward move persists, but its ability to sustain momentum is increasingly questioned by the market structure. While price continues to ride the upper Bollinger band, the volatility envelope is narrowing, indicating that fresh expansionary force is no longer fueling the advance. This contraction in the volatility range is a warning sign instead of a confirmation of further upside. High opposing wick pressure further complicates the outlook, as buyers consistently encounter rejection at higher levels. Meanwhile, the developing bearish Gartley pattern serves as a source of harmonic counter-pressure. While this pattern does not confirm a reversal, it highlights that the current bullish extension is mature and vulnerable to interruption. The market remains in an upward bias, but the combination of fading volatility and persistent rejection makes the current advance fragile.",
-    "The broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents any single side from establishing lasting control. This disorder will only fade if the market settles into a more stable range or develops a persistent, directional trend. The current bullish lean becomes more convincing only if the market sheds this instability, showing steadier timing and repeated, coherent runs that demonstrate structural progress. Conversely, the bullish case weakens if sellers gain persistent control, particularly if they reclaim the support zone between 157.71 and 157.95. A breach of these levels, combined with longer counter-runs that invalidate the recent bullish evidence, would shift the market away from its current fragile state and toward a more definitive downward bias."
+    "USDJPY is currently navigating a period of directional compression where the broader bullish trend remains intact but lacks the momentum to sustain a clean breakout. Price sits at 159.65, positioned below the middle Bollinger band at 159.70, reflecting a market that has stalled within its recent range. While the confirmed swing structure maintains a series of higher highs and higher lows, the overall quality of this movement is rapidly weakening. The market is caught between a developing bullish Gartley pattern near 159.35 and overhead resistance from the SAR level at 160.06. With volatility contracting and timing consistency remaining low, the current sequence shows a market that is struggling to find a clear path forward despite the underlying bullish alignment.",
+    "The broader history within the 104-brick window shows a market that has historically favored bullish runs, with an average length of 3.65 compared to 2.62 for bearish moves. However, recent behavior reveals a distinct shift toward instability. While bullish runs still average 3.83, the frequency of counter-moves has increased, and the overall average run length has compressed to 2.83. This contraction in run length, paired with a sharp rise in compression and transition pressure, indicates that the bullish bias is losing its clean, directional edge. Buyers are still present, but their ability to extend gains is meeting more frequent resistance. The market is moving from a state of sustained bullish persistence into a more fragmented environment where directional conviction is rapidly fading.",
+    "The current market is defined by a sharp rise in compression, which has jumped to 84.9. This indicates that price is not so much trending as it is trapped within a narrowing range. While continuation scores remain relatively high at 75.8, the actual movement is becoming increasingly disjointed. Buyers are still holding the primary direction, but their influence is being challenged by a notable increase in transition pressure and re-acceleration. This combination suggests that the bullish force is losing its stability. Instead of a clean, persistent advance, the market is producing shorter, more volatile runs that frequently encounter counter-pressure. The result is a structure that feels forceful but lacks the internal consistency required to sustain a breakout, leaving the market in a state of unresolved directional compression.",
+    "The market is currently bounded by a tight structural corridor that highlights its lack of directional conviction. To the downside, the area between 159.27 and 159.35 serves as the primary support zone, encompassing the LR150 regression line, the lower Bollinger band, and the recent confirmed low pivot. This cluster provides a meaningful floor for the current bullish structure. Overhead, the first resistance area sits between 159.70 and 160.10, where the middle Bollinger band, the SAR level, and the upper Bollinger band converge. Clearing this zone is necessary to restore bullish momentum. Beyond this, the larger trend-control barrier remains defined by the 160.10 high pivot, which marks the current ceiling for the broader bullish trend.",
+    "The market remains trapped in a state of directional compression where the bullish bias persists but lacks the force to break out. While the volatility envelope is broad, it is actively contracting, suggesting that fresh momentum is no longer building behind the current price action. This contraction acts as a caution instead of a confirmation of continuation. Counter-pressure is present in the form of a developing bullish Gartley pattern near 159.35, which provides a potential floor but does not guarantee a reversal. Moderate wick pressure and the SAR level at 160.06 continue to act as overhead friction. The bearish case would only gain traction if sellers manage to reorganize and reclaim the support zone, while a sustained move above 160.10 would be required to restore clean bullish momentum.",
+    "The broader market remains unresolved as long as rapid switching and erratic timing keep price trapped in its current state of directional compression. This disorder only fades if the market transitions into a more stable range or establishes persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers demonstrate repeated runs with steadier timing and coherent pace. Conversely, the bullish case weakens if sellers gain persistent control, reclaim the 159.27-159.35 support zone, or if counter-moves begin to last longer than recent bullish extensions. Until one of these shifts occurs, the market will likely continue to produce forceful but disjointed movement that lacks the internal consistency required for a clean, sustained breakout."
   ],
-  "text": "USDJPY is currently navigating a period of directional compression where price remains above key support markers, yet the broader structural quality is unstable. While the dominant direction is upward, recent price action has settled into a sequence of lower highs and lower lows, creating a clear tension between the larger trend and the immediate downside swing. The market is currently riding the upper Bollinger band, but with band width contracting, the volatility that previously supported the advance is fading. High opposing wick pressure further complicates the picture, signaling that buyers are meeting consistent resistance. A developing bearish Gartley pattern adds a layer of harmonic counter-pressure, suggesting that the current upward bias is mature and struggling to find fresh momentum to break through overhead levels.\n\nThe broader 104-brick window shows a market that has historically favored bullish runs, with an average move of 3.28 compared to 2.65 for bearish declines. However, recent behavior reveals a distinct shift in the quality of these advances. Over the last 12 runs, the average bearish move has extended to 3.83, surpassing the average bullish run of 3.5. This reversal in run-length dominance highlights that selling pressure is now more persistent than it was across the full sample. While the market remains in an upward trend, the recent sequence of lower highs and lower lows shows that buyers are struggling to maintain the same force they previously held. The dominant trend is contracting, and the market is losing the expansionary quality that once defined its strength.\n\nThe current directional move lacks the stability required for a clean trend. While price maintains an upward bias, the internal scores for continuation and re-acceleration are drifting lower, showing that the market is struggling to find fresh momentum. Compression is high and rising, which confirms that the move is occurring within a narrowing volatility range instead of an open, expanding one. This creates a forceful appearance that masks an underlying lack of structural conviction. Sellers are increasingly active, as evidenced by the high opposing wick pressure and the recent shift in run-length dominance toward the downside. The market is essentially moving through a period of transition where the previous bullish force is being tested by persistent, short-term counter-swings, leaving the overall quality of control in an unstable state.\n\nThe market currently operates within a tight structural corridor. Overhead, the zone between 158.50 and 158.60 serves as the first meaningful resistance area, incorporating recent confirmed high pivots and the upper Bollinger band at 158.53. A move beyond this, toward the 158.75-158.85 range, would encounter further resistance from harmonic D and X levels. Below price, a critical support zone sits between 157.71 and 157.95. This area clusters the SAR level at 157.71, the regression line at 157.89, and the middle Bollinger band at 157.95. As long as price holds above this zone, the bullish bias remains technically intact. However, a breach of this support would signal that the recent downside swing has gained enough force to challenge the larger trend.\n\nThe current upward move persists, but its ability to sustain momentum is increasingly questioned by the market structure. While price continues to ride the upper Bollinger band, the volatility envelope is narrowing, indicating that fresh expansionary force is no longer fueling the advance. This contraction in the volatility range is a warning sign instead of a confirmation of further upside. High opposing wick pressure further complicates the outlook, as buyers consistently encounter rejection at higher levels. Meanwhile, the developing bearish Gartley pattern serves as a source of harmonic counter-pressure. While this pattern does not confirm a reversal, it highlights that the current bullish extension is mature and vulnerable to interruption. The market remains in an upward bias, but the combination of fading volatility and persistent rejection makes the current advance fragile.\n\nThe broader market remains unresolved, trapped in a state of rapid switching and erratic timing that prevents any single side from establishing lasting control. This disorder will only fade if the market settles into a more stable range or develops a persistent, directional trend. The current bullish lean becomes more convincing only if the market sheds this instability, showing steadier timing and repeated, coherent runs that demonstrate structural progress. Conversely, the bullish case weakens if sellers gain persistent control, particularly if they reclaim the support zone between 157.71 and 157.95. A breach of these levels, combined with longer counter-runs that invalidate the recent bullish evidence, would shift the market away from its current fragile state and toward a more definitive downward bias.",
+  "text": "USDJPY is currently navigating a period of directional compression where the broader bullish trend remains intact but lacks the momentum to sustain a clean breakout. Price sits at 159.65, positioned below the middle Bollinger band at 159.70, reflecting a market that has stalled within its recent range. While the confirmed swing structure maintains a series of higher highs and higher lows, the overall quality of this movement is rapidly weakening. The market is caught between a developing bullish Gartley pattern near 159.35 and overhead resistance from the SAR level at 160.06. With volatility contracting and timing consistency remaining low, the current sequence shows a market that is struggling to find a clear path forward despite the underlying bullish alignment.\n\nThe broader history within the 104-brick window shows a market that has historically favored bullish runs, with an average length of 3.65 compared to 2.62 for bearish moves. However, recent behavior reveals a distinct shift toward instability. While bullish runs still average 3.83, the frequency of counter-moves has increased, and the overall average run length has compressed to 2.83. This contraction in run length, paired with a sharp rise in compression and transition pressure, indicates that the bullish bias is losing its clean, directional edge. Buyers are still present, but their ability to extend gains is meeting more frequent resistance. The market is moving from a state of sustained bullish persistence into a more fragmented environment where directional conviction is rapidly fading.\n\nThe current market is defined by a sharp rise in compression, which has jumped to 84.9. This indicates that price is not so much trending as it is trapped within a narrowing range. While continuation scores remain relatively high at 75.8, the actual movement is becoming increasingly disjointed. Buyers are still holding the primary direction, but their influence is being challenged by a notable increase in transition pressure and re-acceleration. This combination suggests that the bullish force is losing its stability. Instead of a clean, persistent advance, the market is producing shorter, more volatile runs that frequently encounter counter-pressure. The result is a structure that feels forceful but lacks the internal consistency required to sustain a breakout, leaving the market in a state of unresolved directional compression.\n\nThe market is currently bounded by a tight structural corridor that highlights its lack of directional conviction. To the downside, the area between 159.27 and 159.35 serves as the primary support zone, encompassing the LR150 regression line, the lower Bollinger band, and the recent confirmed low pivot. This cluster provides a meaningful floor for the current bullish structure. Overhead, the first resistance area sits between 159.70 and 160.10, where the middle Bollinger band, the SAR level, and the upper Bollinger band converge. Clearing this zone is necessary to restore bullish momentum. Beyond this, the larger trend-control barrier remains defined by the 160.10 high pivot, which marks the current ceiling for the broader bullish trend.\n\nThe market remains trapped in a state of directional compression where the bullish bias persists but lacks the force to break out. While the volatility envelope is broad, it is actively contracting, suggesting that fresh momentum is no longer building behind the current price action. This contraction acts as a caution instead of a confirmation of continuation. Counter-pressure is present in the form of a developing bullish Gartley pattern near 159.35, which provides a potential floor but does not guarantee a reversal. Moderate wick pressure and the SAR level at 160.06 continue to act as overhead friction. The bearish case would only gain traction if sellers manage to reorganize and reclaim the support zone, while a sustained move above 160.10 would be required to restore clean bullish momentum.\n\nThe broader market remains unresolved as long as rapid switching and erratic timing keep price trapped in its current state of directional compression. This disorder only fades if the market transitions into a more stable range or establishes persistent directional control. The current bullish lean becomes more convincing only if instability decreases and buyers demonstrate repeated runs with steadier timing and coherent pace. Conversely, the bullish case weakens if sellers gain persistent control, reclaim the 159.27-159.35 support zone, or if counter-moves begin to last longer than recent bullish extensions. Until one of these shifts occurs, the market will likely continue to produce forceful but disjointed movement that lacks the internal consistency required for a clean, sustained breakout.",
   "writer_source": "ai",
   "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 767
+  "word_count": 747
 }

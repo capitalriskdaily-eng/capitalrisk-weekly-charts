@@ -1,71 +1,71 @@
 {
   "instrument": "BRENT",
-  "as_of": "2026-11-06T21:04:22.502000+00:00",
-  "source_run": 42448650192,
-  "review_run": 42448650192,
+  "as_of": "2026-11-16T12:52:28.590000+00:00",
+  "source_run": 43851347526,
+  "review_run": 43851347526,
   "review_version": "writer-v6-market-state",
   "status": "OK",
-  "state": "Brent remains stuck in a non-directional state, caught between immediate bearish pressure and broader structural support.",
+  "state": "Sellers maintain immediate control as price tests the 94.3 harmonic completion level.",
   "display_states": [
     {
       "label": "Continuation",
-      "previous": 31.4,
-      "current": 33.7,
-      "delta": 2.3,
-      "value": "31.4 → 33.7",
-      "change_arrow": "↑"
+      "previous": 62.4,
+      "current": 62.0,
+      "delta": -0.4,
+      "value": "62.4 → 62.0",
+      "change_arrow": "↓"
     },
     {
       "label": "Re-acceleration",
-      "previous": 10.5,
-      "current": 6.9,
-      "delta": -3.6,
-      "value": "10.5 → 6.9",
-      "change_arrow": "↓"
+      "previous": 6.7,
+      "current": 13.6,
+      "delta": 6.9,
+      "value": "6.7 → 13.6",
+      "change_arrow": "↑"
     },
     {
       "label": "Transition pressure",
-      "previous": 65.8,
-      "current": 19.4,
-      "delta": -46.4,
-      "value": "65.8 → 19.4",
-      "change_arrow": "↓"
+      "previous": 46.2,
+      "current": 50.2,
+      "delta": 4.0,
+      "value": "46.2 → 50.2",
+      "change_arrow": "↑"
     },
     {
       "label": "Compression",
-      "previous": 27.3,
-      "current": 27.3,
-      "delta": 0.0,
-      "value": "27.3 → 27.3",
-      "change_arrow": "→"
+      "previous": 43.5,
+      "current": 34.4,
+      "delta": -9.1,
+      "value": "43.5 → 34.4",
+      "change_arrow": "↓"
     },
     {
       "label": "Balance / chop",
-      "previous": 94.9,
-      "current": 91.9,
-      "delta": -3.0,
-      "value": "94.9 → 91.9",
-      "change_arrow": "↓"
+      "previous": 40.2,
+      "current": 41.9,
+      "delta": 1.7,
+      "value": "40.2 → 41.9",
+      "change_arrow": "↑"
     },
     {
       "label": "Structural quality",
       "previous": null,
-      "current": "mixed",
+      "current": "orderly",
       "delta": null,
-      "value": "mixed",
-      "change_arrow": "↑"
+      "value": "orderly",
+      "change_arrow": "→"
     }
   ],
   "paragraphs": [
-    "Brent is currently navigating a period of high disorder where neither buyers nor sellers can establish a lasting directional footprint. While the most recent sequence shows a bearish lean with a 5-unit run, the broader market structure remains non-directional and trapped within a wide, expanding volatility range. The price of 97.75 sits just below the middle Bollinger band at 97.99, yet it holds near the upward-sloping 150-period regression line at 97.735. This creates a tug-of-war between the immediate downside pressure and the underlying structural support. With high opposing wick pressure and a lack of clean continuation, the market is currently defined more by its inability to commit to a trend than by any specific directional advantage.",
-    "The broader history of Brent, viewed through the 104-brick window, shows a market that has struggled to maintain any directional conviction. While the full sample is nearly split between 55 bearish moves and 49 bullish ones, recent behavior reveals a shift toward sharper, more frequent alternation. In the last 12 runs, bullish counters have actually averaged 3.67 units compared to 2.67 for bearish declines, even though the latest sequence is a 5-unit downside run. This contrast highlights that while sellers have gained immediate momentum, they lack the persistence to override the underlying disorder. With high opposing wick pressure remaining a constant feature, the recent bearish extension is fighting against a market that is fundamentally prone to rapid reversals instead of sustained trends.",
-    "The current bearish move is forceful but lacks the structural stability to suggest a genuine trend shift. While the recent 5-unit decline shows immediate momentum, re-acceleration has actually dropped to 6.9, indicating that the move is losing its internal drive as it progresses. This is consistent with a market where continuation remains low at 33.7 and high opposing wick pressure—currently at 63.5%—regularly disrupts progress. The market is essentially experiencing a series of sharp, short-lived impulses instead of a controlled directional advance. With balance and chop scores remaining elevated at 91.9, the price action is trapped in a state of disorder. The recent bearish extension is fighting against a broader environment that is fundamentally prone to rapid, reflexive reversals.",
-    "Brent currently trades in a tight corridor, with immediate support resting at the 97.60-97.735 zone, which encompasses the latest confirmed low pivot and the upward-sloping 150-period regression line. This area acts as the primary floor for the current bearish sequence. Overhead, the first resistance zone sits between 97.90 and 98.05, anchored by the middle Bollinger band and recent pivot activity. A more significant barrier exists at 98.635-98.819, where the SAR level converges with the harmonic Gartley D-point and the upper Bollinger band. This upper cluster represents the larger trend-control area; reclaiming these levels would be required to shift the current bearish lean, though the market remains trapped in a wide, expanding volatility range that complicates any sustained directional breakout.",
-    "The current bearish sequence holds enough momentum to test lower support, yet the market remains prone to interruption. High opposing wick pressure, currently at 63.5%, acts as a persistent barrier to sustained downside movement, reflecting a market that frequently rejects price extremes. While the volatility envelope is broad and expanding, fresh volatility is not building behind the selloff, suggesting the move is becoming sharper without gaining structural depth. A developing Gartley pattern near 98.655 provides a source of potential counter-pressure, though it remains a developing signal instead of a confirmed reversal. The bearish case improves if sellers extend the decline with steadier timing and fewer reversals. Conversely, a recovery through the 97.90-98.05 resistance zone would weaken the immediate directional lean.",
-    "The broader market remains unresolved, trapped in a state of disorder defined by frequent reversals and erratic timing. This background of high chop and lack of directional conviction will only fade if the market shifts toward a more stable range or develops a persistent, orderly trend. The current bearish lean is immediate, but it lacks the structural stability to suggest a lasting shift. It would become more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing with repeated, coherent downside runs. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the 97.90-98.05 resistance zone, or if the market invalidates the current bearish sequence by establishing a new, sustained bullish structure. Until one of these changes takes hold, the market remains caught in its wider, non-directional expansion."
+    "Brent is currently testing a critical structural boundary as price sits at 94.3, a level defined by the completion of a developing Deep Crab harmonic pattern. The immediate market is bearish, with price trading below the SAR level of 94.899 and the 150-period regression line at 95.58. Recent swing structure has shifted to a series of lower highs and lower lows, confirming that the current downside run has broken the previous support at 94.9. While the broader 104-move sample remains directional and orderly, the recent sequence shows sellers holding the initiative. The market is not yet in a state of freefall, but the persistent pressure against the lower Bollinger band at 94.34 indicates that the current decline is actively challenging the established bullish trend.",
+    "The broader 104-brick window reflects a market that has historically maintained an orderly, directional character, but recent behavior shows a distinct shift in pressure. While the full sample shows a balanced distribution of 52 bullish and 52 bearish moves, the most recent 53-move sequence highlights a rise in selling intensity. Average bearish runs have extended to 4.83, notably outpacing the 4.0 average for bullish counters. This contrasts with the longer-term history where bullish and bearish runs were more closely matched. While the market retains its structural quality, the recent acceleration of bearish runs and the current test of the lower Bollinger band indicate that sellers are now exerting more influence than the broader history would suggest.",
+    "The recent decline is forceful, but it lacks the clean, sustained quality of a dominant trend. While bearish runs have extended to an average of 4.83, the market is not yet locked into a one-sided expansion. Compression has dropped significantly to 34.4, suggesting that the market is shedding its previous range-bound behavior, yet re-acceleration remains low at 13.6. This indicates that while sellers have successfully pushed price lower, they are struggling to build a truly aggressive, runaway move. The current state is best described as a controlled pullback where the bearish pressure is consistent but not yet overwhelming. The market is moving with enough intent to challenge support, but it still retains enough internal balance to prevent a clean, structural breakdown.",
+    "The market currently rests at 94.3, a level defined by the completion of a developing Deep Crab harmonic pattern. This area serves as the immediate focal point for price. Overhead, the first reclaim zone sits between 94.45 and 94.9, encompassing the recent confirmed low pivot and the broken support level that sellers have now reclaimed. A more significant resistance area follows from 94.9 to 95.58, where the SAR level and the 150-period regression line converge to create a larger trend-control barrier. Price must clear this zone to shift the current bearish initiative. Below 94.3, support is less defined, with the next confirmed pivot levels appearing near 94.2 and 93.75. These levels collectively map the boundaries where the current bearish pressure faces its most immediate structural tests.",
+    "The current bearish pressure is testing the 94.3 level, which aligns with the completion of a developing Deep Crab harmonic pattern. This pattern introduces counter-pressure, though it does not confirm a reversal. While the Bollinger bands are expanding and price is riding the lower band at 94.34, the lack of aggressive re-acceleration—currently at 13.6—suggests the decline is not yet a runaway move. Moderate wick rejection shows that buyers are present, even if they remain subordinate to the recent sequence of lower highs and lower lows. The bearish case remains valid as long as sellers maintain this steady pace, but the market's internal balance and the developing harmonic structure provide a credible source of friction that could interrupt the current downside run.",
+    "The broader market remains unresolved, characterized by rapid switching and erratic timing that keep the overall structure in a state of disorder. This unresolved background will only fade if the market settles into a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing, a more coherent pace, and continued structural progress below 94.3. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken support zone between 94.45 and 94.9, or force a longer counter-run that invalidates the current downside sequence. Until one of these shifts occurs, the market will likely continue to balance immediate bearish pressure against its broader structural disorder."
   ],
-  "text": "Brent is currently navigating a period of high disorder where neither buyers nor sellers can establish a lasting directional footprint. While the most recent sequence shows a bearish lean with a 5-unit run, the broader market structure remains non-directional and trapped within a wide, expanding volatility range. The price of 97.75 sits just below the middle Bollinger band at 97.99, yet it holds near the upward-sloping 150-period regression line at 97.735. This creates a tug-of-war between the immediate downside pressure and the underlying structural support. With high opposing wick pressure and a lack of clean continuation, the market is currently defined more by its inability to commit to a trend than by any specific directional advantage.\n\nThe broader history of Brent, viewed through the 104-brick window, shows a market that has struggled to maintain any directional conviction. While the full sample is nearly split between 55 bearish moves and 49 bullish ones, recent behavior reveals a shift toward sharper, more frequent alternation. In the last 12 runs, bullish counters have actually averaged 3.67 units compared to 2.67 for bearish declines, even though the latest sequence is a 5-unit downside run. This contrast highlights that while sellers have gained immediate momentum, they lack the persistence to override the underlying disorder. With high opposing wick pressure remaining a constant feature, the recent bearish extension is fighting against a market that is fundamentally prone to rapid reversals instead of sustained trends.\n\nThe current bearish move is forceful but lacks the structural stability to suggest a genuine trend shift. While the recent 5-unit decline shows immediate momentum, re-acceleration has actually dropped to 6.9, indicating that the move is losing its internal drive as it progresses. This is consistent with a market where continuation remains low at 33.7 and high opposing wick pressure—currently at 63.5%—regularly disrupts progress. The market is essentially experiencing a series of sharp, short-lived impulses instead of a controlled directional advance. With balance and chop scores remaining elevated at 91.9, the price action is trapped in a state of disorder. The recent bearish extension is fighting against a broader environment that is fundamentally prone to rapid, reflexive reversals.\n\nBrent currently trades in a tight corridor, with immediate support resting at the 97.60-97.735 zone, which encompasses the latest confirmed low pivot and the upward-sloping 150-period regression line. This area acts as the primary floor for the current bearish sequence. Overhead, the first resistance zone sits between 97.90 and 98.05, anchored by the middle Bollinger band and recent pivot activity. A more significant barrier exists at 98.635-98.819, where the SAR level converges with the harmonic Gartley D-point and the upper Bollinger band. This upper cluster represents the larger trend-control area; reclaiming these levels would be required to shift the current bearish lean, though the market remains trapped in a wide, expanding volatility range that complicates any sustained directional breakout.\n\nThe current bearish sequence holds enough momentum to test lower support, yet the market remains prone to interruption. High opposing wick pressure, currently at 63.5%, acts as a persistent barrier to sustained downside movement, reflecting a market that frequently rejects price extremes. While the volatility envelope is broad and expanding, fresh volatility is not building behind the selloff, suggesting the move is becoming sharper without gaining structural depth. A developing Gartley pattern near 98.655 provides a source of potential counter-pressure, though it remains a developing signal instead of a confirmed reversal. The bearish case improves if sellers extend the decline with steadier timing and fewer reversals. Conversely, a recovery through the 97.90-98.05 resistance zone would weaken the immediate directional lean.\n\nThe broader market remains unresolved, trapped in a state of disorder defined by frequent reversals and erratic timing. This background of high chop and lack of directional conviction will only fade if the market shifts toward a more stable range or develops a persistent, orderly trend. The current bearish lean is immediate, but it lacks the structural stability to suggest a lasting shift. It would become more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing with repeated, coherent downside runs. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the 97.90-98.05 resistance zone, or if the market invalidates the current bearish sequence by establishing a new, sustained bullish structure. Until one of these changes takes hold, the market remains caught in its wider, non-directional expansion.",
+  "text": "Brent is currently testing a critical structural boundary as price sits at 94.3, a level defined by the completion of a developing Deep Crab harmonic pattern. The immediate market is bearish, with price trading below the SAR level of 94.899 and the 150-period regression line at 95.58. Recent swing structure has shifted to a series of lower highs and lower lows, confirming that the current downside run has broken the previous support at 94.9. While the broader 104-move sample remains directional and orderly, the recent sequence shows sellers holding the initiative. The market is not yet in a state of freefall, but the persistent pressure against the lower Bollinger band at 94.34 indicates that the current decline is actively challenging the established bullish trend.\n\nThe broader 104-brick window reflects a market that has historically maintained an orderly, directional character, but recent behavior shows a distinct shift in pressure. While the full sample shows a balanced distribution of 52 bullish and 52 bearish moves, the most recent 53-move sequence highlights a rise in selling intensity. Average bearish runs have extended to 4.83, notably outpacing the 4.0 average for bullish counters. This contrasts with the longer-term history where bullish and bearish runs were more closely matched. While the market retains its structural quality, the recent acceleration of bearish runs and the current test of the lower Bollinger band indicate that sellers are now exerting more influence than the broader history would suggest.\n\nThe recent decline is forceful, but it lacks the clean, sustained quality of a dominant trend. While bearish runs have extended to an average of 4.83, the market is not yet locked into a one-sided expansion. Compression has dropped significantly to 34.4, suggesting that the market is shedding its previous range-bound behavior, yet re-acceleration remains low at 13.6. This indicates that while sellers have successfully pushed price lower, they are struggling to build a truly aggressive, runaway move. The current state is best described as a controlled pullback where the bearish pressure is consistent but not yet overwhelming. The market is moving with enough intent to challenge support, but it still retains enough internal balance to prevent a clean, structural breakdown.\n\nThe market currently rests at 94.3, a level defined by the completion of a developing Deep Crab harmonic pattern. This area serves as the immediate focal point for price. Overhead, the first reclaim zone sits between 94.45 and 94.9, encompassing the recent confirmed low pivot and the broken support level that sellers have now reclaimed. A more significant resistance area follows from 94.9 to 95.58, where the SAR level and the 150-period regression line converge to create a larger trend-control barrier. Price must clear this zone to shift the current bearish initiative. Below 94.3, support is less defined, with the next confirmed pivot levels appearing near 94.2 and 93.75. These levels collectively map the boundaries where the current bearish pressure faces its most immediate structural tests.\n\nThe current bearish pressure is testing the 94.3 level, which aligns with the completion of a developing Deep Crab harmonic pattern. This pattern introduces counter-pressure, though it does not confirm a reversal. While the Bollinger bands are expanding and price is riding the lower band at 94.34, the lack of aggressive re-acceleration—currently at 13.6—suggests the decline is not yet a runaway move. Moderate wick rejection shows that buyers are present, even if they remain subordinate to the recent sequence of lower highs and lower lows. The bearish case remains valid as long as sellers maintain this steady pace, but the market's internal balance and the developing harmonic structure provide a credible source of friction that could interrupt the current downside run.\n\nThe broader market remains unresolved, characterized by rapid switching and erratic timing that keep the overall structure in a state of disorder. This unresolved background will only fade if the market settles into a more stable range or develops persistent directional control. The current bearish lean becomes more convincing only if sellers decrease the frequency of reversals and demonstrate steadier timing, a more coherent pace, and continued structural progress below 94.3. Conversely, the bearish case weakens if buyers gain persistent control, reclaim the broken support zone between 94.45 and 94.9, or force a longer counter-run that invalidates the current downside sequence. Until one of these shifts occurs, the market will likely continue to balance immediate bearish pressure against its broader structural disorder.",
   "writer_source": "ai",
   "writer_model": "gemini-3.1-flash-lite",
-  "word_count": 750
+  "word_count": 756
 }
